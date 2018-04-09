@@ -10,4 +10,7 @@ dataprocessing项目各个程序的功能
 
 dataprocessing主要干的事情:
 ------------------------------
-1.  db -> json
+1. db -> json
+2. json -> db 地址是 data@dc8:~/yanghongkai/recorder_server_data/dialog_record_20180408_5000
+3. json -> anafora
+4. anafora -> json
