@@ -6,4 +6,4 @@ dataprocessing项目各个程序的功能
 
 > 2.dataprocessing.py:提取每个asr为一句话放到anafora平台解析  (!!!!注意:要每次给一次权限)
 
-> 3.parse.py:将anafora平台的.xml文件(加标签)转成json(具体操作还有**疑问**???)
+> 3.parse.py:将anafora平台的.xml文件(加标签)转成json(具体操作还有*疑问*???)
