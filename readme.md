@@ -14,3 +14,6 @@ dataprocessing主要干的事情:
 2. json -> db 地址是 data@dc8:~/yanghongkai/recorder_server_data/dialog_record_20180408_5000
 3. json -> anafora
 4. anafora -> json
+
+
+不要把.py文件命名为 库.py会被调用!!!!!!!!!!!!!!!!!!!!!!!
