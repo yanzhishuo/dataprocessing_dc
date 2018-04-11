@@ -144,3 +144,7 @@ f = open(shoplistfile, 'rb')
 storedlist = pickle.load(f)
 
 print(storedlist)
+
+装工厂函数:
+================
+pip install fake-factory==0.7.4
