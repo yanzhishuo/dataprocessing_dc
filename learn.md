@@ -122,3 +122,23 @@ import random
 
 random.choice( seq  )
 seq -- 可以是一个列表，元组或字符串
+## 2.pickle
+python3.2中的pickle模块简单的理解是为了序列化/反序列化一个对象的，作用是可以把一个对象持久化存储。
+
+pickle模块对数据的简单存储处理的方法：
+import pickle
+ 
+shoplistfile = 'shoplist.data'
+shoplist = ['apple', 'mango', 'carrot']
+ 
+
+f = open(shoplistfile, 'wb')
+ 
+pickle.dump(shoplist, f) # dump the object to a file
+f.close()
+ 
+del shoplist # remove the shoplist
+ 
+f = open(shoplistfile, 'rb')
+storedlist = pickle.load(f)
+print(storedlist)
