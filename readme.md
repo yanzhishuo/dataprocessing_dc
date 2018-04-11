@@ -24,7 +24,7 @@ dataprocessing项目各个程序的功能
       <td>DBC2SBC</td>
       <td>输入是字符串</td>
       <td>ord(str)-0xfee0</td>
-      <td>全角字符unicode编码从65281~65374 （十六进制 0xFF01 ~ 0xFF5E）半角字符unicode编码从33~126 （十六进制 0x21~ 0x7E）</td>
+      <td>全角字符unicode编码从65281~65374 （十六进制 0xFF01 ~ 0xFF5E）半角字符unicode编码从33~126 （十六进制 0x21~ 0x7E）特例：空格比较特殊，全角为 12288（0x3000），半角为 32（0x20） </td>
       <td>ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git</td>
   </tr>
 </table>
