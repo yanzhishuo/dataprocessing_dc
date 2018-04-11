@@ -64,17 +64,26 @@ rwxrw-rwt 表示有sticky标志
 
 # Git 用法
 第一次建立仓库:
-Git global setup
+### Git global setup
+
 git config --global user.name "yzs"
+
 git config --global user.email "1353847394@qq.com"
-Create a new repository
+
+### Create a new repository
 git clone ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git
+
 cd dataprocessing
+
 touch README.md
+
 git add README.md
+
 git commit -m "add README"
+
 git push -u origin master
-Existing folder
+
+### Existing folder
 cd existing_folder
 git init
 git remote add origin ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git
@@ -90,4 +99,5 @@ git commit -m '随意写'
 git pull
 git push
 另:git log 看改动
+
    git status 看状态
