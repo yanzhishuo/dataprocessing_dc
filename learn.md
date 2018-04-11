@@ -114,3 +114,11 @@ git push
 另:git log 看改动
 
    git status 看状态
+   
+ 
+# python
+## 1.choice()
+import random
+
+random.choice( seq  )
+seq -- 可以是一个列表，元组或字符串
