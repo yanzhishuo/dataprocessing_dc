@@ -23,7 +23,7 @@ dataprocessing项目各个程序的功能
       <td>DBC2SBC</td>
       <td>输入是字符串</td>
       <td>ord(str)-0xfee0</td>
-      <td></td>
+      <td>ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git</td>
   </tr>
 </table>
 
