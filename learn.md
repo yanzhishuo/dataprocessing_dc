@@ -62,6 +62,8 @@ rwxrw-rwt 表示有sticky标志
 
 #### tree -L 2 看结构
 
+#### touch命令不常用，用来修改文件时间戳，或者新建一个不存在的文件。
+
 # Git 用法
 第一次建立仓库:
 ### Git global setup
