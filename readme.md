@@ -20,10 +20,10 @@ dataprocessing项目各个程序的功能
    <tr>
       <td>1</td>
       <td>quanjiao2banjiao.py</td>
-      <td>完成情况</td>
-      <td>备注</td>
-      <td>完成情况</td>
-      <td>备注</td>
+      <td>DBC2SBC</td>
+      <td>输入是字符串</td>
+      <td>ord(str)-0xfee0</td>
+      <td></td>
   </tr>
 </table>
 
