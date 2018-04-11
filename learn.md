@@ -29,3 +29,33 @@ chmod
 “a”表示所有用户，“u”表示创建者、“g”表示创建者同组用户、“o”表示其他用户；“+”表示添加权限，“-”表示取消权限；“r”表示读权限、“w”表示写权限、“x”表示写权限
 
 ` sudo chmod -R 770 *` -rwx------ (700) -- 只有属主有读、写、执行权限
+ 
+` sudo find -type d -exec chmod g+s {} \; `
+
+ 操作这些标志与操作文件权限的命令是一样的, 都是 chmod. 有两种方法来操作,
+
+1) chmod u+s temp — 为temp文件加上setuid标志. (setuid 只对文件有效)
+
+chmod g+s tempdir — 为tempdir目录加上setgid标志 (setgid 只对目录有效)
+
+chmod o+t temp — 为temp文件加上sticky标志 (sticky只对文件有效)
+
+2) 采用八进制方式. 对一般文件通过三组八进制数字来置标志, 如 666, 777, 644等. 如果设置这些特殊标志, 则在这组数字之外外加一组八进制数字. 如
+
+4666, 2777等. 这一组八进制数字三位的意义如下,
+
+abc
+
+a - setuid位, 如果该位为1, 则表示设置setuid
+
+b - setgid位, 如果该位为1, 则表示设置setgid
+
+c - sticky位, 如果该位为1, 则表示设置sticky
+
+设置完这些标志后, 可以用 ls -l 来查看. 如果有这些标志, 则会在原来的执行标志位置上显示. 如
+
+rwsrw-r– 表示有setuid标志
+
+rwxrwsrw- 表示有setgid标志
+
+rwxrw-rwt 表示有sticky标志
