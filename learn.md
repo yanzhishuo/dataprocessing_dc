@@ -85,19 +85,30 @@ git push -u origin master
 
 ### Existing folder
 cd existing_folder
+
 git init
+
 git remote add origin ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git
+
 git add .
+
 git commit -m "Initial commit"
+
 git push -u origin master
 
 之后使用:
 git remote -v 看有没有远程连接
+
 重置远程链接:$ git remote set-url origin ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git
+
 git add 
+
 git commit -m '随意写'
+
 git pull
+
 git push
+
 另:git log 看改动
 
    git status 看状态
