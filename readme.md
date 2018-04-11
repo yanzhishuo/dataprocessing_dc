@@ -17,6 +17,7 @@ dataprocessing项目各个程序的功能
       <th>主要代码</th>
        <th>说明</th>
        <th>地址</th>
+       <th>附录</th>
   </tr>
    <tr>
       <td>1</td>
@@ -26,6 +27,7 @@ dataprocessing项目各个程序的功能
       <td>ord(str)-0xfee0</td>
       <td>全角字符unicode编码从65281~65374 （十六进制 0xFF01 ~ 0xFF5E）半角字符unicode编码从33~126 （十六进制 0x21~ 0x7E）特例：空格比较特殊，全角为 12288（0x3000），半角为 32（0x20） </td>
       <td>ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git</td>
+      <td>hex(10):10进制>16   int('0x10', 16) 16进制>10 oct:10>8  chr(i)返回i对应的ASCII,与ord正好相反</td>
   </tr>
 </table>
 
