@@ -8,8 +8,6 @@ dataprocessing项目各个程序的功能
 
 > 3.parse.py:将anafora平台的.xml文件(加标签)转成json(具体操作还有*疑问*???)
 
-<table><tr><th>Tables</th><th>Are</th><th>Cool</th></tr><tr><td>col 1 is</td><td>left-aligned</td><td>$1600</td></tr><tr><td>col 2 is</td><td>centered</td><td>$12</td></tr><tr><td>col 3 is</td><td>right-aligned</td><td>$1</td></tr></table>
-
 <table>
    <tr>
       <th>                        </th>
