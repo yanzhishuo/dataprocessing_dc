@@ -29,6 +29,16 @@ dataprocessing项目各个程序的功能
       <td>ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git</td>
       <td>hex(10):10进制->16   int('0x10', 16) 16进制->10 oct:10->8  chr(i)返回i对应的ASCII,与ord正好相反</td>
   </tr>
+  <tr>
+      <td>2</td>
+      <td>jsonyzs.py</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
 </table>
 
 dataprocessing主要干的事情:
