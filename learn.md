@@ -59,3 +59,6 @@ rwsrw-r– 表示有setuid标志
 rwxrwsrw- 表示有setgid标志
 
 rwxrw-rwt 表示有sticky标志
+
+#### tree -L 2
+
