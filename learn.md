@@ -3,6 +3,7 @@ linux命令:
 find
 -----
 ###type
+
 -type 是find命令的一个参数：
 
 -type:查找某一类型文档
