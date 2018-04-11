@@ -123,9 +123,9 @@ Please, commit your changes or stash them before you can merge.
 
 看看git stash是如何做的。
 
-git stash
-git pull
-git stash pop
+git stash  
+git pull  
+git stash pop  
 
 接下来diff一下此文件看看自动合并的情况，并作出相应修改。
 
