@@ -1,6 +1,6 @@
-import json
+import jsonyzs
 with open('/home/yzs/json/data0/address_with_id.json') as f:
-    data=json.load(f)
+    data=jsonyzs.load(f)
 print(type(data))
 print(data[0])
 print(type(data[0]))
@@ -13,7 +13,7 @@ for item in data:
         data_output.append(d)
 print(data_output)
 print(type(data_output))
-obj=json.dumps(data_output,ensure_ascii=False,indent=2)
+obj=jsonyzs.dumps(data_output, ensure_ascii=False, indent=2)
 file=open('/home/yzs/yzs.json','w')
 print(type(obj))#dumps是将dict/list转化成str格式
 file.write(obj)
