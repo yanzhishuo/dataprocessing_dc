@@ -14,6 +14,7 @@ dataprocessing项目各个程序的功能
       <th>代码名字</th>
       <th>函数定义</th>
       <th>使用参数</th>
+      <th>主要代码</th>
        <th>说明</th>
        <th>地址</th>
   </tr>
@@ -23,6 +24,7 @@ dataprocessing项目各个程序的功能
       <td>DBC2SBC</td>
       <td>输入是字符串</td>
       <td>ord(str)-0xfee0</td>
+      <td>全角字符unicode编码从65281~65374 （十六进制 0xFF01 ~ 0xFF5E）半角字符unicode编码从33~126 （十六进制 0x21~ 0x7E）</td>
       <td>ssh://git@vcs.fore.run:18622/yzs/dataprocessing.git</td>
   </tr>
 </table>
