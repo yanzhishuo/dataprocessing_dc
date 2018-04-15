@@ -172,6 +172,7 @@ seq -- 可以是一个列表，元组或字符串
 python3.2中的pickle模块简单的理解是为了序列化/反序列化一个对象的，作用是可以把一个对象持久化存储。
 
 pickle模块对数据的简单存储处理的方法：
+```Python
 import pickle
  
 shoplistfile = 'shoplist.data'
@@ -190,7 +191,7 @@ f = open(shoplistfile, 'rb')
 storedlist = pickle.load(f)
 
 print(storedlist)
-
+```
 装工厂函数:
 ================
 pip install fake-factory==0.7.4
@@ -211,6 +212,7 @@ for key in adict.keys(): ...
 if not adict.has_key(key): ...  
 for line in afile.readlines(): ...  
 ```
+```python
 list(tel.keys())  
 ['irv', 'guido', 'jack']  
 del tel['sape'] 删除特定键及其键值  
@@ -223,4 +225,4 @@ dict([('sape', 4139), ('guido', 4127), ('jack', 4098)])
 When the keys are simple strings, it is sometimes easier to specify pairs using keyword arguments:  
 dict(sape=4139, guido=4127, jack=4098)  
 {'sape': 4139, 'jack': 4098, 'guido': 4127}  
-
+```
