@@ -140,13 +140,19 @@ git stash clear: 清空Git栈。此时使用gitg等图形化工具会发现，�
 git reset --hard
 git pull
  
-#### git删除文件夹及其里面文件
+#### git删除远程仓库文件夹及其里面文件
 ```Python
- git rm -r yzs0415
- git commit -m 'delete file'
+git rm -r yzs0415
+git commit -m 'delete file'
 git push
 git status   
 ``` 
+#### git命令行删除远程分支
+```python
+git branch -r
+git branch -r -d origin/branch-name  
+git push origin :branch-name 
+```
 
 # python语法
 ## 1.choice()
