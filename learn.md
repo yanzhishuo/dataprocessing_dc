@@ -64,8 +64,8 @@ rwxrw-rwt 表示有sticky标志
 
 #### touch命令不常用，用来修改文件时间戳，或者新建一个不存在的文件。
 ## cat用法
-`cat > .gitignore` 命令行写一个文件,ctrl+D结束输入
-##ls -a 看全部文件
+`cat > .gitignore` 命令行写一个文件,ctrl+D结束输入  
+## ls -a 看全部文件
 
 # Git 用法
 第一次建立仓库:
@@ -157,9 +157,11 @@ git branch -r -d origin/branch-name
 git push origin :branch-name 
 ```
 #### git上新建一个仓库克隆到本地
-git clone ssh://git@vcs.fore.run:18622/yzs/learnpython.git
-rm .git -rvf 
-
+`git clone ssh://git@vcs.fore.run:18622/yzs/learnpython.git  `
+`rm .git -rvf `
+## 新建仓库的文件夹之后的pull和push:
+`git pull origin master
+git push -u origin master`
 # python语法
 ## 1.choice()
 import random
