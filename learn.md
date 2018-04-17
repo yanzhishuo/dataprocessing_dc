@@ -177,6 +177,28 @@ total 12K
 # yzs @ yzs in ~/.ssh [10:55:36] 
 $ cat id_rsa_gitee.pub 
 ```
+## 有时候会想把github上的文件删除，但是本地仓库里的文件想保留下来该怎么办，只要用三条命令就能完成了
+```
+git rm --cached filename/-r directory
+git commit "xxxx"
+git push
+
+1.删除github文件,本地保留
+
+git rm --cached test.
+txt
+git commit -m "delete file"
+git push
+
+此时github上已经不存在了
+
+2.删除远程code 文件夹,本地保留
+一定要注意，删除文件夹要使用-r 参数
+
+git rm --cached -r code
+git commit -m "delete directory"
+git push
+```
 # python语法
 ## 1.choice()
 import random
