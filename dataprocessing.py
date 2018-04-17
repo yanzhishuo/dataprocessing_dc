@@ -92,7 +92,8 @@ if __name__ == '__main__':
         args.case = 0
     if args.label_d > 999:
         raise ValueError
-    folder = pathlib.Path('label_d{:03d}'.format(args.label_d))
+    # folder = pathlib.Path('label_d{:03d}'.format(args.label_d))
+    folder = pathlib.Path('phonenumber0415'.format(args.label_d))
     if not folder.exists():
         folder.mkdir(mode=0o775)
     in_path = pathlib.Path(args.in_path)
@@ -116,7 +117,7 @@ if __name__ == '__main__':
 
     #print(dataChinese)
     for i, line in enumerate(datafilter):
-            stem = 'case{:05d}'.format(i)
+            stem = 'case{:05d}'.format(i + 500)
             sub_folder = folder.joinpath(stem)
             sub_folder.mkdir(mode=0o775)
             file_path = sub_folder.joinpath(stem)
