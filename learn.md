@@ -185,8 +185,7 @@ git push
 
 1.删除github文件,本地保留
 
-git rm --cached test.
-txt
+git rm --cached test.txt
 git commit -m "delete file"
 git push
 
