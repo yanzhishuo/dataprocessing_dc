@@ -199,6 +199,11 @@ git rm --cached -r code
 git commit -m "delete directory"
 git push
 ```
+## git恢复文件
+```
+git reset --hard HEAD^上一个版本
+git reset --hard HEAD~2 前二个版本
+```
 # python语法
 ## 1.choice()
 import random
