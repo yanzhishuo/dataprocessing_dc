@@ -162,6 +162,21 @@ git push origin :branch-name
 ## 新建仓库的文件夹之后的pull和push:
 `git pull origin master
 git push -u origin master`
+#### git加ssh秘钥
+```
+# yzs @ yzs in ~ [10:55:19] 
+$ cd .ssh                                 
+
+# yzs @ yzs in ~/.ssh [10:55:35] 
+$ ll
+total 12K
+-rw------- 1 yzs yzs 3.2K 4月   1 09:41 id_rsa_gitee
+-rw-r--r-- 1 yzs yzs  733 4月   1 09:41 id_rsa_gitee.pub
+-rw-r--r-- 1 yzs yzs 1.4K 4月   4 15:23 known_hosts
+
+# yzs @ yzs in ~/.ssh [10:55:36] 
+$ cat id_rsa_gitee.pub 
+```
 # python语法
 ## 1.choice()
 import random
