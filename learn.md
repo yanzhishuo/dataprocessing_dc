@@ -235,6 +235,7 @@ print(storedlist)
 ```
 装工厂函数:
 ================
+pip install faker:Successfully installed faker-0.8.13 text-unidecode-1.2
 pip install fake-factory==0.7.4
 
 ## dict字典的学习
