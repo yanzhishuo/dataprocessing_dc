@@ -2,432 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af32ec71-80b7-4bdb-8879-5df14ad36f23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/autodataprocessing.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/bin/python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/bin/python3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/bin/python3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/include/python3.5m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/__future__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/_bootlocale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/_collections_abc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/_dummy_thread.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/_weakrefset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/abc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/base64.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/bisect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/codecs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/collections" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/config-3.5m-x86_64-linux-gnu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/copy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/copyreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/distutils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/distutils/distutils.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/encodings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/fnmatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/functools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/genericpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/hashlib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/heapq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/hmac.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/imp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/importlib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/io.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/keyword.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/lib-dynload" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/linecache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/locale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/ntpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/operator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/orig-prefix.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/os.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/plat-x86_64-linux-gnu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/posixpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/random.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/re.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/reprlib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/rlcompleter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/shutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/site.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/sre_compile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/sre_constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/sre_parse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/stat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/struct.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/tarfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/tempfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/token.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/tokenize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/warnings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/weakref.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/CacheControl-0.11.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/chardet-2.3.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/distlib-0.2.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/html5lib-0.999-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/packaging-16.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/pip-8.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/progress-1.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/pyparsing-2.0.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/requests-2.9.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/setuptools-20.7.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/six-1.10.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/urllib3-1.13.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.py3env/share/python-wheels/wheel-0.29.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018-04-10/age_ref_0410_1584.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018-04-10/car_ref_0410_1000.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018-04-10/merriage_ref_0410_96.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018-04-10/shengxiao_ref_0410_84.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/address_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/birthday_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/carnum_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/census_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/idcard_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/name_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20180415/phonenumber_with_id.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/address.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/birthday.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/carnum.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/census.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/idcard.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/name.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DialogProject-parse-0411-500/phonenumber.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ceshi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nano.save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/activate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/activate.csh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/activate.fish" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/activate_this.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/easy_install" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/easy_install-3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/pip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/pip3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/pip3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/python-config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/python3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/python3.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/bin/wheel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/ImDib.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/ImPlatform.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/Imaging.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/Python-ast.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/Python.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/abstract.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/accu.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/asdl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/ast.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/bitset.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/bltinmodule.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/boolobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/bytearrayobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/bytes_methods.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/bytesobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/cellobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/ceval.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/classobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/code.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/codecs.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/compile.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/complexobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/datetime.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/descrobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/dictobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/dtoa.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/dynamic_annotations.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/enumobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/errcode.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/eval.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/fileobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/fileutils.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/floatobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/frameobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/funcobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/genobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/graminit.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/grammar.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/import.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/intrcheck.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/iterobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/listobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/longintrepr.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/longobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/marshal.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/memoryobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/metagrammar.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/methodobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/modsupport.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/moduleobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/namespaceobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/node.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/object.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/objimpl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/odictobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/opcode.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/osdefs.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/parsetok.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/patchlevel.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pgen.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pgenheaders.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/py_curses.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyarena.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyatomic.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pycapsule.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyconfig.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyctype.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pydebug.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyerrors.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyexpat.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyfpe.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pygetopt.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyhash.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pylifecycle.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pymacconfig.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pymacro.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pymath.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pymem.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pyport.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pystate.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pystrcmp.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pystrhex.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pystrtod.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pythonrun.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pythread.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/pytime.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/rangeobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/setobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/sliceobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/structmember.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/structseq.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/symtable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/sysmodule.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/token.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/traceback.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/tupleobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/typeslots.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/ucnhash.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/unicodeobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/warnings.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/include/python3.5m/weakrefobject.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/__future__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/_bootlocale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/_collections_abc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/_weakrefset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/bisect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/collections/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/collections/__main__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/collections/abc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/copy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/copyreg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/aliases.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/ascii.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/base64_codec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/big5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/big5hkscs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/charmap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp037.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1006.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1026.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1125.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1140.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1250.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1251.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1252.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1254.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1255.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1256.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1257.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp1258.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp273.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp424.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp437.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp500.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp65001.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp720.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp737.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp775.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp850.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp852.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp855.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp857.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp858.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp860.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp861.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp862.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp863.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp864.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp865.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp874.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp932.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp949.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/cp950.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/euc_jis_2004.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/euc_jisx0213.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/euc_jp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/euc_kr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/gb18030.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/gb2312.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/gbk.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/hex_codec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/hz.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/idna.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp_1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp_2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp_2004.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp_3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_jp_ext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso2022_kr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_14.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_15.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/iso8859_9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/johab.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/koi8_r.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/koi8_t.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/koi8_u.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_centeuro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_farsi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_greek.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_iceland.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_latin2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_roman.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_romanian.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mac_turkish.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/mbcs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/palmos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/ptcp154.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/quopri_codec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/raw_unicode_escape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/rot_13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/shift_jis.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/shift_jis_2004.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/shift_jisx0213.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/tis_620.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/undefined.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/unicode_escape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/unicode_internal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_16.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_16_be.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_32_be.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/utf_8_sig.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/uu_codec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/zlib_codec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/fnmatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/functools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/heapq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/imp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/io.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/keyword.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_cn.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_hk.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_iso2022.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_jp.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_kr.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_codecs_tw.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_crypt.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_csv.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_ctypes.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_ctypes_test.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_curses.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_curses_panel.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_dbm.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_decimal.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_gdbm.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_json.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_lsprof.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_multibytecodec.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_sqlite3.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_testbuffer.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_testcapi.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_testimportmultiple.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_testmultiphase.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/_tkinter.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/audioop.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/cmath.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/fpectl.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/mmap.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/nis.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/ossaudiodev.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/parser.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/readline.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/resource.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/termios.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/lib-dynload/xxlimited.cpython-35m-x86_64-linux-gnu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/linecache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/locale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/ntpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/operator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/orig-prefix.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/posixpath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/re.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/reprlib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/site.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/sre_compile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/stat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/struct.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/tarfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/tempfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/weakref.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/pip-selfcheck.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/CacheControl-0.11.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/chardet-2.3.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/distlib-0.2.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/html5lib-0.999-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/packaging-16.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/pip-8.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/progress-1.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/pyparsing-2.0.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/requests-2.9.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/setuptools-20.7.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/six-1.10.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/urllib3-1.13.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/share/python-wheels/wheel-0.29.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/db2json/data.json.db2json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/db2json/data_d.json.db2json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recorder_server/models.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.py3env/lib/python3.5/no-global-site-packages.txt" afterPath="$PROJECT_DIR$/genbirth0422.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cutfile.py" afterPath="$PROJECT_DIR$/autodataprocessing.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/recorder_server/.py3env/lib/python3.5/encodings/__pycache__/cp864.cpython-35.pyc" afterPath="$PROJECT_DIR$/Qtype.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataprocessing.iml" afterPath="$PROJECT_DIR$/.idea/dataprocessing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genbirth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weight_choice.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/genbirth0422.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combine.py" afterPath="$PROJECT_DIR$/combine.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn.md" afterPath="$PROJECT_DIR$/learn.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse.py" afterPath="$PROJECT_DIR$/parse.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -448,13 +26,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models.py">
+      <file leaf-file-name="autodataprocessing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autodataprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -468,16 +46,6 @@
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="n2c.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/n2c.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -514,11 +82,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="genbirth0422.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/genbirth0422.py">
+      <file leaf-file-name="genbirth.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/genbirth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="399">
+              <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+              <folding>
+                <element signature="e#13#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weight_choice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weight_choice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -586,14 +166,16 @@
         <option value="$PROJECT_DIR$/autodataprocessing.py" />
         <option value="$PROJECT_DIR$/Qtype.py" />
         <option value="$PROJECT_DIR$/genbirth0422.py" />
+        <option value="$PROJECT_DIR$/weight_choice.py" />
+        <option value="$PROJECT_DIR$/genbirth.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="781" />
-    <option name="y" value="111" />
-    <option name="width" value="1018" />
-    <option name="height" value="690" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -627,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learnpython" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -649,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Qtype">
+  <component name="RunManager" selected="Python.genbirth">
     <configuration name="Qtype" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -774,7 +356,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="genbirth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -786,21 +368,59 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genbirth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.parse" />
-      <item index="1" class="java.lang.String" itemvalue="Python.combine" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Qtype" />
+    <configuration name="genbirth0422" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dataprocessing" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genbirth0422.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="weight_choice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dataprocessing" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weight_choice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.combine" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Qtype" />
+      <item index="2" class="java.lang.String" itemvalue="Python.genbirth0422" />
+      <item index="3" class="java.lang.String" itemvalue="Python.genbirth" />
+      <item index="4" class="java.lang.String" itemvalue="Python.weight_choice" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.Qtype" />
-        <item index="1" class="java.lang.String" itemvalue="Python.combine" />
-        <item index="2" class="java.lang.String" itemvalue="Python.parse" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.genbirth" />
+        <item index="1" class="java.lang.String" itemvalue="Python.weight_choice" />
+        <item index="2" class="java.lang.String" itemvalue="Python.genbirth0422" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Qtype" />
+        <item index="4" class="java.lang.String" itemvalue="Python.combine" />
       </list>
     </recent_temporary>
   </component>
@@ -818,13 +438,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="781" y="111" width="1018" height="690" extended-state="0" />
-    <editor active="true" />
+    <frame x="65" y="24" width="928" height="1056" extended-state="4" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27799606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30495688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2014315" sideWeight="0.5018868" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33732876" sideWeight="0.49811321" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33622184" sideWeight="0.5058939" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20421052" sideWeight="0.49410608" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -871,8 +490,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/address0415/case00000/case00000" />
-    <entry file="file://$PROJECT_DIR$/address_with_id.json" />
     <entry file="file://$PROJECT_DIR$/address0415/case00501/case00501" />
     <entry file="file://$PROJECT_DIR$/birthday_with_id.json" />
     <entry file="file://$PROJECT_DIR$/birthday0415/case00501/case00501" />
@@ -895,6 +512,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -926,16 +544,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20180418/case00001/case00001" />
-    <entry file="file://$PROJECT_DIR$/autodataprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cutfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -957,7 +565,7 @@
         <state relative-caret-position="493">
           <caret line="123" column="14" lean-forward="false" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
           <folding>
-            <element signature="e#61#76#0" expanded="true" />
+            <element signature="e#61#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -975,7 +583,7 @@
         <state relative-caret-position="306">
           <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -993,16 +601,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1040,6 +638,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/autodataprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genbirth0422.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Qtype.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1048,11 +664,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genbirth0422.py">
+    <entry file="file://$PROJECT_DIR$/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weight_choice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genbirth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding>
+            <element signature="e#13#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
