@@ -162,6 +162,48 @@ git push origin :branch-name
 ## 新建仓库的文件夹之后的pull和push:
 `git pull origin master
 git push -u origin master`
+#### git加ssh秘钥
+```
+# yzs @ yzs in ~ [10:55:19] 
+$ cd .ssh                                 
+
+# yzs @ yzs in ~/.ssh [10:55:35] 
+$ ll
+total 12K
+-rw------- 1 yzs yzs 3.2K 4月   1 09:41 id_rsa_gitee
+-rw-r--r-- 1 yzs yzs  733 4月   1 09:41 id_rsa_gitee.pub
+-rw-r--r-- 1 yzs yzs 1.4K 4月   4 15:23 known_hosts
+
+# yzs @ yzs in ~/.ssh [10:55:36] 
+$ cat id_rsa_gitee.pub 
+```
+## 有时候会想把github上的文件删除，但是本地仓库里的文件想保留下来该怎么办，只要用三条命令就能完成了
+```
+git rm --cached filename/-r directory
+git commit "xxxx"
+git push
+
+1.删除github文件,本地保留
+
+git rm --cached test.
+txt
+git commit -m "delete file"
+git push
+
+此时github上已经不存在了
+
+2.删除远程code 文件夹,本地保留
+一定要注意，删除文件夹要使用-r 参数
+
+git rm --cached -r code
+git commit -m "delete directory"
+git push
+```
+## git恢复文件
+```
+git reset --hard HEAD^上一个版本
+git reset --hard HEAD~2 前二个版本
+```
 # python语法
 ## 1.choice()
 import random
