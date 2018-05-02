@@ -86,7 +86,9 @@ def num2chinese(num, big=False, simp=True, o=False, twoalt=False):
                     ulist.append(c_twoalt + c_unit1[nc - 1])
                 else:
                     ulist.append(c_basic[int(ch)] + c_unit1[nc - 1])
+            print(ulist)
             ustr = revuniq(ulist)
+            print(ustr)
             if nu == 0:
                 intresult.append(ustr)
             else:
@@ -98,3 +100,10 @@ def num2chinese(num, big=False, simp=True, o=False, twoalt=False):
         result.append(c_symbol[2])
         result.append(''.join(c_basic[int(ch)] for ch in remainder))
     return ''.join(result)
+
+# print(num2chinese(+ 10002386954, twoalt=True))
+# print(list(reversed([1,2])))
+# print(list(reversed(['四', '五十', '九百', '六千'])))
+# #groupby()把迭代器中相邻的重复元素挑出来放在一起
+# for k, g in itertools.groupby(reversed(['四', '五十', '九百', '六千'])):
+#     print(k, list(g))

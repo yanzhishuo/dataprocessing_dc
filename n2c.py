@@ -55,8 +55,9 @@ def full_n2c(sentence):
     Pattern = namedtuple('Pattern', ['programs', 'callback']) # pylint: disable=invalid-name
     patterns = [
         Pattern(re.compile(r'\d{1,2}[:：]\d{1,2}'), re_time_callback),
-        Pattern(re.compile(r'\d{1,3}(?=(月|日|号|单元))'), re_ns_callback),
-        Pattern(re.compile(r'-?\d{1,3}(?=倍)'), re_minus_callback),
+        Pattern(re.compile(r'\d{1,3}(?=(月|日|号|单元|岁|幢|户|室))'), re_ns_callback),
+        # Pattern(re.compile(r'-?\d{1,3}(?=倍)'), re_minus_callback),
+        # Pattern(re.compile(r'-?\d{1,3}(?=倍)'),  re_ns_callback),
         Pattern(re.compile(r'\d+'), re_sp_callback),
     ]
     for pattern in patterns:
@@ -65,6 +66,7 @@ def full_n2c(sentence):
 
 
 if __name__ == "__main__":
-    TEST_SENTENCE = "2017年12月13日东苑大厦13号12:44给我4,7倍数1454"
+    TEST_SENTENCE = "2017年12月13日东苑大厦13号12:44给我4,-7倍数1454的47倍"
+    TEST_SENTENCE1 = "27岁"
     print(full_n2c(TEST_SENTENCE))
 
