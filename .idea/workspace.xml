@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af32ec71-80b7-4bdb-8879-5df14ad36f23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Administrativeregions.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ceshi.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/provincecc.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/city.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classifyaddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/county.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cutjson0425.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genaddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencarnum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus0423.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genname.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genpassword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/listtojson.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pathfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/province.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/province_city.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/province_city_county.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyexcel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genbirth.py" afterPath="$PROJECT_DIR$/genbirth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsonyzs.py" afterPath="$PROJECT_DIR$/jsonyzs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/n2c.py" afterPath="$PROJECT_DIR$/n2c.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/num2chinese.py" afterPath="$PROJECT_DIR$/num2chinese.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weight_choice.py" afterPath="$PROJECT_DIR$/weight_choice.py" />
-    </list>
+    <list default="true" id="af32ec71-80b7-4bdb-8879-5df14ad36f23" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
