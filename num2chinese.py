@@ -86,9 +86,9 @@ def num2chinese(num, big=False, simp=True, o=False, twoalt=False):
                     ulist.append(c_twoalt + c_unit1[nc - 1])
                 else:
                     ulist.append(c_basic[int(ch)] + c_unit1[nc - 1])
-            print(ulist)
+            # print(ulist)
             ustr = revuniq(ulist)
-            print(ustr)
+            # print(ustr)
             if nu == 0:
                 intresult.append(ustr)
             else:

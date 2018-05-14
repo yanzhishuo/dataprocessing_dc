@@ -1,4 +1,4 @@
-import jsonyzs
+import json
 import pathlib
 from pprint import pprint
 
@@ -62,7 +62,7 @@ if __name__ == '__main__':
         xml_path = xml_path_list[0]
         with xml_path.open() as fp:
             xml_string = fp.read()
-        anafora = jsonyzs.loads(xmltojson.parse(xml_string))
+        anafora = json.loads(xmltojson.parse(xml_string))
         entities = anafora['data']['annotations']['entity']
         if isinstance(entities, dict):
             entities = [entities]
@@ -78,4 +78,4 @@ if __name__ == '__main__':
             res_dict.setdefault(label, '')
         # res_list.append({'label': res_dict, 'case': stem, 'asr': asr_list[i], 'ref': ref})
         res_list.append(res_dict)
-    print(jsonyzs.dumps(res_list, ensure_ascii=False, indent=2))
+    print(json.dumps(res_list, ensure_ascii=False, indent=2))

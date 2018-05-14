@@ -34,6 +34,12 @@ def genpassword(length):
     genpwd = ''.join(i for i in slcChar)
     return  genpwd
 
+def gennumpassword(length):
+    slcNum = [random.choice(string.digits) for i in range(length)]
+    random.shuffle(slcNum)
+    genpwd = ''.join(i for i in slcNum)
+    return  genpwd
+
 def gennum(a,b):
     result = random.randint(a, b)
     return result

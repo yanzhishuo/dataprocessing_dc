@@ -25,5 +25,6 @@ def windex(weight):
 
 if __name__ == "__main__":
     for i in range(50):
-        print(w_choice(['A', 'B', 'C', 'D'], [5, 2, 2, 1]))
-        print(windex([4, 2, 2, 2]))
+        # print(w_choice(['A', 'B', 'C', 'D'], [5, 2, 2, 1]))
+        # print(windex([4, 2, 2, 2]))
+        print(windex([1,1.1]))
