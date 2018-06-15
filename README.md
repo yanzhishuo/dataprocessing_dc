@@ -1,0 +1,83 @@
+# 生成数据代码
+## 用类的：inherit.py地址在：/hd4T/dialog_data_stage_2_variation/code/gendata
+<table>
+   <tr>
+      <th>inherit.py</th>
+      <th>函数名字</th>
+      <th>实现功能</th>
+      <th>备注</th>
+  </tr>
+     <tr><td>1</td>
+      <td>Gendata()</td>
+      <td>生成json文件</td>
+      <td>生成数据的核心函数,主要看这个  
+      `说明`：需要改动的地方
+      ```
+      file = open('/home/yzs/gendata/'+self.path+'_gen_'+str(datenow())+'_'+str(self.num)+'.json', 'w')
+        改成自己电脑想保存文件的路径
+        </td></tr>
+       <tr><td>2</td>
+      <td>Appendneed()</td>
+      <td>实现对模式的相加</td>
+      <td>Gendata()里面要用到的函数</td></tr>
+       <tr><td>3</td>
+      <td>datenow()</td>
+      <td>今天的日期（月日）如0521</td>
+      <td>Gendata()里面要用到的函数</td></tr>
+            <tr><td>4</td>
+      <td>excel2list()</td>
+      <td>读取excel表格全部内容（每一行的单元格相加），要求表格的表单名字是Sheet1</td>
+      <td>读excel，地址和省市县用到，其他基本不用</td></tr>
+              <tr><td>5</td>
+      <td>need_choose(index,path)</td>
+      <td>读取excel表格第index列内容，path是excel文件的路径，要求表格的表单名字是Sheet1</td>
+      <td>用到pyexcel.py的readexcel函数</td></tr>
+                  <tr><td>6</td>
+      <td>refdeduplication(path,label)</td>
+      <td>去重：因为生成数据时候容易出现重复，后续会造成人力浪费，故去重
+    input:
+          文件路径，想去重的标签名字
+    output：
+          去掉重复的json文件</td>
+      <td>这个也不一定用到，看需求</td></tr>
+                       <tr><td>7</td>
+      <td>gennum()</td>
+      <td>生成随机数字
+    分两种情况：
+    input1：输入是想要数据的位数
+           比如length=2，输出是10/99...
+    input2：输入数据范围,比如a=1,b=20,
+           输出是15</td>
+      <td>这个也不一定用到，生成年龄，车牌号等需要数字的情况下会用到</td></tr>
+</table>
+
+## 简单基本的，没有用类的代码：地址在/hd4T/dialog_data_stage_2_variation/code/genexample  
+<table>
+<tr>
+      <th>genuse.py</th>
+      <th>函数名字</th>
+      <th>实现功能</th>
+      <th>备注</th>
+  </tr>
+  <tr><td>1</td>
+      <td>Genuse(Gendata)</td>
+      <td>生成json文件</td>
+      <td>扩展了inherit.py的Gendata()因为生成json文件需要多加label这一项</td></tr>
+</table>
+
+<table>
+<tr>
+      <th>singlechoose.py</th>
+      <th>函数名字</th>
+      <th>实现功能</th>
+      <th>备注</th>
+  </tr>
+  <tr><td>1</td>
+      <td>singlechoose_type()</td>
+      <td>生成json文件</td>
+      <td>早期生成数据，就简单的模式相加，没有用类封装，比较清晰易懂，但是每次生成数据就要重复写</td></tr>
+       <tr><td>2</td>
+      <td>windex()</td>
+      <td>带权重的随机选择</td>
+      <td>个人习惯，感觉random.choice 就够了。这个函数在weight_choice.py里面</td></tr>
+</table>
