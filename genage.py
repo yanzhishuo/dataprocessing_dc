@@ -14,7 +14,7 @@ feature_tail = ['岁', '']
 Modal = ['啦', '']
 
 #type 2
-tense1 = ['不到', '']
+tense1 = ['不到', '快','']
 
 #TYPE3
 title_pattern1 = ['我', '我是', '']
@@ -27,12 +27,12 @@ pronounce1 = ['今年', '今年过了生日', '今年过去', '最近过了生�
 tense2 = ['就', '']
 
 def age_type1():
-    age = str(genageCN(18, 65))#或者调用n2c的full_n2c()函数
+    age = str(randint(18, 65))#或者调用n2c的full_n2c()函数
     age_raw1 = choice(title_pattern) +pronounce[windex([3,1,6])] +tense[windex([3,1,5])]+feature[windex([1,1,8])] +age + choice(feature_tail) + Modal[windex([2,8])]
     return age_raw1, age
 
 def age_type2():
-    age = str(genageCN(18, 65))
+    age = str(randint(18, 65))
     age_raw2 = choice(title_pattern) +pronounce[windex([3,1,6])] +choice(tense1)+ age + choice(feature_tail) + Modal[windex([2,8])]
     return age_raw2, age
 
@@ -42,7 +42,7 @@ def age_type3():
     return age_raw3, year_pattern
 
 def age_type4():
-    age = str(genageCN(18, 65))
+    age = str(randint(18, 65))
     born_time = pronounce1[windex([1,1,1,1,1,1,4])]
     if born_time == '':
         age_raw4 = choice(title_pattern) +age+ choice(feature_tail) +choice(Modal)
@@ -51,13 +51,14 @@ def age_type4():
     return age_raw4, age
 
 def age_type5():
-    age = str(genageCN(18, 65))
-    age_list = ['年龄是','岁数是']
-    age_raw = '我的'+ age_list[windex([2,1])]+age +choice(['岁', ''])
+    age = str(randint(18, 65))
+    age_list = ['年龄是','岁数是','年龄','年岁是']
+    age_raw = '我的'+ choice(age_list) +age +choice(['岁', ''])
+    return age_raw ,age
 
 def gen_age():
     age_list =[age_type1(), age_type2(),  age_type4(),age_type5()]
-    age_ref, age_write = age_list[windex([4, 4, 1, 1])]
+    age_ref, age_write = age_list[windex([4, 4, 1, 4])]
     return age_ref, age_write
 
 def gen_year_age():
@@ -71,11 +72,13 @@ if __name__ == "__main__":
     for i in range(num_data):
         list_dict = dict()
         list_dict['label_name'] = label_name
-        list_dict['id'] = i
-        list_dict['ref'], list_dict['write'] = gen_year_age()
+        list_dict['id'] = i + 1862
+        # list_dict['id'] = i
+        # list_dict['ref'], list_dict['write'] = gen_year_age()
+        list_dict['ref'], list_dict['write'] = gen_age()
         list_data.append(list_dict)
         print('loading')
     obj = json.dumps(list_data, ensure_ascii=False, indent=2)
-    file = open('/home/yzs/'+label_name+'_year_gen_0502_'+str(num_data)+'.json', 'w')
+    file = open('/home/yzs/gendata/'+label_name+'_sui_gen_0613_'+str(num_data)+'.json', 'w')
     file.write(obj)
     file.close()

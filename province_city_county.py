@@ -18,8 +18,7 @@ attribute = ['的', '']
 title_pattern2 = ['', '我']
 verb2 = ['是', '']
 tail = ['人', '']
-pro_city_county1 = readexcel(5, 'provincecc.xlsx')
-pro_city_county = pro_city_county1[:2856]
+# pro_city_county = readexcel(5, 'provincecc.xlsx')
 
 def cut(data):
     if '省直辖县级行政区划' in data:
@@ -31,10 +30,10 @@ def cut(data):
     for x in pro1.groups():
         if x != None:
             pcc.append(x)
-        if x in ['上海市', '重庆市', '天津市', '北京市']:
-            pcc.append('直辖市')
     return pcc[0], pcc[1], pcc[2]
-
+from gencensus.census0530 import *
+other,chuan,yue,zhe,su=choicemain()
+pro_city_county = chuan
 
 def census_type1():
     census_raw1_verb = verb[windex([4,1,2,3])]
@@ -63,7 +62,7 @@ def gen_census():
     return census_ref, census_write, census_province, census_city,census_county
 
 if __name__ =="__main__":
-    num_data = 3000
+    num_data = 400
     census_data = list()
     for i in range(num_data):
         census_dict = dict()
@@ -74,8 +73,9 @@ if __name__ =="__main__":
         census_dict['m_county'] = 1
         census_dict['m_city'] = 1
         census_data.append(census_dict)
-    # print(census_data)
+    print(census_data)
     obj = json.dumps(census_data, ensure_ascii=False, indent=2)
-    file = open('/home/yzs/census_pcc_gen_0502_3000.json', 'w')
+    # file = open('/home/yzs/gendata/census_pcc_gen_0522_3000.json', 'w')
+    file = open('/home/yzs/gendata/4_phone_census/chuan/census_procc_gen_0530_' + str(num_data) + '.json', 'w')
     file.write(obj)
     file.close()

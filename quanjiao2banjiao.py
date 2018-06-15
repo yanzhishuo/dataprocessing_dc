@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 ###-------------asr的全角转半角 及删除asr为空的程序以这份为主
 import json
+# from extractasr1 import full_n2c
 
 def DBC2SBC(ustring):
     rstring =""
@@ -16,6 +17,8 @@ def DBC2SBC(ustring):
         rstring += chr(inside_code)
     return rstring
 
+
+
 if __name__ == '__main__':
     with open('/home/yzs/workspace/dataprocessing/2018-04-15/address_with_id.json') as f:
         data = json.load(f)
@@ -25,13 +28,13 @@ if __name__ == '__main__':
         item['asr'] = DBC2SBC(item['asr'])
         if item['asr'] =='':
             continue
-        if item['id'] in range(501):
-            continue
+        # if item['id'] in range(501):
+        #     continue
         data_output.append(item)
     print(data_output)
     obj=json.dumps(data_output,ensure_ascii=False,indent=2)
     file=open('/home/yzs/workspace/yzs0415/address_with_id.json','w')
-    print(type(obj))#dumps是将dict/list转化成str格式
+    # print(type(obj))#dumps是将dict/list转化成str格式
     file.write(obj)
     file.close()
 

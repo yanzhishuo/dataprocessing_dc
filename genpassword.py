@@ -34,6 +34,19 @@ def genpassword(length):
     genpwd = ''.join(i for i in slcChar)
     return  genpwd
 
+def genpasswordcarnum(length1,length):
+    numOfLetter = length1 - length
+    slcNum = [random.choice(string.digits) for i in range(length)]
+    #slcNum += str(random.randint(0, 9))
+
+    slcLetter = [random.choice(car_letter()) for i in range(numOfLetter)]
+    #打乱组合
+    slcChar = slcLetter + slcNum
+    #li = random.shuffle(li)返回None
+    random.shuffle(slcChar)
+    genpwd = ''.join(i for i in slcChar)
+    return  genpwd
+
 def gennumpassword(length):
     slcNum = [random.choice(string.digits) for i in range(length)]
     random.shuffle(slcNum)

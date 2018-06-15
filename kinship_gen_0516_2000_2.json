@@ -1,0 +1,12002 @@
+[
+  {
+    "write": "姑父",
+    "id": 2000,
+    "ref": "啊是我姑父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2001,
+    "ref": "那是我的哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2002,
+    "ref": "这是我老公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2003,
+    "ref": "那个他是我兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2004,
+    "ref": "他是我母亲啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2005,
+    "ref": "那个我姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2006,
+    "ref": "啊是我外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2007,
+    "ref": "这是我姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2008,
+    "ref": "啊我相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2009,
+    "ref": "啊是我外公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2010,
+    "ref": "我奶奶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2011,
+    "ref": "那他是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2012,
+    "ref": "那表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2013,
+    "ref": "恩是我的外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2014,
+    "ref": "我舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2015,
+    "ref": "那他是我对象啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2016,
+    "ref": "那个是我亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2017,
+    "ref": "啊这是我侄子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2018,
+    "ref": "那个我大伯呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2019,
+    "ref": "表兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2020,
+    "ref": "那是我孙子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2021,
+    "ref": "是我的娘啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2022,
+    "ref": "他是我的哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 2023,
+    "ref": "啊是我的外孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2024,
+    "ref": "那是我的孙子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2025,
+    "ref": "他是我的先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2026,
+    "ref": "那个姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2027,
+    "ref": "啊他是我夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2028,
+    "ref": "那他是我的夫人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2029,
+    "ref": "啊这是我祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2030,
+    "ref": "恩堂姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2031,
+    "ref": "那个我舅舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2032,
+    "ref": "我表弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 2033,
+    "ref": "那个他是我的老婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2034,
+    "ref": "那个这是我姑妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2035,
+    "ref": "啊是我太太唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2036,
+    "ref": "是我娘",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2037,
+    "ref": "啊他是我堂哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2038,
+    "ref": "那个是我姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2039,
+    "ref": "那个我兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2040,
+    "ref": "那个是我表姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 2041,
+    "ref": "啊孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2042,
+    "ref": "那个姨丈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2043,
+    "ref": "啊他是我的表姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2044,
+    "ref": "恩是我家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2045,
+    "ref": "那个是我妗母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2046,
+    "ref": "那他是我的奶奶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2047,
+    "ref": "啊是我的堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2048,
+    "ref": "姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2049,
+    "ref": "这是我外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2050,
+    "ref": "恩是我奶奶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2051,
+    "ref": "恩这是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2052,
+    "ref": "恩这是我女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2053,
+    "ref": "爷爷唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2054,
+    "ref": "恩他是我先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2055,
+    "ref": "啊是我嫂子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2056,
+    "ref": "那个我公公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2057,
+    "ref": "啊他是我哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2058,
+    "ref": "恩这是我外婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2059,
+    "ref": "恩他是我的哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2060,
+    "ref": "那我大伯啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2061,
+    "ref": "恩是我外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2062,
+    "ref": "那是我亲姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2063,
+    "ref": "恩是我亲家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2064,
+    "ref": "我亲妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2065,
+    "ref": "那个是我爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2066,
+    "ref": "恩他是我的夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2067,
+    "ref": "那个他是我的姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 2068,
+    "ref": "那个这是我岳母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2069,
+    "ref": "他是我堂姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2070,
+    "ref": "他是我的家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2071,
+    "ref": "那是我堂妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2072,
+    "ref": "恩他是我外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2073,
+    "ref": "那个他是我亲姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2074,
+    "ref": "这是我亲妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2075,
+    "ref": "那个我老妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2076,
+    "ref": "这是我姨丈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2077,
+    "ref": "那是我的外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2078,
+    "ref": "那个他是我的外祖母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2079,
+    "ref": "那个我弟媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2080,
+    "ref": "啊这是我叔叔啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2081,
+    "ref": "那他是我大伯呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2082,
+    "ref": "那是我大伯唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2083,
+    "ref": "那个他是我表兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2084,
+    "ref": "那个这是我亲弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2085,
+    "ref": "那个他是我丈夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2086,
+    "ref": "啊我表兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2087,
+    "ref": "那妈妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2088,
+    "ref": "啊他是我的婆婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2089,
+    "ref": "恩是我的嫂子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2090,
+    "ref": "是我姐夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2091,
+    "ref": "那个他是我的太太",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2092,
+    "ref": "那个他是我的爸爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2093,
+    "ref": "那个爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2094,
+    "ref": "啊他是我婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2095,
+    "ref": "我爷爷唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2096,
+    "ref": "啊他是我哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2097,
+    "ref": "是我的伯父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2098,
+    "ref": "恩是我的外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2099,
+    "ref": "他是我的伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2100,
+    "ref": "那他是我的媳妇呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2101,
+    "ref": "恩对象唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2102,
+    "ref": "这是我姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2103,
+    "ref": "恩这是我亲弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2104,
+    "ref": "那个他是我嫂子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2105,
+    "ref": "是我的哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2106,
+    "ref": "啊表姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2107,
+    "ref": "他是我亲姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 2108,
+    "ref": "那妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2109,
+    "ref": "那我外祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2110,
+    "ref": "那是我的家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2111,
+    "ref": "那个爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2112,
+    "ref": "那个我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2113,
+    "ref": "我母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2114,
+    "ref": "恩这是我妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2115,
+    "ref": "那个他是我嫂嫂",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2116,
+    "ref": "他是我亲母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2117,
+    "ref": "那个是我外婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2118,
+    "ref": "恩是我的妈妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2119,
+    "ref": "他是我的亲姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2120,
+    "ref": "他是我姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2121,
+    "ref": "那是我姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2122,
+    "ref": "那姑父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2123,
+    "ref": "啊他是我的丈夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2124,
+    "ref": "啊这是我堂妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2125,
+    "ref": "啊我兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2126,
+    "ref": "他是我的妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2127,
+    "ref": "啊是我的表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2128,
+    "ref": "啊我亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2129,
+    "ref": "那是我的外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2130,
+    "ref": "哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2131,
+    "ref": "恩这是我叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2132,
+    "ref": "那他是我弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2133,
+    "ref": "那是我的外甥女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2134,
+    "ref": "啊我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2135,
+    "ref": "恩我伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2136,
+    "ref": "那我兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2137,
+    "ref": "那个他是我的亲哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2138,
+    "ref": "那婆婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2139,
+    "ref": "那个他是我堂弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2140,
+    "ref": "那个他是我老妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2141,
+    "ref": "恩堂妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2142,
+    "ref": "那他是我表弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2143,
+    "ref": "恩这是我外婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2144,
+    "ref": "那是我的亲弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2145,
+    "ref": "那是我的姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 2146,
+    "ref": "恩是我的外甥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2147,
+    "ref": "那个是我的夫人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2148,
+    "ref": "啊祖父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2149,
+    "ref": "啊亲弟弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2150,
+    "ref": "啊堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2151,
+    "ref": "那是我女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2152,
+    "ref": "恩我老妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2153,
+    "ref": "那孙子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2154,
+    "ref": "啊他是我的大姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2155,
+    "ref": "那他是我伯父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2156,
+    "ref": "恩他是我的奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 2157,
+    "ref": "那这是我妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2158,
+    "ref": "那他是我的娘",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2159,
+    "ref": "恩这是我亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2160,
+    "ref": "恩我弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2161,
+    "ref": "啊他是我的舅母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2162,
+    "ref": "那个他是我姨丈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2163,
+    "ref": "那个我舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2164,
+    "ref": "啊是我的亲弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2165,
+    "ref": "那是我的母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2166,
+    "ref": "那他是我的大伯嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 2167,
+    "ref": "那个这是我孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2168,
+    "ref": "啊这是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2169,
+    "ref": "啊这是我姑父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2170,
+    "ref": "恩是我的夫人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2171,
+    "ref": "恩这是我家父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2172,
+    "ref": "恩是我公公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2173,
+    "ref": "恩这是我姑父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2174,
+    "ref": "那我兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2175,
+    "ref": "他是我表姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2176,
+    "ref": "那个他是我弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2177,
+    "ref": "那他是我哥哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2178,
+    "ref": "那是我的亲家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2179,
+    "ref": "那他是我的岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2180,
+    "ref": "那个他是我姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2181,
+    "ref": "那他是我的叔叔",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2182,
+    "ref": "那个他是我的堂兄呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2183,
+    "ref": "是我对象",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2184,
+    "ref": "啊他是我的亲姐姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2185,
+    "ref": "那个妗母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2186,
+    "ref": "啊是我哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2187,
+    "ref": "那个姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2188,
+    "ref": "啊他是我的伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2189,
+    "ref": "啊他是我姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2190,
+    "ref": "啊先生",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2191,
+    "ref": "那个我表兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2192,
+    "ref": "那孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2193,
+    "ref": "堂姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2194,
+    "ref": "恩是我姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2195,
+    "ref": "啊我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2196,
+    "ref": "那个我大姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2197,
+    "ref": "啊是我的娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2198,
+    "ref": "那个我外祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2199,
+    "ref": "祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2200,
+    "ref": "他是我侄子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2201,
+    "ref": "啊这是我相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2202,
+    "ref": "是我亲姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2203,
+    "ref": "那个亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2204,
+    "ref": "那是我爸爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2205,
+    "ref": "那这是我表哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2206,
+    "ref": "那是我妻子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2207,
+    "ref": "那妗母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2208,
+    "ref": "啊是我大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2209,
+    "ref": "那他是我的舅母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2210,
+    "ref": "那个这是我内人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2211,
+    "ref": "那是我亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2212,
+    "ref": "那他是我的母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2213,
+    "ref": "啊他是我表弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2214,
+    "ref": "那他是我的堂兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2215,
+    "ref": "恩我妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2216,
+    "ref": "我亲姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2217,
+    "ref": "那他是我表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2218,
+    "ref": "恩他是我姨母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2219,
+    "ref": "啊他是我表姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2220,
+    "ref": "是我的表兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2221,
+    "ref": "啊外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2222,
+    "ref": "是我亲母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2223,
+    "ref": "那个他是我叔叔嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2224,
+    "ref": "那他是我爸爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 2225,
+    "ref": "我孙女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2226,
+    "ref": "他是我姨母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2227,
+    "ref": "那是我先生",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2228,
+    "ref": "恩他是我堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2229,
+    "ref": "恩我亲姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2230,
+    "ref": "那个他是我的弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2231,
+    "ref": "那他是我的亲哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2232,
+    "ref": "那个我嫂子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2233,
+    "ref": "他是我的亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2234,
+    "ref": "是我的表弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2235,
+    "ref": "那个他是我姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2236,
+    "ref": "那他是我的外公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2237,
+    "ref": "那我哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2238,
+    "ref": "啊我伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2239,
+    "ref": "那个他是我的伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2240,
+    "ref": "恩是我姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2241,
+    "ref": "女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2242,
+    "ref": "亲妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2243,
+    "ref": "外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2244,
+    "ref": "啊我家父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2245,
+    "ref": "那这是我相公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2246,
+    "ref": "那个堂哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2247,
+    "ref": "那他是我内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2248,
+    "ref": "啊是我娘啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2249,
+    "ref": "他是我的堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 2250,
+    "ref": "啊他是我的孙女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2251,
+    "ref": "那他是我侄子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2252,
+    "ref": "那个他是我的姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2253,
+    "ref": "那个他是我舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2254,
+    "ref": "那个我亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2255,
+    "ref": "他是我表兄呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2256,
+    "ref": "我兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2257,
+    "ref": "恩这是我弟媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2258,
+    "ref": "那是我姐夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2259,
+    "ref": "那他是我儿子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2260,
+    "ref": "那个他是我的亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2261,
+    "ref": "那妹夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2262,
+    "ref": "那个是我堂姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2263,
+    "ref": "恩这是我家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2264,
+    "ref": "恩他是我的爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2265,
+    "ref": "这是我嫂嫂啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2266,
+    "ref": "是我的亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2267,
+    "ref": "恩是我外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 2268,
+    "ref": "我外甥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2269,
+    "ref": "恩是我亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2270,
+    "ref": "他是我的家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2271,
+    "ref": "他是我姐夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2272,
+    "ref": "那他是我的爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2273,
+    "ref": "啊是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2274,
+    "ref": "恩是我亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2275,
+    "ref": "这是我妈妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2276,
+    "ref": "是我夫人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2277,
+    "ref": "恩他是我配偶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2278,
+    "ref": "那个是我的亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2279,
+    "ref": "啊他是我夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2280,
+    "ref": "这是我妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2281,
+    "ref": "伯父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2282,
+    "ref": "是我哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2283,
+    "ref": "恩他是我的亲哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2284,
+    "ref": "恩他是我妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2285,
+    "ref": "那儿子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2286,
+    "ref": "那个老爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2287,
+    "ref": "恩是我的老公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2288,
+    "ref": "那个是我堂姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2289,
+    "ref": "恩他是我的外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2290,
+    "ref": "那内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2291,
+    "ref": "啊他是我的大姨啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2292,
+    "ref": "啊侄女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2293,
+    "ref": "那他是我的亲哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2294,
+    "ref": "那个他是我的堂姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2295,
+    "ref": "夫人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2296,
+    "ref": "啊是我的伯父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2297,
+    "ref": "那个我嫂嫂呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2298,
+    "ref": "那妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2299,
+    "ref": "那他是我的外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2300,
+    "ref": "他是我堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2301,
+    "ref": "啊是我的母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2302,
+    "ref": "堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2303,
+    "ref": "那他是我老公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2304,
+    "ref": "我堂兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2305,
+    "ref": "那个是我舅母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2306,
+    "ref": "那这是我奶奶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2307,
+    "ref": "那个他是我的堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2308,
+    "ref": "那个伯母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2309,
+    "ref": "是我弟媳呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2310,
+    "ref": "那个是我堂姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2311,
+    "ref": "我外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2312,
+    "ref": "这是我侄女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2313,
+    "ref": "恩这是我表兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2314,
+    "ref": "那他是我舅舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2315,
+    "ref": "那个舅",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2316,
+    "ref": "啊他是我的对象啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2317,
+    "ref": "那个他是我舅母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2318,
+    "ref": "那是我的弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2319,
+    "ref": "爱人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2320,
+    "ref": "他是我哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2321,
+    "ref": "我婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2322,
+    "ref": "啊是我堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2323,
+    "ref": "恩哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2324,
+    "ref": "恩公公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2325,
+    "ref": "恩他是我的外婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2326,
+    "ref": "啊家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2327,
+    "ref": "那他是我的堂兄呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2328,
+    "ref": "啊这是我表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2329,
+    "ref": "是我的堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2330,
+    "ref": "夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2331,
+    "ref": "恩他是我的老爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2332,
+    "ref": "那个我祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2333,
+    "ref": "恩这是我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2334,
+    "ref": "那他是我的姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2335,
+    "ref": "那个我姨母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2336,
+    "ref": "那是我的先生呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2337,
+    "ref": "这是我亲弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2338,
+    "ref": "啊他是我舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2339,
+    "ref": "恩这是我先生嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2340,
+    "ref": "那是我的老爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2341,
+    "ref": "那他是我的女婿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2342,
+    "ref": "恩他是我的亲姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 2343,
+    "ref": "这是我妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2344,
+    "ref": "那他是我姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2345,
+    "ref": "恩爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2346,
+    "ref": "恩是我的堂妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2347,
+    "ref": "这是我堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2348,
+    "ref": "这是我姨妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2349,
+    "ref": "啊爸爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2350,
+    "ref": "恩是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2351,
+    "ref": "这是我先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2352,
+    "ref": "那个我伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2353,
+    "ref": "是我的姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 2354,
+    "ref": "恩他是我爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2355,
+    "ref": "那个他是我表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2356,
+    "ref": "那个兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2357,
+    "ref": "他是我嫂子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2358,
+    "ref": "是我的外公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2359,
+    "ref": "那是我妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2360,
+    "ref": "是我的弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2361,
+    "ref": "我内人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2362,
+    "ref": "恩他是我姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2363,
+    "ref": "恩这是我哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2364,
+    "ref": "啊是我的家父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2365,
+    "ref": "那个丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2366,
+    "ref": "啊亲弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2367,
+    "ref": "我嫂嫂嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2368,
+    "ref": "恩他是我的爹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2369,
+    "ref": "啊妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2370,
+    "ref": "这是我亲家母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2371,
+    "ref": "啊这是我姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2372,
+    "ref": "是我的哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2373,
+    "ref": "是我兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2374,
+    "ref": "那个是我的配偶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2375,
+    "ref": "是我的亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2376,
+    "ref": "那个是我的太太呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2377,
+    "ref": "那是我弟媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2378,
+    "ref": "恩他是我表妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2379,
+    "ref": "那他是我的亲母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2380,
+    "ref": "那个他是我的娘",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2381,
+    "ref": "那他是我祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2382,
+    "ref": "他是我亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2383,
+    "ref": "他是我嫂嫂嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2384,
+    "ref": "他是我的相公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2385,
+    "ref": "那个是我的女婿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2386,
+    "ref": "那个是我姐夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2387,
+    "ref": "那他是我的相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2388,
+    "ref": "那个我姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 2389,
+    "ref": "那是我妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2390,
+    "ref": "啊是我表弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2391,
+    "ref": "恩他是我姨夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 2392,
+    "ref": "那个我老婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2393,
+    "ref": "啊他是我家父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2394,
+    "ref": "那个他是我的相公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2395,
+    "ref": "恩是我表兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2396,
+    "ref": "是我的伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2397,
+    "ref": "啊是我的儿媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2398,
+    "ref": "是我姨夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2399,
+    "ref": "恩他是我堂兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2400,
+    "ref": "是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2401,
+    "ref": "是我姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2402,
+    "ref": "是我配偶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2403,
+    "ref": "那他是我的妗母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2404,
+    "ref": "恩是我侄子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2405,
+    "ref": "那他是我姨夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2406,
+    "ref": "那个这是我外祖父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2407,
+    "ref": "啊我外婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2408,
+    "ref": "那个这是我妹夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2409,
+    "ref": "那个他是我姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2410,
+    "ref": "他是我的妻子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2411,
+    "ref": "那亲姐姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2412,
+    "ref": "亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2413,
+    "ref": "他是我姨母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2414,
+    "ref": "啊是我相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2415,
+    "ref": "他是我的配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2416,
+    "ref": "恩女婿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2417,
+    "ref": "那个是我的父亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2418,
+    "ref": "我姑",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2419,
+    "ref": "他是我的姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2420,
+    "ref": "我对象嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2421,
+    "ref": "那我哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2422,
+    "ref": "是我的表弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2423,
+    "ref": "是我儿媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2424,
+    "ref": "恩我内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2425,
+    "ref": "那个他是我先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2426,
+    "ref": "那个是我母亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2427,
+    "ref": "啊是我对象唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2428,
+    "ref": "那配偶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2429,
+    "ref": "恩是我的妈妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2430,
+    "ref": "那他是我的妈妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2431,
+    "ref": "他是我的弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2432,
+    "ref": "恩这是我妹夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2433,
+    "ref": "啊是我的夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2434,
+    "ref": "恩这是我祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2435,
+    "ref": "那我亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2436,
+    "ref": "夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2437,
+    "ref": "啊是我妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2438,
+    "ref": "恩姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2439,
+    "ref": "啊这是我哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2440,
+    "ref": "啊他是我叔叔嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2441,
+    "ref": "恩他是我姨妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2442,
+    "ref": "那他是我的舅舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2443,
+    "ref": "啊是我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2444,
+    "ref": "那个是我的母亲啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2445,
+    "ref": "恩他是我的堂兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2446,
+    "ref": "啊他是我外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2447,
+    "ref": "那这是我表兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2448,
+    "ref": "那个他是我的堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2449,
+    "ref": "恩他是我的妈妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2450,
+    "ref": "那个我侄女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2451,
+    "ref": "那他是我的公公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2452,
+    "ref": "那是我姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2453,
+    "ref": "我外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2454,
+    "ref": "啊妹夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2455,
+    "ref": "那这是我堂弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 2456,
+    "ref": "那我老婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2457,
+    "ref": "那个他是我夫人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2458,
+    "ref": "我女儿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2459,
+    "ref": "是我的外婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2460,
+    "ref": "那个我亲妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2461,
+    "ref": "恩他是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2462,
+    "ref": "那先生嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2463,
+    "ref": "啊这是我表兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2464,
+    "ref": "那他是我的夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2465,
+    "ref": "那他是我的对象唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2466,
+    "ref": "那这是我表兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2467,
+    "ref": "那个是我的亲哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2468,
+    "ref": "他是我的亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2469,
+    "ref": "恩是我姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2470,
+    "ref": "恩这是我爷爷唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2471,
+    "ref": "我表哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2472,
+    "ref": "啊这是我亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2473,
+    "ref": "啊我先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2474,
+    "ref": "恩我公公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2475,
+    "ref": "那是我的伯父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2476,
+    "ref": "恩他是我外公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2477,
+    "ref": "是我女儿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2478,
+    "ref": "那个他是我的姨夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2479,
+    "ref": "恩他是我的妈妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2480,
+    "ref": "那他是我的亲弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2481,
+    "ref": "啊这是我姨丈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2482,
+    "ref": "我妹夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2483,
+    "ref": "那是我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2484,
+    "ref": "那我孙子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2485,
+    "ref": "恩父亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2486,
+    "ref": "那丈夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2487,
+    "ref": "那这是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2488,
+    "ref": "是我外婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2489,
+    "ref": "那个我表哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2490,
+    "ref": "是我丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2491,
+    "ref": "啊是我妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2492,
+    "ref": "恩亲姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2493,
+    "ref": "他是我的岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2494,
+    "ref": "那兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2495,
+    "ref": "那姑妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2496,
+    "ref": "那他是我侄女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2497,
+    "ref": "恩奶奶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2498,
+    "ref": "这是我大姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2499,
+    "ref": "那个是我的祖父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2500,
+    "ref": "恩这是我姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2501,
+    "ref": "恩这是我媳妇呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2502,
+    "ref": "啊这是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2503,
+    "ref": "那个他是我的叔叔啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2504,
+    "ref": "啊舅舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2505,
+    "ref": "那个姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2506,
+    "ref": "这是我对象嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2507,
+    "ref": "啊他是我的爱人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2508,
+    "ref": "啊我娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2509,
+    "ref": "这是我相公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2510,
+    "ref": "啊这是我婆婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 2511,
+    "ref": "啊这是我爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2512,
+    "ref": "恩大姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2513,
+    "ref": "那个是我的亲妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2514,
+    "ref": "那他是我丈夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2515,
+    "ref": "那他是我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2516,
+    "ref": "我婆婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2517,
+    "ref": "恩他是我的姨丈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2518,
+    "ref": "恩他是我老公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2519,
+    "ref": "那个我姑妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 2520,
+    "ref": "啊我外甥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2521,
+    "ref": "那个表兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2522,
+    "ref": "恩姨母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2523,
+    "ref": "恩这是我姨丈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2524,
+    "ref": "恩是我妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2525,
+    "ref": "恩这是我弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2526,
+    "ref": "那个这是我太太嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2527,
+    "ref": "啊他是我祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2528,
+    "ref": "那个是我的奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2529,
+    "ref": "啊是我的太太啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2530,
+    "ref": "那他是我儿媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2531,
+    "ref": "恩是我侄子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2532,
+    "ref": "恩这是我夫人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2533,
+    "ref": "那这是我儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2534,
+    "ref": "恩是我女儿呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2535,
+    "ref": "那是我姑妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2536,
+    "ref": "恩儿子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2537,
+    "ref": "我祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2538,
+    "ref": "那这是我嫂嫂",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2539,
+    "ref": "那我妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2540,
+    "ref": "啊是我亲母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2541,
+    "ref": "那个他是我的岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2542,
+    "ref": "啊他是我姑妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2543,
+    "ref": "恩他是我的儿媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 2544,
+    "ref": "那是我的外孙女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2545,
+    "ref": "啊是我堂姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2546,
+    "ref": "那个我弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2547,
+    "ref": "那个他是我姨夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2548,
+    "ref": "恩我先生",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2549,
+    "ref": "那是我外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2550,
+    "ref": "啊是我表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2551,
+    "ref": "那个这是我外祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 2552,
+    "ref": "那个是我爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2553,
+    "ref": "那是我的外祖母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2554,
+    "ref": "这是我姨妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2555,
+    "ref": "恩他是我爸爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2556,
+    "ref": "那个他是我姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 2557,
+    "ref": "是我的嫂子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2558,
+    "ref": "那个是我的伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2559,
+    "ref": "那个表兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2560,
+    "ref": "那个是我爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2561,
+    "ref": "那这是我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2562,
+    "ref": "那是我姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2563,
+    "ref": "那个是我儿媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2564,
+    "ref": "恩他是我的相公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2565,
+    "ref": "那个媳妇",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2566,
+    "ref": "恩这是我舅嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2567,
+    "ref": "啊是我的祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2568,
+    "ref": "这是我大姑",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2569,
+    "ref": "恩他是我妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2570,
+    "ref": "是我外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2571,
+    "ref": "是我的弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2572,
+    "ref": "啊我表妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2573,
+    "ref": "是我堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2574,
+    "ref": "那是我的伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2575,
+    "ref": "那个我亲哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2576,
+    "ref": "那个他是我婆婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2577,
+    "ref": "那他是我堂弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2578,
+    "ref": "啊他是我的姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2579,
+    "ref": "父亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2580,
+    "ref": "恩我儿子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2581,
+    "ref": "啊我内人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2582,
+    "ref": "这是我姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2583,
+    "ref": "恩是我外孙唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2584,
+    "ref": "舅母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2585,
+    "ref": "啊他是我的哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2586,
+    "ref": "啊是我婆婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2587,
+    "ref": "那媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2588,
+    "ref": "是我亲姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2589,
+    "ref": "那公公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 2590,
+    "ref": "啊他是我的外孙女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2591,
+    "ref": "他是我的亲弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2592,
+    "ref": "恩是我的哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2593,
+    "ref": "那他是我的表弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2594,
+    "ref": "亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2595,
+    "ref": "恩是我的姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2596,
+    "ref": "啊我亲哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2597,
+    "ref": "恩是我妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2598,
+    "ref": "那个他是我的太太嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 2599,
+    "ref": "恩是我老婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2600,
+    "ref": "那个他是我的弟媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2601,
+    "ref": "那这是我堂姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2602,
+    "ref": "是我爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2603,
+    "ref": "那个是我夫妻",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2604,
+    "ref": "是我兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2605,
+    "ref": "恩这是我堂姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2606,
+    "ref": "恩他是我的爹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2607,
+    "ref": "他是我的堂姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2608,
+    "ref": "那表哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2609,
+    "ref": "那个这是我伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2610,
+    "ref": "大伯啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2611,
+    "ref": "那我媳妇",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2612,
+    "ref": "是我堂姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2613,
+    "ref": "那爸爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2614,
+    "ref": "那他是我的叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2615,
+    "ref": "啊娘唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2616,
+    "ref": "恩爷爷",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2617,
+    "ref": "那个这是我侄女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2618,
+    "ref": "啊这是我外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2619,
+    "ref": "啊我娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2620,
+    "ref": "那个是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2621,
+    "ref": "啊他是我相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2622,
+    "ref": "祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2623,
+    "ref": "那姨妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2624,
+    "ref": "啊他是我大姨呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2625,
+    "ref": "配偶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2626,
+    "ref": "是我表妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2627,
+    "ref": "恩姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2628,
+    "ref": "恩他是我的外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2629,
+    "ref": "是我老爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2630,
+    "ref": "恩他是我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2631,
+    "ref": "那是我嫂嫂唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2632,
+    "ref": "啊这是我爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2633,
+    "ref": "这是我娘唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2634,
+    "ref": "那个娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2635,
+    "ref": "啊我配偶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2636,
+    "ref": "那我堂姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2637,
+    "ref": "那他是我的儿媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2638,
+    "ref": "那兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2639,
+    "ref": "啊我堂弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2640,
+    "ref": "那这是我外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 2641,
+    "ref": "那个他是我的姨母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2642,
+    "ref": "恩是我舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2643,
+    "ref": "那个我儿子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2644,
+    "ref": "恩他是我外公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2645,
+    "ref": "那这是我舅母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2646,
+    "ref": "那个他是我女婿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2647,
+    "ref": "啊是我对象啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2648,
+    "ref": "那这是我姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2649,
+    "ref": "恩是我爹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2650,
+    "ref": "那个他是我的堂弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2651,
+    "ref": "那他是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2652,
+    "ref": "恩这是我丈夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2653,
+    "ref": "啊我父亲啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2654,
+    "ref": "啊是我的姐夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2655,
+    "ref": "那老妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 2656,
+    "ref": "那大姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2657,
+    "ref": "他是我儿媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2658,
+    "ref": "他是我的娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 2659,
+    "ref": "我弟媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2660,
+    "ref": "那个他是我哥哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2661,
+    "ref": "啊妗母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2662,
+    "ref": "恩我侄子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2663,
+    "ref": "恩这是我姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2664,
+    "ref": "那是我的夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2665,
+    "ref": "那是我家父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2666,
+    "ref": "那这是我舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2667,
+    "ref": "啊表妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2668,
+    "ref": "那他是我妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2669,
+    "ref": "那这是我夫人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2670,
+    "ref": "那个是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2671,
+    "ref": "恩是我的丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2672,
+    "ref": "那他是我的亲妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2673,
+    "ref": "那是我姨妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2674,
+    "ref": "是我的母亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2675,
+    "ref": "那个他是我的外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2676,
+    "ref": "那个他是我的祖母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 2677,
+    "ref": "那个他是我的亲姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2678,
+    "ref": "我老妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2679,
+    "ref": "啊他是我的姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2680,
+    "ref": "那他是我的嫂嫂唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2681,
+    "ref": "恩我亲姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 2682,
+    "ref": "我外孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2683,
+    "ref": "啊他是我的婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 2684,
+    "ref": "恩是我的表兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2685,
+    "ref": "伯父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2686,
+    "ref": "啊我侄女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2687,
+    "ref": "啊亲哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2688,
+    "ref": "那他是我姐夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2689,
+    "ref": "他是我先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2690,
+    "ref": "那个是我爷爷啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2691,
+    "ref": "恩这是我儿子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2692,
+    "ref": "那是我表妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2693,
+    "ref": "那个他是我的爷爷呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2694,
+    "ref": "恩他是我的弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2695,
+    "ref": "恩我亲妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2696,
+    "ref": "啊他是我的外甥女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 2697,
+    "ref": "那个是我的儿媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2698,
+    "ref": "啊他是我的亲哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2699,
+    "ref": "侄女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2700,
+    "ref": "恩是我堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 2701,
+    "ref": "恩他是我哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2702,
+    "ref": "这是我妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2703,
+    "ref": "那个婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2704,
+    "ref": "是我的女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2705,
+    "ref": "那是我的夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2706,
+    "ref": "他是我儿子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2707,
+    "ref": "啊是我外公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2708,
+    "ref": "那个是我哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2709,
+    "ref": "是我的伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2710,
+    "ref": "啊我家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2711,
+    "ref": "啊他是我母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 2712,
+    "ref": "啊老婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2713,
+    "ref": "那个这是我亲哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2714,
+    "ref": "啊亲母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2715,
+    "ref": "啊是我的姨妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2716,
+    "ref": "啊他是我的公公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2717,
+    "ref": "啊我妹夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2718,
+    "ref": "那是我家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2719,
+    "ref": "啊我姑父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2720,
+    "ref": "恩他是我的表姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2721,
+    "ref": "那是我的妻子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2722,
+    "ref": "啊这是我姨丈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2723,
+    "ref": "啊他是我的祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2724,
+    "ref": "堂姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2725,
+    "ref": "啊大伯啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2726,
+    "ref": "恩我亲弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2727,
+    "ref": "那这是我公公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 2728,
+    "ref": "那个他是我姨夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2729,
+    "ref": "那他是我妈妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2730,
+    "ref": "那个是我的外孙",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2731,
+    "ref": "是我外公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2732,
+    "ref": "那个我孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2733,
+    "ref": "恩他是我对象啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2734,
+    "ref": "是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2735,
+    "ref": "啊是我的亲哥哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2736,
+    "ref": "是我的亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2737,
+    "ref": "是我的侄子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2738,
+    "ref": "那个他是我堂兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2739,
+    "ref": "那亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2740,
+    "ref": "恩我外婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2741,
+    "ref": "恩我堂姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2742,
+    "ref": "这是我姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2743,
+    "ref": "恩奶奶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2744,
+    "ref": "这是我夫人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2745,
+    "ref": "那我亲家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 2746,
+    "ref": "那个是我的岳母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2747,
+    "ref": "那个他是我的爷爷啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2748,
+    "ref": "是我的大姨嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2749,
+    "ref": "外婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 2750,
+    "ref": "他是我表兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2751,
+    "ref": "是我的侄子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2752,
+    "ref": "那个这是我爸爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2753,
+    "ref": "啊父亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2754,
+    "ref": "是我的哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2755,
+    "ref": "是我外祖母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2756,
+    "ref": "恩老爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 2757,
+    "ref": "啊这是我老妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2758,
+    "ref": "那我堂弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2759,
+    "ref": "啊是我亲弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2760,
+    "ref": "那这是我奶奶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2761,
+    "ref": "恩这是我丈夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2762,
+    "ref": "他是我爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2763,
+    "ref": "是我的相公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2764,
+    "ref": "是我表姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2765,
+    "ref": "恩妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2766,
+    "ref": "那他是我家父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2767,
+    "ref": "恩他是我的堂兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2768,
+    "ref": "恩我妗母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2769,
+    "ref": "那个他是我姐夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2770,
+    "ref": "那是我的岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2771,
+    "ref": "那个他是我堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2772,
+    "ref": "那个这是我妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2773,
+    "ref": "那个我亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2774,
+    "ref": "是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2775,
+    "ref": "那个我舅母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2776,
+    "ref": "恩女儿呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2777,
+    "ref": "是我的奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2778,
+    "ref": "啊是我姨妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2779,
+    "ref": "那他是我的老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2780,
+    "ref": "那个这是我姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 2781,
+    "ref": "啊我外孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2782,
+    "ref": "恩他是我的伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2783,
+    "ref": "那他是我配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2784,
+    "ref": "啊他是我亲弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2785,
+    "ref": "那个我婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2786,
+    "ref": "啊我祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2787,
+    "ref": "啊这是我亲弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2788,
+    "ref": "恩他是我的孙子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2789,
+    "ref": "这是我亲母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2790,
+    "ref": "啊舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2791,
+    "ref": "那个他是我的堂弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2792,
+    "ref": "那个是我的岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2793,
+    "ref": "啊我姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2794,
+    "ref": "那个是我的姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 2795,
+    "ref": "恩他是我姨妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2796,
+    "ref": "恩他是我的外祖母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2797,
+    "ref": "恩堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2798,
+    "ref": "恩这是我堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 2799,
+    "ref": "是我嫂嫂唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2800,
+    "ref": "恩他是我媳妇啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2801,
+    "ref": "是我的妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 2802,
+    "ref": "啊这是我爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2803,
+    "ref": "那这是我婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2804,
+    "ref": "那个这是我堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2805,
+    "ref": "恩亲母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2806,
+    "ref": "啊我堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2807,
+    "ref": "那我奶奶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2808,
+    "ref": "恩是我的媳妇唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 2809,
+    "ref": "那个他是我的太太呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 2810,
+    "ref": "恩这是我侄子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2811,
+    "ref": "那这是我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2812,
+    "ref": "恩我岳父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2813,
+    "ref": "我亲家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2814,
+    "ref": "那我外祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 2815,
+    "ref": "啊姨丈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2816,
+    "ref": "那个是我的爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 2817,
+    "ref": "恩是我的祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2818,
+    "ref": "啊我堂弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2819,
+    "ref": "恩是我堂兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2820,
+    "ref": "那个这是我外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2821,
+    "ref": "他是我伯父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2822,
+    "ref": "那爸爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2823,
+    "ref": "啊我家父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2824,
+    "ref": "那老公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2825,
+    "ref": "啊对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 2826,
+    "ref": "那他是我妹夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2827,
+    "ref": "啊他是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2828,
+    "ref": "那个是我舅母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2829,
+    "ref": "啊是我的姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 2830,
+    "ref": "那个是我姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 2831,
+    "ref": "啊是我的岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2832,
+    "ref": "那个这是我亲母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 2833,
+    "ref": "啊是我的妈妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2834,
+    "ref": "那个我堂哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2835,
+    "ref": "恩是我亲弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2836,
+    "ref": "那舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 2837,
+    "ref": "那个是我的哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2838,
+    "ref": "是我的家父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2839,
+    "ref": "恩我外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2840,
+    "ref": "这是我妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2841,
+    "ref": "我外孙啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2842,
+    "ref": "啊侄女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2843,
+    "ref": "那个他是我的相公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2844,
+    "ref": "那是我夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2845,
+    "ref": "我伯母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2846,
+    "ref": "那是我亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2847,
+    "ref": "恩是我的表弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2848,
+    "ref": "那个伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 2849,
+    "ref": "是我外孙啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 2850,
+    "ref": "他是我爹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2851,
+    "ref": "恩他是我表妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 2852,
+    "ref": "那个堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2853,
+    "ref": "那我舅",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2854,
+    "ref": "啊他是我舅舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2855,
+    "ref": "是我大姨啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 2856,
+    "ref": "恩是我外甥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2857,
+    "ref": "啊是我老公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 2858,
+    "ref": "恩他是我外公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2859,
+    "ref": "恩他是我的兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2860,
+    "ref": "这是我奶奶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 2861,
+    "ref": "这是我堂妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 2862,
+    "ref": "恩我祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 2863,
+    "ref": "那他是我的舅母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2864,
+    "ref": "是我外祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2865,
+    "ref": "那个这是我亲弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 2866,
+    "ref": "这是我女婿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2867,
+    "ref": "啊是我大姨嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 2868,
+    "ref": "那他是我孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2869,
+    "ref": "他是我堂姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2870,
+    "ref": "他是我堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2871,
+    "ref": "啊是我娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 2872,
+    "ref": "恩是我亲家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2873,
+    "ref": "那个是我的伯母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 2874,
+    "ref": "那这是我姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 2875,
+    "ref": "是我婆婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 2876,
+    "ref": "恩是我亲妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 2877,
+    "ref": "那这是我外祖母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2878,
+    "ref": "恩我弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 2879,
+    "ref": "这是我爷爷",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2880,
+    "ref": "恩妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2881,
+    "ref": "那他是我孙子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 2882,
+    "ref": "啊他是我的堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2883,
+    "ref": "恩这是我爸爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 2884,
+    "ref": "这是我内人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2885,
+    "ref": "恩这是我堂兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2886,
+    "ref": "这是我妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2887,
+    "ref": "恩是我伯母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2888,
+    "ref": "他是我的舅舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2889,
+    "ref": "啊亲姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2890,
+    "ref": "那个这是我表姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 2891,
+    "ref": "恩他是我堂姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2892,
+    "ref": "啊表哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2893,
+    "ref": "是我的母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2894,
+    "ref": "啊是我的夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2895,
+    "ref": "那我亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2896,
+    "ref": "那个他是我的外甥女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2897,
+    "ref": "他是我的叔叔啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2898,
+    "ref": "恩这是我侄女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 2899,
+    "ref": "恩是我的家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2900,
+    "ref": "啊娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2901,
+    "ref": "那他是我表妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2902,
+    "ref": "啊他是我的相公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 2903,
+    "ref": "那是我外婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2904,
+    "ref": "那他是我妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 2905,
+    "ref": "恩他是我的表妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2906,
+    "ref": "啊他是我家父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2907,
+    "ref": "恩这是我兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 2908,
+    "ref": "那个他是我妻子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2909,
+    "ref": "是我公公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2910,
+    "ref": "我妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 2911,
+    "ref": "恩是我夫人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2912,
+    "ref": "那个是我的儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 2913,
+    "ref": "那表弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2914,
+    "ref": "他是我的亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 2915,
+    "ref": "恩我叔叔嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2916,
+    "ref": "是我配偶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2917,
+    "ref": "那个父亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2918,
+    "ref": "是我的妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 2919,
+    "ref": "啊他是我的堂兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 2920,
+    "ref": "这是我老爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 2921,
+    "ref": "那个是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2922,
+    "ref": "那是我的姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2923,
+    "ref": "那是我姑妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 2924,
+    "ref": "那个他是我妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2925,
+    "ref": "那个他是我的弟弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 2926,
+    "ref": "那个妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2927,
+    "ref": "那个是我的外祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 2928,
+    "ref": "啊这是我家父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2929,
+    "ref": "恩是我的爱人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 2930,
+    "ref": "啊是我的舅舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2931,
+    "ref": "那个是我媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 2932,
+    "ref": "舅嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2933,
+    "ref": "那他是我的弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2934,
+    "ref": "那个是我伯母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 2935,
+    "ref": "啊我亲姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2936,
+    "ref": "这是我丈夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 2937,
+    "ref": "我大伯",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2938,
+    "ref": "那他是我堂弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 2939,
+    "ref": "这是我堂弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 2940,
+    "ref": "啊他是我的爱人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 2941,
+    "ref": "那个外甥女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 2942,
+    "ref": "那这是我亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 2943,
+    "ref": "那个我弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 2944,
+    "ref": "是我的儿子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2945,
+    "ref": "那个这是我娘",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2946,
+    "ref": "是我夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 2947,
+    "ref": "那个我女儿啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 2948,
+    "ref": "恩是我的母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 2949,
+    "ref": "那个我亲弟弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 2950,
+    "ref": "我配偶啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2951,
+    "ref": "这是我孙子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 2952,
+    "ref": "那是我姑妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 2953,
+    "ref": "我娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2954,
+    "ref": "他是我的弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 2955,
+    "ref": "恩他是我的伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 2956,
+    "ref": "恩是我的弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2957,
+    "ref": "啊是我老公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 2958,
+    "ref": "恩他是我媳妇唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 2959,
+    "ref": "那个这是我亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 2960,
+    "ref": "啊是我表姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2961,
+    "ref": "姐夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 2962,
+    "ref": "恩他是我侄女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 2963,
+    "ref": "恩他是我亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 2964,
+    "ref": "我兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2965,
+    "ref": "他是我的亲弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2966,
+    "ref": "啊表哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2967,
+    "ref": "那是我的对象",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2968,
+    "ref": "他是我的老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 2969,
+    "ref": "啊是我的爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 2970,
+    "ref": "那我公公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 2971,
+    "ref": "恩他是我姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 2972,
+    "ref": "啊这是我妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2973,
+    "ref": "啊他是我的亲哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 2974,
+    "ref": "那是我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 2975,
+    "ref": "那是我丈夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 2976,
+    "ref": "那他是我爸爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 2977,
+    "ref": "那大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 2978,
+    "ref": "那个他是我的岳母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2979,
+    "ref": "啊他是我伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 2980,
+    "ref": "那个老公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2981,
+    "ref": "那个他是我的妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2982,
+    "ref": "恩对象嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 2983,
+    "ref": "恩这是我姐夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 2984,
+    "ref": "恩是我相公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 2985,
+    "ref": "那个外祖父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 2986,
+    "ref": "他是我的姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2987,
+    "ref": "那我奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 2988,
+    "ref": "恩我孙子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 2989,
+    "ref": "啊这是我先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 2990,
+    "ref": "啊是我的表哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 2991,
+    "ref": "那个这是我妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 2992,
+    "ref": "那个这是我对象啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 2993,
+    "ref": "我奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 2994,
+    "ref": "他是我夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 2995,
+    "ref": "那个是我父亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 2996,
+    "ref": "我伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 2997,
+    "ref": "那他是我的亲弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 2998,
+    "ref": "啊姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 2999,
+    "ref": "恩是我亲哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3000,
+    "ref": "啊他是我的外婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3001,
+    "ref": "恩我女婿唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3002,
+    "ref": "那个是我堂兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3003,
+    "ref": "恩我家父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3004,
+    "ref": "那我亲姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3005,
+    "ref": "那这是我嫂嫂唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 3006,
+    "ref": "啊他是我公公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3007,
+    "ref": "恩岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3008,
+    "ref": "那个我夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3009,
+    "ref": "是我的表弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3010,
+    "ref": "那个是我的老爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3011,
+    "ref": "那个是我的祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3012,
+    "ref": "是我的表弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3013,
+    "ref": "那是我的大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3014,
+    "ref": "那他是我的姨母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3015,
+    "ref": "啊是我的老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3016,
+    "ref": "啊我大伯唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3017,
+    "ref": "那个妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3018,
+    "ref": "恩这是我伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3019,
+    "ref": "啊亲哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3020,
+    "ref": "那他是我的堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3021,
+    "ref": "那这是我大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3022,
+    "ref": "那是我的爹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3023,
+    "ref": "那个我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3024,
+    "ref": "啊是我弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3025,
+    "ref": "是我儿子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3026,
+    "ref": "啊是我的儿子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3027,
+    "ref": "恩母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 3028,
+    "ref": "啊这是我爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3029,
+    "ref": "那个他是我的儿媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3030,
+    "ref": "那是我外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3031,
+    "ref": "那个是我表哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3032,
+    "ref": "啊亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3033,
+    "ref": "他是我的堂哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3034,
+    "ref": "恩他是我的亲妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 3035,
+    "ref": "啊这是我父亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3036,
+    "ref": "恩是我亲姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3037,
+    "ref": "那这是我叔叔嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 3038,
+    "ref": "是我的亲弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3039,
+    "ref": "他是我的女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3040,
+    "ref": "那个媳妇唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3041,
+    "ref": "那个他是我的祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 3042,
+    "ref": "那这是我爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3043,
+    "ref": "啊他是我的外祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 3044,
+    "ref": "那爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3045,
+    "ref": "那个大伯唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3046,
+    "ref": "那个这是我姑妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3047,
+    "ref": "恩是我的妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3048,
+    "ref": "我亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3049,
+    "ref": "那个是我的姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3050,
+    "ref": "那个是我的配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3051,
+    "ref": "这是我岳母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3052,
+    "ref": "那个是我外孙啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3053,
+    "ref": "恩我堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3054,
+    "ref": "那个是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3055,
+    "ref": "是我的祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3056,
+    "ref": "那个这是我亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3057,
+    "ref": "恩是我的妹夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3058,
+    "ref": "那我姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3059,
+    "ref": "那个是我的岳父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3060,
+    "ref": "那个表哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3061,
+    "ref": "那他是我大姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3062,
+    "ref": "是我的伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3063,
+    "ref": "那个表妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3064,
+    "ref": "他是我外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3065,
+    "ref": "恩他是我的先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3066,
+    "ref": "那个是我的外孙女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3067,
+    "ref": "那个这是我表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3068,
+    "ref": "啊这是我孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3069,
+    "ref": "那是我的外祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3070,
+    "ref": "那他是我的大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3071,
+    "ref": "那舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3072,
+    "ref": "他是我的姐夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3073,
+    "ref": "这是我哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3074,
+    "ref": "那个他是我媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3075,
+    "ref": "恩这是我亲姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3076,
+    "ref": "那是我的堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3077,
+    "ref": "那叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3078,
+    "ref": "啊是我妹夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3079,
+    "ref": "那个是我亲母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3080,
+    "ref": "那个这是我外孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3081,
+    "ref": "恩他是我的堂兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3082,
+    "ref": "那个他是我堂哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3083,
+    "ref": "那个我家父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3084,
+    "ref": "他是我岳父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 3085,
+    "ref": "啊姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3086,
+    "ref": "那是我的伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3087,
+    "ref": "那他是我的表姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3088,
+    "ref": "他是我的哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3089,
+    "ref": "我先生",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3090,
+    "ref": "那他是我妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3091,
+    "ref": "那这是我堂姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3092,
+    "ref": "那个这是我表哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3093,
+    "ref": "恩他是我姑",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3094,
+    "ref": "啊我兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3095,
+    "ref": "那个孙子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3096,
+    "ref": "啊他是我的表妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3097,
+    "ref": "那个弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3098,
+    "ref": "恩舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3099,
+    "ref": "那个是我妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 3100,
+    "ref": "那个他是我的姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3101,
+    "ref": "那他是我的伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3102,
+    "ref": "啊我伯母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3103,
+    "ref": "恩他是我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3104,
+    "ref": "恩他是我亲姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3105,
+    "ref": "是我姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3106,
+    "ref": "啊我大姨",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3107,
+    "ref": "啊是我的姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3108,
+    "ref": "那他是我孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3109,
+    "ref": "是我舅舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3110,
+    "ref": "啊他是我的亲哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3111,
+    "ref": "那个是我表弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3112,
+    "ref": "那是我的舅舅",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3113,
+    "ref": "是我的老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3114,
+    "ref": "那亲姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3115,
+    "ref": "恩他是我的伯父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3116,
+    "ref": "那个是我的外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3117,
+    "ref": "那这是我家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3118,
+    "ref": "恩他是我的大姑",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3119,
+    "ref": "是我的侄子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3120,
+    "ref": "啊我亲妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3121,
+    "ref": "他是我的姨母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3122,
+    "ref": "那个这是我娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3123,
+    "ref": "恩我先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3124,
+    "ref": "啊我姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3125,
+    "ref": "恩这是我亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3126,
+    "ref": "啊这是我儿媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3127,
+    "ref": "那侄子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3128,
+    "ref": "那他是我姐姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3129,
+    "ref": "恩我姑妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3130,
+    "ref": "那是我的姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3131,
+    "ref": "恩他是我姑父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3132,
+    "ref": "那个太太啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3133,
+    "ref": "恩是我嫂子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 3134,
+    "ref": "恩他是我亲弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3135,
+    "ref": "恩是我的表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3136,
+    "ref": "他是我儿子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 3137,
+    "ref": "恩他是我表兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3138,
+    "ref": "恩他是我外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3139,
+    "ref": "啊他是我爹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3140,
+    "ref": "我外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3141,
+    "ref": "啊他是我的外公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3142,
+    "ref": "他是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3143,
+    "ref": "啊爷爷",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3144,
+    "ref": "那他是我伯父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3145,
+    "ref": "舅母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3146,
+    "ref": "那个是我外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3147,
+    "ref": "啊是我的先生呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3148,
+    "ref": "那是我亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3149,
+    "ref": "那个是我孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3150,
+    "ref": "那个这是我岳母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3151,
+    "ref": "那个他是我妈妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3152,
+    "ref": "我奶奶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3153,
+    "ref": "那这是我姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3154,
+    "ref": "那个他是我的孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3155,
+    "ref": "那我夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 3156,
+    "ref": "是我的姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3157,
+    "ref": "啊我大姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3158,
+    "ref": "那个这是我相公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 3159,
+    "ref": "那是我的亲弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3160,
+    "ref": "恩丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3161,
+    "ref": "那个他是我的外孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3162,
+    "ref": "是我的嫂子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3163,
+    "ref": "他是我夫人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3164,
+    "ref": "啊我对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3165,
+    "ref": "啊是我哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3166,
+    "ref": "恩是我的堂姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3167,
+    "ref": "那这是我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3168,
+    "ref": "啊亲妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3169,
+    "ref": "那个是我的姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3170,
+    "ref": "这是我老妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3171,
+    "ref": "那个我亲母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3172,
+    "ref": "啊我相公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3173,
+    "ref": "那个他是我的姑父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3174,
+    "ref": "啊我夫妻",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3175,
+    "ref": "那个是我亲弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3176,
+    "ref": "恩这是我亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3177,
+    "ref": "啊他是我的老公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3178,
+    "ref": "那他是我外甥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3179,
+    "ref": "恩他是我的亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3180,
+    "ref": "那他是我的丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3181,
+    "ref": "啊是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3182,
+    "ref": "恩他是我堂兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3183,
+    "ref": "那他是我的姑父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3184,
+    "ref": "啊他是我亲弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3185,
+    "ref": "那个哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3186,
+    "ref": "恩他是我对象",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3187,
+    "ref": "那个哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3188,
+    "ref": "那是我娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3189,
+    "ref": "是我舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3190,
+    "ref": "恩外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3191,
+    "ref": "他是我外婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3192,
+    "ref": "啊他是我外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3193,
+    "ref": "啊他是我的表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3194,
+    "ref": "他是我的表妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3195,
+    "ref": "那我堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3196,
+    "ref": "那个我嫂嫂嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3197,
+    "ref": "那个这是我祖母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3198,
+    "ref": "那是我的儿媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3199,
+    "ref": "那是我外祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3200,
+    "ref": "那个他是我姐夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3201,
+    "ref": "那个是我的堂哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3202,
+    "ref": "那个他是我哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3203,
+    "ref": "恩我外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3204,
+    "ref": "那个是我的爷爷啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3205,
+    "ref": "恩这是我堂哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3206,
+    "ref": "这是我亲哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3207,
+    "ref": "那这是我妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3208,
+    "ref": "那是我的姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 3209,
+    "ref": "啊他是我的公公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3210,
+    "ref": "那个他是我儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3211,
+    "ref": "那他是我爱人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3212,
+    "ref": "啊他是我侄子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3213,
+    "ref": "恩堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3214,
+    "ref": "那个是我配偶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3215,
+    "ref": "那个他是我大姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3216,
+    "ref": "那个是我的家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3217,
+    "ref": "我堂兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3218,
+    "ref": "他是我弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3219,
+    "ref": "那他是我的表姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3220,
+    "ref": "那个这是我儿媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3221,
+    "ref": "恩是我爱人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3222,
+    "ref": "那个他是我的夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3223,
+    "ref": "那他是我的妗母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3224,
+    "ref": "那亲哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3225,
+    "ref": "那他是我的嫂子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3226,
+    "ref": "那是我的妹夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3227,
+    "ref": "恩是我的弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3228,
+    "ref": "那他是我表弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3229,
+    "ref": "他是我的姑父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3230,
+    "ref": "那个嫂嫂唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3231,
+    "ref": "那个是我大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3232,
+    "ref": "那是我亲母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3233,
+    "ref": "那这是我亲母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3234,
+    "ref": "这是我女儿呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3235,
+    "ref": "那他是我的爷爷啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3236,
+    "ref": "恩他是我的哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3237,
+    "ref": "那是我的夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3238,
+    "ref": "是我亲弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3239,
+    "ref": "是我的爷爷呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3240,
+    "ref": "恩他是我舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3241,
+    "ref": "那个这是我表姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3242,
+    "ref": "这是我奶奶唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3243,
+    "ref": "那他是我的媳妇",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3244,
+    "ref": "那个是我的亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3245,
+    "ref": "那个是我堂姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3246,
+    "ref": "啊伯父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3247,
+    "ref": "那这是我亲家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3248,
+    "ref": "恩堂弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3249,
+    "ref": "恩我家母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3250,
+    "ref": "啊他是我的孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3251,
+    "ref": "那我孙子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3252,
+    "ref": "是我的表兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3253,
+    "ref": "那个是我母亲啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3254,
+    "ref": "他是我的老妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3255,
+    "ref": "恩妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3256,
+    "ref": "恩他是我的母亲嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3257,
+    "ref": "他是我的堂哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3258,
+    "ref": "那是我的兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3259,
+    "ref": "啊我弟媳嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3260,
+    "ref": "那个家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3261,
+    "ref": "那表姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3262,
+    "ref": "舅舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3263,
+    "ref": "那他是我的岳母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3264,
+    "ref": "那我妗母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3265,
+    "ref": "啊这是我妻子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3266,
+    "ref": "我爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3267,
+    "ref": "啊外祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3268,
+    "ref": "那他是我的堂弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3269,
+    "ref": "是我对象唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3270,
+    "ref": "啊是我的母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3271,
+    "ref": "那个这是我亲姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3272,
+    "ref": "恩他是我姐夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3273,
+    "ref": "恩是我堂弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3274,
+    "ref": "那这是我老爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3275,
+    "ref": "恩我家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3276,
+    "ref": "那他是我外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3277,
+    "ref": "恩这是我表妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3278,
+    "ref": "啊他是我的爹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3279,
+    "ref": "家父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3280,
+    "ref": "那个我爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3281,
+    "ref": "他是我的爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3282,
+    "ref": "那个是我的姑父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3283,
+    "ref": "恩他是我舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3284,
+    "ref": "那是我的儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3285,
+    "ref": "我岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3286,
+    "ref": "恩我内人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3287,
+    "ref": "恩他是我的爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3288,
+    "ref": "这是我爱人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3289,
+    "ref": "那是我孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3290,
+    "ref": "啊他是我叔叔",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3291,
+    "ref": "恩我老妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3292,
+    "ref": "他是我的孙子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3293,
+    "ref": "啊是我大伯呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3294,
+    "ref": "那这是我夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3295,
+    "ref": "那表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3296,
+    "ref": "那个我亲弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3297,
+    "ref": "那个他是我的老婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3298,
+    "ref": "那个他是我的姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3299,
+    "ref": "恩是我的婆婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3300,
+    "ref": "那这是我妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3301,
+    "ref": "姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3302,
+    "ref": "恩这是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3303,
+    "ref": "那这是我姑父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3304,
+    "ref": "那我弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3305,
+    "ref": "那个是我哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3306,
+    "ref": "那个我侄子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3307,
+    "ref": "那是我媳妇啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3308,
+    "ref": "那个他是我姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3309,
+    "ref": "是我爷爷",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3310,
+    "ref": "我表兄呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3311,
+    "ref": "那堂姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3312,
+    "ref": "啊是我的老爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3313,
+    "ref": "那个他是我弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3314,
+    "ref": "恩堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3315,
+    "ref": "恩是我表姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3316,
+    "ref": "啊我妹妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3317,
+    "ref": "那他是我亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3318,
+    "ref": "那个他是我岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 3319,
+    "ref": "那个是我的侄女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3320,
+    "ref": "恩他是我的夫人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3321,
+    "ref": "那他是我老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3322,
+    "ref": "恩是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3323,
+    "ref": "恩他是我亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3324,
+    "ref": "那个是我的姨妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3325,
+    "ref": "那是我的丈夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3326,
+    "ref": "他是我的老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3327,
+    "ref": "这是我姐夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3328,
+    "ref": "是我大伯",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3329,
+    "ref": "那个我外甥女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3330,
+    "ref": "嫂嫂呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3331,
+    "ref": "啊奶奶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3332,
+    "ref": "恩是我夫人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3333,
+    "ref": "恩家父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3334,
+    "ref": "恩我爱人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3335,
+    "ref": "他是我的舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3336,
+    "ref": "那是我外祖父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3337,
+    "ref": "夫妻",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3338,
+    "ref": "啊我外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3339,
+    "ref": "那这是我妗母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3340,
+    "ref": "那个这是我岳父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3341,
+    "ref": "那个他是我的外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3342,
+    "ref": "那个我先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3343,
+    "ref": "恩是我的对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3344,
+    "ref": "啊他是我婆婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3345,
+    "ref": "那他是我爸爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3346,
+    "ref": "这是我姨夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3347,
+    "ref": "那个他是我的表哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3348,
+    "ref": "恩这是我哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3349,
+    "ref": "恩他是我老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3350,
+    "ref": "那个这是我弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3351,
+    "ref": "那这是我堂兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3352,
+    "ref": "是我亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3353,
+    "ref": "那他是我的外甥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 3354,
+    "ref": "恩这是我父亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3355,
+    "ref": "那个是我哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3356,
+    "ref": "恩是我亲哥哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3357,
+    "ref": "那是我姨夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3358,
+    "ref": "是我的外甥女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3359,
+    "ref": "那个他是我兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3360,
+    "ref": "那个他是我亲姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3361,
+    "ref": "啊他是我表兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3362,
+    "ref": "恩他是我的表兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3363,
+    "ref": "恩我太太唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3364,
+    "ref": "啊是我伯父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3365,
+    "ref": "那个是我的夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3366,
+    "ref": "那他是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3367,
+    "ref": "这是我堂姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3368,
+    "ref": "啊这是我亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3369,
+    "ref": "那个嫂子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3370,
+    "ref": "啊是我的老公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3371,
+    "ref": "我舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3372,
+    "ref": "是我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3373,
+    "ref": "啊他是我妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3374,
+    "ref": "他是我舅母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3375,
+    "ref": "恩他是我的舅舅啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3376,
+    "ref": "啊我老婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3377,
+    "ref": "他是我亲弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3378,
+    "ref": "那个他是我的外婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3379,
+    "ref": "是我外甥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3380,
+    "ref": "我女儿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3381,
+    "ref": "那是我亲妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3382,
+    "ref": "我表弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3383,
+    "ref": "那我姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3384,
+    "ref": "恩这是我堂兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3385,
+    "ref": "那是我婆婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3386,
+    "ref": "他是我的姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3387,
+    "ref": "啊伯母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3388,
+    "ref": "恩是我弟媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3389,
+    "ref": "那他是我的爹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3390,
+    "ref": "啊是我的大伯唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3391,
+    "ref": "那个家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3392,
+    "ref": "恩是我丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3393,
+    "ref": "那他是我的堂兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3394,
+    "ref": "恩这是我外婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3395,
+    "ref": "恩是我妻子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3396,
+    "ref": "那是我的姨妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3397,
+    "ref": "啊这是我爷爷嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3398,
+    "ref": "啊这是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3399,
+    "ref": "这是我母亲嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3400,
+    "ref": "啊他是我伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3401,
+    "ref": "啊他是我的外祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3402,
+    "ref": "啊他是我大伯嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3403,
+    "ref": "那是我表姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3404,
+    "ref": "那个他是我表妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3405,
+    "ref": "我兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3406,
+    "ref": "我外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3407,
+    "ref": "恩这是我媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3408,
+    "ref": "啊这是我爸爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 3409,
+    "ref": "那是我的姨丈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3410,
+    "ref": "那我舅嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3411,
+    "ref": "那对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3412,
+    "ref": "那个内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3413,
+    "ref": "那是我妈妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3414,
+    "ref": "那个母亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3415,
+    "ref": "那他是我的兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3416,
+    "ref": "那祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3417,
+    "ref": "恩妹夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3418,
+    "ref": "那个我亲妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3419,
+    "ref": "他是我的表弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3420,
+    "ref": "我老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3421,
+    "ref": "那个我母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3422,
+    "ref": "恩这是我姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3423,
+    "ref": "那个他是我太太啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3424,
+    "ref": "啊表兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3425,
+    "ref": "那个是我爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3426,
+    "ref": "啊他是我姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3427,
+    "ref": "那他是我舅舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3428,
+    "ref": "恩我堂弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3429,
+    "ref": "那个配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3430,
+    "ref": "恩他是我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3431,
+    "ref": "恩他是我的弟媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3432,
+    "ref": "啊这是我媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3433,
+    "ref": "那是我嫂嫂呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3434,
+    "ref": "这是我相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3435,
+    "ref": "那是我堂姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3436,
+    "ref": "亲哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3437,
+    "ref": "恩老爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3438,
+    "ref": "那是我舅母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3439,
+    "ref": "恩他是我对象唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3440,
+    "ref": "恩他是我的堂兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3441,
+    "ref": "那是我的孙子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3442,
+    "ref": "啊是我的亲妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3443,
+    "ref": "啊他是我大姑",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3444,
+    "ref": "恩是我的夫妻唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3445,
+    "ref": "侄子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3446,
+    "ref": "那是我的家父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3447,
+    "ref": "那个是我的妈妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3448,
+    "ref": "他是我亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3449,
+    "ref": "那个是我外孙唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3450,
+    "ref": "啊他是我妻子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3451,
+    "ref": "恩我孙女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3452,
+    "ref": "恩我家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3453,
+    "ref": "这是我母亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3454,
+    "ref": "啊表姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3455,
+    "ref": "那个他是我的妗母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3456,
+    "ref": "那个妹夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3457,
+    "ref": "啊他是我的娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3458,
+    "ref": "啊他是我的哥哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3459,
+    "ref": "那个他是我的妻子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3460,
+    "ref": "是我老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3461,
+    "ref": "啊先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3462,
+    "ref": "恩是我的堂弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3463,
+    "ref": "他是我的外婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3464,
+    "ref": "那个我叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3465,
+    "ref": "这是我侄子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3466,
+    "ref": "那这是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3467,
+    "ref": "那他是我的夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3468,
+    "ref": "那个这是我孙子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3469,
+    "ref": "是我表弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3470,
+    "ref": "恩他是我的堂姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3471,
+    "ref": "那个是我的表姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3472,
+    "ref": "他是我伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3473,
+    "ref": "我外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3474,
+    "ref": "那他是我的妹夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3475,
+    "ref": "那个这是我姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3476,
+    "ref": "恩我哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3477,
+    "ref": "啊他是我娘",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3478,
+    "ref": "那个他是我姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3479,
+    "ref": "那个大姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3480,
+    "ref": "啊我姑父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3481,
+    "ref": "恩这是我老公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3482,
+    "ref": "那他是我的爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3483,
+    "ref": "啊岳母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3484,
+    "ref": "那是我岳父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3485,
+    "ref": "那外孙唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3486,
+    "ref": "恩他是我的外祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3487,
+    "ref": "这是我爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3488,
+    "ref": "啊这是我外孙女",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3489,
+    "ref": "恩是我夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3490,
+    "ref": "那他是我表弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3491,
+    "ref": "啊是我祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3492,
+    "ref": "啊他是我老妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3493,
+    "ref": "啊我兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 3494,
+    "ref": "那个我公公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 3495,
+    "ref": "那是我表兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3496,
+    "ref": "那他是我的亲姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3497,
+    "ref": "恩他是我妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3498,
+    "ref": "这是我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3499,
+    "ref": "啊妈妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3500,
+    "ref": "啊我爱人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3501,
+    "ref": "啊这是我大伯啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3502,
+    "ref": "这是我祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3503,
+    "ref": "这是我亲母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3504,
+    "ref": "我堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3505,
+    "ref": "他是我的姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3506,
+    "ref": "恩是我夫妻",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3507,
+    "ref": "恩是我的亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3508,
+    "ref": "那妈妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3509,
+    "ref": "他是我舅舅嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3510,
+    "ref": "那是我的堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3511,
+    "ref": "恩他是我的哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3512,
+    "ref": "那是我的先生嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3513,
+    "ref": "那是我婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3514,
+    "ref": "啊我亲姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3515,
+    "ref": "恩他是我的相公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3516,
+    "ref": "那这是我夫妻嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3517,
+    "ref": "啊我老爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3518,
+    "ref": "恩我姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3519,
+    "ref": "那个爱人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3520,
+    "ref": "恩我妈妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3521,
+    "ref": "那个他是我母亲呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3522,
+    "ref": "那个是我的丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3523,
+    "ref": "那个表哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3524,
+    "ref": "那是我的老公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3525,
+    "ref": "我亲弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3526,
+    "ref": "那个是我的堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3527,
+    "ref": "那个他是我亲母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3528,
+    "ref": "那个我丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3529,
+    "ref": "恩堂妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3530,
+    "ref": "那是我的舅舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3531,
+    "ref": "恩这是我妈妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3532,
+    "ref": "那这是我外孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3533,
+    "ref": "啊他是我姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3534,
+    "ref": "恩这是我表哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3535,
+    "ref": "恩是我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3536,
+    "ref": "那个他是我的表姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3537,
+    "ref": "那是我的配偶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3538,
+    "ref": "啊他是我的老妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3539,
+    "ref": "啊他是我亲哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3540,
+    "ref": "那个这是我表姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3541,
+    "ref": "恩是我的大姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3542,
+    "ref": "我妈妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3543,
+    "ref": "我表姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3544,
+    "ref": "是我爹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3545,
+    "ref": "儿子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3546,
+    "ref": "我妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3547,
+    "ref": "那个堂姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3548,
+    "ref": "那个是我的对象",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3549,
+    "ref": "恩他是我弟媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3550,
+    "ref": "啊是我的爷爷唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3551,
+    "ref": "这是我亲妹妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3552,
+    "ref": "啊他是我老爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3553,
+    "ref": "啊这是我亲妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3554,
+    "ref": "恩家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3555,
+    "ref": "啊我嫂子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3556,
+    "ref": "外甥女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3557,
+    "ref": "那个妹夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3558,
+    "ref": "是我对象嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3559,
+    "ref": "那我老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3560,
+    "ref": "啊他是我孙女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3561,
+    "ref": "他是我妗母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3562,
+    "ref": "那是我妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3563,
+    "ref": "那我舅母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3564,
+    "ref": "恩他是我姨母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3565,
+    "ref": "啊他是我的舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3566,
+    "ref": "恩娘呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3567,
+    "ref": "那这是我奶奶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3568,
+    "ref": "恩孙女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3569,
+    "ref": "他是我外祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3570,
+    "ref": "我妈妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3571,
+    "ref": "那我姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3572,
+    "ref": "那我伯母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3573,
+    "ref": "这是我大姨呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3574,
+    "ref": "那个相公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3575,
+    "ref": "那个他是我媳妇唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3576,
+    "ref": "那个这是我太太",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3577,
+    "ref": "那个他是我的亲姐姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3578,
+    "ref": "恩他是我的儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3579,
+    "ref": "恩是我表妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3580,
+    "ref": "是我姑父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3581,
+    "ref": "啊他是我亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3582,
+    "ref": "那堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3583,
+    "ref": "啊他是我亲妹妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3584,
+    "ref": "啊是我妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3585,
+    "ref": "恩他是我的姨妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3586,
+    "ref": "啊是我的家父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3587,
+    "ref": "那个他是我的堂妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3588,
+    "ref": "恩是我的嫂子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3589,
+    "ref": "那个我爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3590,
+    "ref": "恩我侄子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3591,
+    "ref": "那是我的舅嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3592,
+    "ref": "啊老爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "娘",
+    "id": 3593,
+    "ref": "那个我娘嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3594,
+    "ref": "啊这是我表姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3595,
+    "ref": "啊我外孙唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3596,
+    "ref": "这是我堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3597,
+    "ref": "他是我弟媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3598,
+    "ref": "那是我堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 3599,
+    "ref": "那个他是我公公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3600,
+    "ref": "那他是我的弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3601,
+    "ref": "那个是我的外孙嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3602,
+    "ref": "恩太太",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3603,
+    "ref": "恩是我的表弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3604,
+    "ref": "啊我夫妻呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3605,
+    "ref": "那我嫂嫂",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3606,
+    "ref": "那是我内人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3607,
+    "ref": "啊我姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3608,
+    "ref": "那我堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3609,
+    "ref": "恩我妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3610,
+    "ref": "那个我哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3611,
+    "ref": "恩是我哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3612,
+    "ref": "恩他是我的表哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3613,
+    "ref": "他是我的亲姐姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3614,
+    "ref": "那他是我的姨夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐妹",
+    "id": 3615,
+    "ref": "那个他是我堂姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3616,
+    "ref": "恩他是我的姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3617,
+    "ref": "啊他是我的孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3618,
+    "ref": "啊亲弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3619,
+    "ref": "那他是我的亲家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3620,
+    "ref": "啊他是我的哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3621,
+    "ref": "恩是我的母亲唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3622,
+    "ref": "那他是我外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3623,
+    "ref": "那他是我哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3624,
+    "ref": "啊他是我的外孙啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3625,
+    "ref": "他是我爷爷嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3626,
+    "ref": "那这是我岳父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3627,
+    "ref": "啊我先生呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3628,
+    "ref": "恩孙子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3629,
+    "ref": "恩他是我的妻子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3630,
+    "ref": "那个他是我的配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3631,
+    "ref": "恩他是我堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3632,
+    "ref": "那个他是我的堂兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3633,
+    "ref": "啊他是我弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3634,
+    "ref": "啊这是我外公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3635,
+    "ref": "啊他是我堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3636,
+    "ref": "那是我堂兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3637,
+    "ref": "那个他是我的岳母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3638,
+    "ref": "恩是我先生唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3639,
+    "ref": "那个是我先生呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3640,
+    "ref": "恩是我的大姨唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3641,
+    "ref": "啊这是我祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3642,
+    "ref": "恩是我外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3643,
+    "ref": "啊他是我妹夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3644,
+    "ref": "那个他是我的媳妇嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3645,
+    "ref": "恩外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3646,
+    "ref": "那姑妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "公公",
+    "id": 3647,
+    "ref": "他是我公公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3648,
+    "ref": "他是我哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3649,
+    "ref": "啊他是我的弟弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3650,
+    "ref": "恩他是我的姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3651,
+    "ref": "那是我的婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3652,
+    "ref": "恩他是我的姑父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3653,
+    "ref": "这是我女儿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3654,
+    "ref": "那是我的外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3655,
+    "ref": "内人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3656,
+    "ref": "那个是我的表妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3657,
+    "ref": "妈妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯父",
+    "id": 3658,
+    "ref": "他是我的伯父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3659,
+    "ref": "啊他是我侄子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3660,
+    "ref": "啊这是我大伯",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3661,
+    "ref": "他是我家父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3662,
+    "ref": "啊是我的妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3663,
+    "ref": "恩是我的老婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3664,
+    "ref": "啊是我的亲哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3665,
+    "ref": "那这是我姨夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3666,
+    "ref": "是我家母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3667,
+    "ref": "那是我姨妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3668,
+    "ref": "那是我弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3669,
+    "ref": "是我的舅舅",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3670,
+    "ref": "那这是我外祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3671,
+    "ref": "我丈夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3672,
+    "ref": "恩我嫂子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3673,
+    "ref": "他是我的姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3674,
+    "ref": "啊他是我姐妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3675,
+    "ref": "那个是我姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3676,
+    "ref": "啊这是我婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3677,
+    "ref": "我内人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3678,
+    "ref": "恩我叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3679,
+    "ref": "那个他是我女儿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3680,
+    "ref": "啊亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3681,
+    "ref": "那个是我的爸爸",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3682,
+    "ref": "那个是我表姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3683,
+    "ref": "那个我姨夫",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3684,
+    "ref": "那个他是我的妻子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3685,
+    "ref": "啊这是我堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3686,
+    "ref": "啊他是我外孙呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3687,
+    "ref": "爹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3688,
+    "ref": "那个他是我的姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3689,
+    "ref": "啊他是我的姨母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 3690,
+    "ref": "啊是我表兄弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3691,
+    "ref": "恩他是我的岳母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3692,
+    "ref": "那个我丈夫啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3693,
+    "ref": "那个是我的堂哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3694,
+    "ref": "啊我爷爷呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3695,
+    "ref": "恩这是我外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3696,
+    "ref": "那这是我爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3697,
+    "ref": "恩他是我的外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3698,
+    "ref": "恩他是我大姑呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3699,
+    "ref": "那我姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3700,
+    "ref": "啊这是我先生呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3701,
+    "ref": "恩我姨夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3702,
+    "ref": "恩姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3703,
+    "ref": "啊我大伯啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3704,
+    "ref": "那孙子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3705,
+    "ref": "恩他是我表妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3706,
+    "ref": "恩他是我大姑嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3707,
+    "ref": "那个是我女儿呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3708,
+    "ref": "啊我老婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3709,
+    "ref": "恩我舅母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3710,
+    "ref": "啊是我的配偶呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3711,
+    "ref": "我女婿唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3712,
+    "ref": "恩我祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3713,
+    "ref": "啊我妈妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3714,
+    "ref": "那他是我的姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3715,
+    "ref": "那个他是我的姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3716,
+    "ref": "那个是我兄弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3717,
+    "ref": "啊是我弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3718,
+    "ref": "恩他是我的姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3719,
+    "ref": "啊我爸爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3720,
+    "ref": "那个他是我的亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3721,
+    "ref": "那我舅舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3722,
+    "ref": "那他是我叔叔呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3723,
+    "ref": "那他是我的亲哥哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3724,
+    "ref": "啊他是我的弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妗母",
+    "id": 3725,
+    "ref": "恩我妗母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3726,
+    "ref": "那是我姨母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3727,
+    "ref": "啊这是我姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3728,
+    "ref": "那是我的外公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3729,
+    "ref": "那个是我表兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3730,
+    "ref": "恩这是我孙子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3731,
+    "ref": "啊他是我的媳妇唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 3732,
+    "ref": "是我表兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3733,
+    "ref": "啊他是我亲弟弟唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙",
+    "id": 3734,
+    "ref": "外孙啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3735,
+    "ref": "是我的亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3736,
+    "ref": "啊祖母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3737,
+    "ref": "姐夫唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3738,
+    "ref": "亲哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙子",
+    "id": 3739,
+    "ref": "那个是我孙子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3740,
+    "ref": "我姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3741,
+    "ref": "是我外甥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3742,
+    "ref": "啊表姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3743,
+    "ref": "那个他是我表姐妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3744,
+    "ref": "恩我姨母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3745,
+    "ref": "那个这是我外祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3746,
+    "ref": "那我老公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3747,
+    "ref": "恩这是我堂兄弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3748,
+    "ref": "我老爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3749,
+    "ref": "那个是我姐妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3750,
+    "ref": "啊是我家父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3751,
+    "ref": "恩是我的堂兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3752,
+    "ref": "是我的内人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3753,
+    "ref": "那这是我堂哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3754,
+    "ref": "他是我祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3755,
+    "ref": "是我的弟媳",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3756,
+    "ref": "啊他是我家母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3757,
+    "ref": "恩我表哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3758,
+    "ref": "那是我的堂兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3759,
+    "ref": "那是我家母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3760,
+    "ref": "啊是我的夫人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3761,
+    "ref": "是我妹妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3762,
+    "ref": "啊是我的姑妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3763,
+    "ref": "恩他是我的表兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爹",
+    "id": 3764,
+    "ref": "那个我爹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3765,
+    "ref": "那亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3766,
+    "ref": "那个是我的伯母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3767,
+    "ref": "啊是我的妻子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3768,
+    "ref": "那他是我的先生",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3769,
+    "ref": "啊这是我女儿呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3770,
+    "ref": "恩这是我相公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3771,
+    "ref": "那个他是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3772,
+    "ref": "那个他是我的哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3773,
+    "ref": "啊这是我老公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3774,
+    "ref": "那个这是我舅舅",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3775,
+    "ref": "那这是我叔叔唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3776,
+    "ref": "恩是我的孙女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3777,
+    "ref": "这是我堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3778,
+    "ref": "恩亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3779,
+    "ref": "那这是我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3780,
+    "ref": "那个是我堂兄唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3781,
+    "ref": "啊这是我外甥女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3782,
+    "ref": "我亲妹妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3783,
+    "ref": "是我婆婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爷爷",
+    "id": 3784,
+    "ref": "我爷爷嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3785,
+    "ref": "恩他是我舅舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3786,
+    "ref": "奶奶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3787,
+    "ref": "这是我表妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3788,
+    "ref": "这是我婆婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3789,
+    "ref": "恩亲妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3790,
+    "ref": "那个我哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3791,
+    "ref": "亲家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3792,
+    "ref": "那是我亲妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3793,
+    "ref": "那是我的内人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3794,
+    "ref": "那这是我姨夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3795,
+    "ref": "他是我的堂哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大伯",
+    "id": 3796,
+    "ref": "那个大伯嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹夫",
+    "id": 3797,
+    "ref": "那个是我妹夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3798,
+    "ref": "是我岳母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄女",
+    "id": 3799,
+    "ref": "他是我的侄女唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3800,
+    "ref": "恩他是我嫂子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3801,
+    "ref": "那个是我的嫂嫂呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3802,
+    "ref": "是我妈妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3803,
+    "ref": "啊他是我的对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3804,
+    "ref": "啊我表哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3805,
+    "ref": "那个这是我爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3806,
+    "ref": "那是我堂兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3807,
+    "ref": "啊是我的配偶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "父亲",
+    "id": 3808,
+    "ref": "那父亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3809,
+    "ref": "那个姨母",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3810,
+    "ref": "啊太太啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3811,
+    "ref": "那个他是我丈夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3812,
+    "ref": "那他是我的先生啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3813,
+    "ref": "那堂弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐夫",
+    "id": 3814,
+    "ref": "他是我姐夫呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3815,
+    "ref": "那个他是我的夫人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "丈夫",
+    "id": 3816,
+    "ref": "这是我丈夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3817,
+    "ref": "恩是我的妻子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3818,
+    "ref": "那他是我堂哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3819,
+    "ref": "我对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3820,
+    "ref": "这是我大姑唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3821,
+    "ref": "啊姨妈啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3822,
+    "ref": "那是我姑父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3823,
+    "ref": "那外公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3824,
+    "ref": "恩堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3825,
+    "ref": "那是我家母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3826,
+    "ref": "那姑妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑父",
+    "id": 3827,
+    "ref": "那个他是我姑父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3828,
+    "ref": "恩祖父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3829,
+    "ref": "那个他是我的表妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3830,
+    "ref": "啊他是我的祖母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3831,
+    "ref": "是我的外甥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥",
+    "id": 3832,
+    "ref": "恩是我的哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "兄弟",
+    "id": 3833,
+    "ref": "那他是我的兄弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3834,
+    "ref": "那个是我亲姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3835,
+    "ref": "那是我的相公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3836,
+    "ref": "我外公嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3837,
+    "ref": "那个他是我的亲姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3838,
+    "ref": "恩老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3839,
+    "ref": "那个我先生嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3840,
+    "ref": "那个我祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3841,
+    "ref": "恩这是我表兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅",
+    "id": 3842,
+    "ref": "啊舅唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3843,
+    "ref": "是我老爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女儿",
+    "id": 3844,
+    "ref": "我女儿嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3845,
+    "ref": "那他是我家父啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3846,
+    "ref": "那嫂子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3847,
+    "ref": "我对象",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3848,
+    "ref": "那个我儿媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟",
+    "id": 3849,
+    "ref": "是我弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3850,
+    "ref": "那堂兄嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3851,
+    "ref": "他是我的亲弟弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3852,
+    "ref": "表姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3853,
+    "ref": "恩表姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3854,
+    "ref": "恩是我亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟媳",
+    "id": 3855,
+    "ref": "那个弟媳啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3856,
+    "ref": "恩我堂姐嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3857,
+    "ref": "恩外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3858,
+    "ref": "那是我的亲哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3859,
+    "ref": "那他是我堂兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3860,
+    "ref": "那个是我的表哥啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3861,
+    "ref": "恩我儿子啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3862,
+    "ref": "啊是我的妈妈",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂弟",
+    "id": 3863,
+    "ref": "那是我的堂弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3864,
+    "ref": "我家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3865,
+    "ref": "那他是我的亲家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 3866,
+    "ref": "恩是我的爸啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3867,
+    "ref": "恩我表哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3868,
+    "ref": "那个我亲姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3869,
+    "ref": "啊是我的家母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家母",
+    "id": 3870,
+    "ref": "恩家母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨母",
+    "id": 3871,
+    "ref": "那他是我的姨母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3872,
+    "ref": "恩我表姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖母",
+    "id": 3873,
+    "ref": "那我外祖母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3874,
+    "ref": "啊他是我的舅母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3875,
+    "ref": "啊这是我老公",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3876,
+    "ref": "那个他是我的爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3877,
+    "ref": "恩爱人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄弟",
+    "id": 3878,
+    "ref": "恩他是我的堂兄弟啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3879,
+    "ref": "啊这是我内人唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "女婿",
+    "id": 3880,
+    "ref": "那个我女婿",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3881,
+    "ref": "那姐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3882,
+    "ref": "他是我的舅母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹妹",
+    "id": 3883,
+    "ref": "恩我亲妹妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥女",
+    "id": 3884,
+    "ref": "我外甥女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3885,
+    "ref": "那他是我的外祖父唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3886,
+    "ref": "恩是我的相公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3887,
+    "ref": "啊是我表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸爸",
+    "id": 3888,
+    "ref": "恩是我爸爸呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3889,
+    "ref": "那是我岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "媳妇",
+    "id": 3890,
+    "ref": "恩他是我媳妇呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3891,
+    "ref": "啊我外甥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3892,
+    "ref": "那他是我堂哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3893,
+    "ref": "恩他是我的配偶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3894,
+    "ref": "是我老婆啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表哥",
+    "id": 3895,
+    "ref": "啊是我表哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3896,
+    "ref": "啊他是我弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖母",
+    "id": 3897,
+    "ref": "恩我祖母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅母",
+    "id": 3898,
+    "ref": "那这是我舅母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3899,
+    "ref": "啊他是我的亲哥哥嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3900,
+    "ref": "啊他是我表姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3901,
+    "ref": "啊是我堂妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "相公",
+    "id": 3902,
+    "ref": "啊他是我的相公唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "先生",
+    "id": 3903,
+    "ref": "那个这是我先生嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3904,
+    "ref": "恩是我配偶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3905,
+    "ref": "恩他是我岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3906,
+    "ref": "那我妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "哥哥",
+    "id": 3907,
+    "ref": "那个是我的哥哥呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "孙女",
+    "id": 3908,
+    "ref": "那这是我孙女啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3909,
+    "ref": "啊我表妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3910,
+    "ref": "那是我亲姐姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外公",
+    "id": 3911,
+    "ref": "那外公啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3912,
+    "ref": "那个我妻子唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿子",
+    "id": 3913,
+    "ref": "那我儿子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂嫂",
+    "id": 3914,
+    "ref": "那嫂嫂呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3915,
+    "ref": "恩这是我内人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老爸",
+    "id": 3916,
+    "ref": "那个我老爸嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "伯母",
+    "id": 3917,
+    "ref": "啊我伯母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3918,
+    "ref": "那弟弟呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3919,
+    "ref": "那他是我的内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3920,
+    "ref": "啊他是我大姨嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "祖父",
+    "id": 3921,
+    "ref": "恩这是我祖父呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表弟",
+    "id": 3922,
+    "ref": "恩我表弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3923,
+    "ref": "啊是我亲妹呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨丈",
+    "id": 3924,
+    "ref": "啊他是我的姨丈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "舅舅",
+    "id": 3925,
+    "ref": "啊这是我舅舅呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑妈",
+    "id": 3926,
+    "ref": "啊他是我的姑妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐",
+    "id": 3927,
+    "ref": "那个这是我姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3928,
+    "ref": "那个是我的姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐姐",
+    "id": 3929,
+    "ref": "恩这是我姐姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3930,
+    "ref": "那个是我嫂子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3931,
+    "ref": "那个姨妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨夫",
+    "id": 3932,
+    "ref": "啊姨夫嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲母",
+    "id": 3933,
+    "ref": "啊这是我亲母嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老妈",
+    "id": 3934,
+    "ref": "啊是我老妈唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐",
+    "id": 3935,
+    "ref": "啊是我亲姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3936,
+    "ref": "恩他是我婆婆唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3937,
+    "ref": "内人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姑",
+    "id": 3938,
+    "ref": "那他是我大姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂哥",
+    "id": 3939,
+    "ref": "那是我堂哥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟弟",
+    "id": 3940,
+    "ref": "这是我亲弟弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3941,
+    "ref": "啊他是我的夫人嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "大姨",
+    "id": 3942,
+    "ref": "那个大姨呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爸",
+    "id": 3943,
+    "ref": "这是我爸唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3944,
+    "ref": "那个我妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "奶奶",
+    "id": 3945,
+    "ref": "那个是我的奶奶嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3946,
+    "ref": "啊我岳母呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3947,
+    "ref": "那个他是我老婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲姐姐",
+    "id": 3948,
+    "ref": "那个亲姐姐呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3949,
+    "ref": "是我外祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫妻",
+    "id": 3950,
+    "ref": "那个他是我的夫妻啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "叔叔",
+    "id": 3951,
+    "ref": "那个我叔叔唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3952,
+    "ref": "那个是我太太",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂妹",
+    "id": 3953,
+    "ref": "是我的堂妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 3954,
+    "ref": "那个是我的亲弟嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "弟弟",
+    "id": 3955,
+    "ref": "他是我弟弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳父",
+    "id": 3956,
+    "ref": "恩是我的岳父",
+    "label_name": "kinship"
+  },
+  {
+    "write": "爱人",
+    "id": 3957,
+    "ref": "是我爱人啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂姐",
+    "id": 3958,
+    "ref": "啊他是我的堂姐啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "夫人",
+    "id": 3959,
+    "ref": "恩他是我的夫人",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3960,
+    "ref": "恩他是我的妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲妹",
+    "id": 3961,
+    "ref": "那是我亲妹嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3962,
+    "ref": "那个是我婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "家父",
+    "id": 3963,
+    "ref": "那是我家父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "侄子",
+    "id": 3964,
+    "ref": "那他是我的侄子嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姑",
+    "id": 3965,
+    "ref": "恩我姑啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄",
+    "id": 3966,
+    "ref": "恩他是我的表兄啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐",
+    "id": 3967,
+    "ref": "啊表姐唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老公",
+    "id": 3968,
+    "ref": "恩他是我的老公呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外祖父",
+    "id": 3969,
+    "ref": "那我外祖父嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈妈",
+    "id": 3970,
+    "ref": "啊我妈妈呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3971,
+    "ref": "那个是我亲哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹",
+    "id": 3972,
+    "ref": "我妹",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姨妈",
+    "id": 3973,
+    "ref": "恩是我姨妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "岳母",
+    "id": 3974,
+    "ref": "恩他是我岳母啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "老婆",
+    "id": 3975,
+    "ref": "那个是我老婆呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥哥",
+    "id": 3976,
+    "ref": "啊亲哥哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "母亲",
+    "id": 3977,
+    "ref": "这是我母亲",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲哥",
+    "id": 3978,
+    "ref": "那个是我的亲哥唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表妹",
+    "id": 3979,
+    "ref": "那个他是我表妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妈",
+    "id": 3980,
+    "ref": "那妈嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲家母",
+    "id": 3981,
+    "ref": "那个这是我亲家母唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "嫂子",
+    "id": 3982,
+    "ref": "啊这是我嫂子呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妹妹",
+    "id": 3983,
+    "ref": "恩这是我妹妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "婆婆",
+    "id": 3984,
+    "ref": "恩是我婆婆",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3985,
+    "ref": "那我外孙女嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "儿媳",
+    "id": 3986,
+    "ref": "恩这是我儿媳唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "对象",
+    "id": 3987,
+    "ref": "这是我对象呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "妻子",
+    "id": 3988,
+    "ref": "那这是我妻子",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外孙女",
+    "id": 3989,
+    "ref": "那个是我外孙女呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外甥",
+    "id": 3990,
+    "ref": "是我的外甥",
+    "label_name": "kinship"
+  },
+  {
+    "write": "亲弟",
+    "id": 3991,
+    "ref": "恩他是我亲弟",
+    "label_name": "kinship"
+  },
+  {
+    "write": "外婆",
+    "id": 3992,
+    "ref": "那个我外婆嘛",
+    "label_name": "kinship"
+  },
+  {
+    "write": "堂兄",
+    "id": 3993,
+    "ref": "那个他是我堂兄",
+    "label_name": "kinship"
+  },
+  {
+    "write": "姐妹",
+    "id": 3994,
+    "ref": "那是我的姐妹啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "配偶",
+    "id": 3995,
+    "ref": "那个他是我的配偶",
+    "label_name": "kinship"
+  },
+  {
+    "write": "内人",
+    "id": 3996,
+    "ref": "恩这是我内人呐",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表姐妹",
+    "id": 3997,
+    "ref": "啊他是我的表姐妹唉",
+    "label_name": "kinship"
+  },
+  {
+    "write": "太太",
+    "id": 3998,
+    "ref": "那是我的太太啊",
+    "label_name": "kinship"
+  },
+  {
+    "write": "表兄弟",
+    "id": 3999,
+    "ref": "那个这是我表兄弟呐",
+    "label_name": "kinship"
+  }
+]

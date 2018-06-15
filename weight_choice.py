@@ -21,10 +21,16 @@ def windex(weight):
         t -= val
         if t < 0:
             return i
-
+def windexint(weight):
+    t = random.randint(0, sum(weight) - 1)
+    # t = random.uniform(0, sum(weight) - 1)
+    for i, val in enumerate(weight):
+        t -= val
+        if t < 0:
+            return i
 
 if __name__ == "__main__":
     for i in range(50):
         # print(w_choice(['A', 'B', 'C', 'D'], [5, 2, 2, 1]))
         # print(windex([4, 2, 2, 2]))
-        print(windex([1,1.1]))
+        print(windexint([1,2]))

@@ -1,0 +1,8024 @@
+[
+  {
+    "label_name": "confirm",
+    "id": 0,
+    "label": 2,
+    "ref": "我看看啊不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1,
+    "label": 2,
+    "ref": "额我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 2,
+    "label": 2,
+    "ref": "啊不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 3,
+    "label": 2,
+    "ref": "额不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 4,
+    "label": 2,
+    "ref": "啊不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 5,
+    "label": 2,
+    "ref": "稍等我看看啊不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 6,
+    "label": 2,
+    "ref": "我看看额不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 7,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 8,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 9,
+    "label": 2,
+    "ref": "稍等我看看额不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 10,
+    "label": 2,
+    "ref": "啊我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 11,
+    "label": 2,
+    "ref": "啊我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 12,
+    "label": 2,
+    "ref": "稍等我看看不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 13,
+    "label": 1,
+    "ref": "我看看恩对的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 14,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 15,
+    "label": 2,
+    "ref": "我看看额不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 16,
+    "label": 1,
+    "ref": "我看看恩是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 17,
+    "label": 2,
+    "ref": "啊我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 18,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 19,
+    "label": 1,
+    "ref": "恩是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 20,
+    "label": 1,
+    "ref": "我看看对"
+  },
+  {
+    "label_name": "confirm",
+    "id": 21,
+    "label": 1,
+    "ref": "我看看是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 22,
+    "label": 2,
+    "ref": "我看看额不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 23,
+    "label": 2,
+    "ref": "稍等我看看啊啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 24,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 25,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 26,
+    "label": 2,
+    "ref": "我看看额不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 27,
+    "label": 2,
+    "ref": "稍等我看看额不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 28,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 29,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 30,
+    "label": 2,
+    "ref": "啊我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 31,
+    "label": 2,
+    "ref": "我看看额不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 32,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 33,
+    "label": 1,
+    "ref": "稍等我看看恩对的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 34,
+    "label": 2,
+    "ref": "不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 35,
+    "label": 2,
+    "ref": "我看看不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 36,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 37,
+    "label": 1,
+    "ref": "稍等我看看对哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 38,
+    "label": 2,
+    "ref": "啊不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 39,
+    "label": 2,
+    "ref": "稍等我看看不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 40,
+    "label": 2,
+    "ref": "我看看额不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 41,
+    "label": 2,
+    "ref": "我看看额不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 42,
+    "label": 2,
+    "ref": "我看看额不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 43,
+    "label": 1,
+    "ref": "恩对的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 44,
+    "label": 1,
+    "ref": "对哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 45,
+    "label": 2,
+    "ref": "稍等我看看不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 46,
+    "label": 1,
+    "ref": "我看看恩是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 47,
+    "label": 2,
+    "ref": "额不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 48,
+    "label": 2,
+    "ref": "我看看额不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 49,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 50,
+    "label": 2,
+    "ref": "我看看额不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 51,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 52,
+    "label": 1,
+    "ref": "是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 53,
+    "label": 2,
+    "ref": "不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 54,
+    "label": 2,
+    "ref": "我看看啊不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 55,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 56,
+    "label": 2,
+    "ref": "我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 57,
+    "label": 1,
+    "ref": "恩是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 58,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 59,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 60,
+    "label": 2,
+    "ref": "稍等我看看不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 61,
+    "label": 2,
+    "ref": "额不是的我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 62,
+    "label": 2,
+    "ref": "不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 63,
+    "label": 2,
+    "ref": "啊不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 64,
+    "label": 2,
+    "ref": "额不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 65,
+    "label": 2,
+    "ref": "我看看额不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 66,
+    "label": 1,
+    "ref": "我看看恩哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 67,
+    "label": 2,
+    "ref": "我看看额不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 68,
+    "label": 1,
+    "ref": "恩是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 69,
+    "label": 1,
+    "ref": "稍等我看看恩是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 70,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 71,
+    "label": 1,
+    "ref": "稍等我看看恩"
+  },
+  {
+    "label_name": "confirm",
+    "id": 72,
+    "label": 1,
+    "ref": "稍等我看看是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 73,
+    "label": 2,
+    "ref": "额不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 74,
+    "label": 2,
+    "ref": "啊不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 75,
+    "label": 2,
+    "ref": "我看看额不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 76,
+    "label": 2,
+    "ref": "我看看啊不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 77,
+    "label": 2,
+    "ref": "啊不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 78,
+    "label": 1,
+    "ref": "稍等我看看是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 79,
+    "label": 1,
+    "ref": "是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 80,
+    "label": 2,
+    "ref": "我看看不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 81,
+    "label": 2,
+    "ref": "我看看不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 82,
+    "label": 2,
+    "ref": "啊不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 83,
+    "label": 2,
+    "ref": "稍等我看看啊我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 84,
+    "label": 1,
+    "ref": "我看看对啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 85,
+    "label": 2,
+    "ref": "额不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 86,
+    "label": 2,
+    "ref": "我看看不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 87,
+    "label": 2,
+    "ref": "啊不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 88,
+    "label": 1,
+    "ref": "我看看恩呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 89,
+    "label": 2,
+    "ref": "我看看啊不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 90,
+    "label": 1,
+    "ref": "我看看是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 91,
+    "label": 2,
+    "ref": "稍等我看看啊不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 92,
+    "label": 2,
+    "ref": "稍等我看看不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 93,
+    "label": 2,
+    "ref": "额不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 94,
+    "label": 1,
+    "ref": "对"
+  },
+  {
+    "label_name": "confirm",
+    "id": 95,
+    "label": 2,
+    "ref": "我看看不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 96,
+    "label": 2,
+    "ref": "额不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 97,
+    "label": 2,
+    "ref": "啊不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 98,
+    "label": 2,
+    "ref": "不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 99,
+    "label": 2,
+    "ref": "额不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 100,
+    "label": 2,
+    "ref": "不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 101,
+    "label": 2,
+    "ref": "额不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 102,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 103,
+    "label": 1,
+    "ref": "我看看恩是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 104,
+    "label": 2,
+    "ref": "不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 105,
+    "label": 2,
+    "ref": "额不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 106,
+    "label": 2,
+    "ref": "我看看不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 107,
+    "label": 2,
+    "ref": "额我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 108,
+    "label": 2,
+    "ref": "稍等我看看额不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 109,
+    "label": 1,
+    "ref": "恩啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 110,
+    "label": 2,
+    "ref": "额我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 111,
+    "label": 2,
+    "ref": "我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 112,
+    "label": 1,
+    "ref": "稍等我看看对"
+  },
+  {
+    "label_name": "confirm",
+    "id": 113,
+    "label": 2,
+    "ref": "稍等我看看啊我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 114,
+    "label": 2,
+    "ref": "不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 115,
+    "label": 2,
+    "ref": "我看看额不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 116,
+    "label": 1,
+    "ref": "我看看是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 117,
+    "label": 2,
+    "ref": "我看看额我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 118,
+    "label": 2,
+    "ref": "啊我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 119,
+    "label": 1,
+    "ref": "是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 120,
+    "label": 2,
+    "ref": "我看看不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 121,
+    "label": 2,
+    "ref": "稍等我看看啊我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 122,
+    "label": 1,
+    "ref": "是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 123,
+    "label": 2,
+    "ref": "我看看不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 124,
+    "label": 2,
+    "ref": "稍等我看看额不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 125,
+    "label": 1,
+    "ref": "我看看恩是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 126,
+    "label": 1,
+    "ref": "稍等我看看对呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 127,
+    "label": 1,
+    "ref": "稍等我看看对啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 128,
+    "label": 2,
+    "ref": "我看看啊不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 129,
+    "label": 2,
+    "ref": "我看看额不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 130,
+    "label": 2,
+    "ref": "我看看不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 131,
+    "label": 1,
+    "ref": "稍等我看看恩啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 132,
+    "label": 2,
+    "ref": "不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 133,
+    "label": 2,
+    "ref": "我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 134,
+    "label": 2,
+    "ref": "额不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 135,
+    "label": 2,
+    "ref": "啊不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 136,
+    "label": 2,
+    "ref": "稍等我看看不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 137,
+    "label": 2,
+    "ref": "稍等我看看不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 138,
+    "label": 1,
+    "ref": "稍等我看看恩是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 139,
+    "label": 1,
+    "ref": "恩对的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 140,
+    "label": 2,
+    "ref": "我看看不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 141,
+    "label": 2,
+    "ref": "我看看啊不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 142,
+    "label": 2,
+    "ref": "我看看额不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 143,
+    "label": 2,
+    "ref": "啊不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 144,
+    "label": 1,
+    "ref": "我看看是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 145,
+    "label": 2,
+    "ref": "我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 146,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 147,
+    "label": 2,
+    "ref": "啊不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 148,
+    "label": 2,
+    "ref": "额不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 149,
+    "label": 2,
+    "ref": "不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 150,
+    "label": 2,
+    "ref": "不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 151,
+    "label": 2,
+    "ref": "我看看啊不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 152,
+    "label": 2,
+    "ref": "啊不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 153,
+    "label": 2,
+    "ref": "我看看不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 154,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 155,
+    "label": 2,
+    "ref": "我看看不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 156,
+    "label": 2,
+    "ref": "啊不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 157,
+    "label": 2,
+    "ref": "额不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 158,
+    "label": 1,
+    "ref": "对啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 159,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 160,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 161,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 162,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 163,
+    "label": 2,
+    "ref": "我看看啊不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 164,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 165,
+    "label": 2,
+    "ref": "啊不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 166,
+    "label": 2,
+    "ref": "不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 167,
+    "label": 2,
+    "ref": "我看看额不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 168,
+    "label": 1,
+    "ref": "稍等我看看恩对的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 169,
+    "label": 2,
+    "ref": "啊不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 170,
+    "label": 2,
+    "ref": "我看看啊我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 171,
+    "label": 1,
+    "ref": "稍等我看看是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 172,
+    "label": 2,
+    "ref": "不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 173,
+    "label": 2,
+    "ref": "啊不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 174,
+    "label": 2,
+    "ref": "稍等我看看额不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 175,
+    "label": 2,
+    "ref": "啊不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 176,
+    "label": 1,
+    "ref": "恩是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 177,
+    "label": 1,
+    "ref": "是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 178,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 179,
+    "label": 2,
+    "ref": "我看看啊我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 180,
+    "label": 2,
+    "ref": "稍等我看看额不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 181,
+    "label": 2,
+    "ref": "稍等我看看不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 182,
+    "label": 2,
+    "ref": "额不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 183,
+    "label": 1,
+    "ref": "稍等我看看恩是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 184,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 185,
+    "label": 2,
+    "ref": "额我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 186,
+    "label": 2,
+    "ref": "稍等我看看额不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 187,
+    "label": 2,
+    "ref": "额不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 188,
+    "label": 2,
+    "ref": "我看看啊我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 189,
+    "label": 2,
+    "ref": "我看看额不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 190,
+    "label": 2,
+    "ref": "额不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 191,
+    "label": 2,
+    "ref": "我看看啊不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 192,
+    "label": 2,
+    "ref": "我看看额不是的我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 193,
+    "label": 2,
+    "ref": "不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 194,
+    "label": 2,
+    "ref": "我看看额不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 195,
+    "label": 1,
+    "ref": "稍等我看看恩是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 196,
+    "label": 2,
+    "ref": "不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 197,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 198,
+    "label": 1,
+    "ref": "是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 199,
+    "label": 2,
+    "ref": "我看看不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 200,
+    "label": 1,
+    "ref": "我看看恩是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 201,
+    "label": 2,
+    "ref": "啊不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 202,
+    "label": 1,
+    "ref": "是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 203,
+    "label": 2,
+    "ref": "啊不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 204,
+    "label": 2,
+    "ref": "我看看额不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 205,
+    "label": 1,
+    "ref": "我看看恩对的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 206,
+    "label": 2,
+    "ref": "啊不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 207,
+    "label": 2,
+    "ref": "稍等我看看额不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 208,
+    "label": 2,
+    "ref": "额我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 209,
+    "label": 2,
+    "ref": "我看看我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 210,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 211,
+    "label": 2,
+    "ref": "我看看额不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 212,
+    "label": 1,
+    "ref": "稍等我看看是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 213,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 214,
+    "label": 2,
+    "ref": "额不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 215,
+    "label": 2,
+    "ref": "不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 216,
+    "label": 2,
+    "ref": "啊不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 217,
+    "label": 2,
+    "ref": "稍等我看看啊不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 218,
+    "label": 2,
+    "ref": "稍等我看看额不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 219,
+    "label": 2,
+    "ref": "我看看啊不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 220,
+    "label": 1,
+    "ref": "稍等我看看是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 221,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 222,
+    "label": 2,
+    "ref": "额不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 223,
+    "label": 2,
+    "ref": "啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 224,
+    "label": 2,
+    "ref": "我看看不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 225,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 226,
+    "label": 2,
+    "ref": "我看看不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 227,
+    "label": 2,
+    "ref": "我看看啊不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 228,
+    "label": 2,
+    "ref": "我看看啊不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 229,
+    "label": 2,
+    "ref": "我看看不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 230,
+    "label": 1,
+    "ref": "恩是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 231,
+    "label": 2,
+    "ref": "不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 232,
+    "label": 2,
+    "ref": "我看看我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 233,
+    "label": 2,
+    "ref": "稍等我看看额我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 234,
+    "label": 2,
+    "ref": "稍等我看看不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 235,
+    "label": 1,
+    "ref": "稍等我看看是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 236,
+    "label": 2,
+    "ref": "稍等我看看不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 237,
+    "label": 2,
+    "ref": "额不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 238,
+    "label": 1,
+    "ref": "恩是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 239,
+    "label": 2,
+    "ref": "不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 240,
+    "label": 2,
+    "ref": "我看看啊我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 241,
+    "label": 2,
+    "ref": "稍等我看看额不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 242,
+    "label": 1,
+    "ref": "是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 243,
+    "label": 2,
+    "ref": "我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 244,
+    "label": 2,
+    "ref": "我看看额我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 245,
+    "label": 2,
+    "ref": "啊不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 246,
+    "label": 2,
+    "ref": "稍等我看看额不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 247,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 248,
+    "label": 2,
+    "ref": "不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 249,
+    "label": 1,
+    "ref": "我看看恩是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 250,
+    "label": 2,
+    "ref": "额不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 251,
+    "label": 2,
+    "ref": "额不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 252,
+    "label": 2,
+    "ref": "我看看啊我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 253,
+    "label": 2,
+    "ref": "额不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 254,
+    "label": 2,
+    "ref": "我看看不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 255,
+    "label": 2,
+    "ref": "不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 256,
+    "label": 2,
+    "ref": "我看看额不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 257,
+    "label": 2,
+    "ref": "我看看我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 258,
+    "label": 2,
+    "ref": "啊不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 259,
+    "label": 2,
+    "ref": "稍等我看看不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 260,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 261,
+    "label": 2,
+    "ref": "我看看啊不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 262,
+    "label": 2,
+    "ref": "我看看我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 263,
+    "label": 1,
+    "ref": "稍等我看看恩是哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 264,
+    "label": 2,
+    "ref": "我看看额不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 265,
+    "label": 2,
+    "ref": "我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 266,
+    "label": 2,
+    "ref": "我看看不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 267,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 268,
+    "label": 2,
+    "ref": "我看看不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 269,
+    "label": 2,
+    "ref": "我看看额不是我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 270,
+    "label": 2,
+    "ref": "不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 271,
+    "label": 2,
+    "ref": "我看看啊不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 272,
+    "label": 2,
+    "ref": "不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 273,
+    "label": 2,
+    "ref": "稍等我看看不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 274,
+    "label": 2,
+    "ref": "额不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 275,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 276,
+    "label": 1,
+    "ref": "稍等我看看恩是的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 277,
+    "label": 2,
+    "ref": "稍等我看看不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 278,
+    "label": 2,
+    "ref": "稍等我看看不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 279,
+    "label": 2,
+    "ref": "不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 280,
+    "label": 1,
+    "ref": "我看看恩"
+  },
+  {
+    "label_name": "confirm",
+    "id": 281,
+    "label": 1,
+    "ref": "稍等我看看恩对的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 282,
+    "label": 2,
+    "ref": "额不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 283,
+    "label": 1,
+    "ref": "恩是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 284,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 285,
+    "label": 2,
+    "ref": "我看看啊不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 286,
+    "label": 2,
+    "ref": "我看看额不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 287,
+    "label": 2,
+    "ref": "额我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 288,
+    "label": 2,
+    "ref": "稍等我看看我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 289,
+    "label": 1,
+    "ref": "稍等我看看恩是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 290,
+    "label": 2,
+    "ref": "不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 291,
+    "label": 2,
+    "ref": "我看看额我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 292,
+    "label": 2,
+    "ref": "稍等我看看额不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 293,
+    "label": 2,
+    "ref": "额不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 294,
+    "label": 2,
+    "ref": "我看看啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 295,
+    "label": 2,
+    "ref": "稍等我看看额不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 296,
+    "label": 2,
+    "ref": "我看看不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 297,
+    "label": 2,
+    "ref": "不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 298,
+    "label": 2,
+    "ref": "啊不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 299,
+    "label": 2,
+    "ref": "额我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 300,
+    "label": 2,
+    "ref": "啊不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 301,
+    "label": 2,
+    "ref": "啊不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 302,
+    "label": 1,
+    "ref": "我看看对哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 303,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 304,
+    "label": 2,
+    "ref": "稍等我看看额不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 305,
+    "label": 2,
+    "ref": "稍等我看看我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 306,
+    "label": 2,
+    "ref": "我看看啊不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 307,
+    "label": 2,
+    "ref": "稍等我看看啊我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 308,
+    "label": 2,
+    "ref": "我看看我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 309,
+    "label": 2,
+    "ref": "我看看额不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 310,
+    "label": 2,
+    "ref": "我看看啊不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 311,
+    "label": 2,
+    "ref": "稍等我看看不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 312,
+    "label": 2,
+    "ref": "我看看额不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 313,
+    "label": 1,
+    "ref": "稍等我看看恩是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 314,
+    "label": 2,
+    "ref": "稍等我看看额不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 315,
+    "label": 2,
+    "ref": "额不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 316,
+    "label": 1,
+    "ref": "稍等我看看是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 317,
+    "label": 2,
+    "ref": "不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 318,
+    "label": 2,
+    "ref": "不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 319,
+    "label": 1,
+    "ref": "恩"
+  },
+  {
+    "label_name": "confirm",
+    "id": 320,
+    "label": 2,
+    "ref": "额不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 321,
+    "label": 2,
+    "ref": "稍等我看看额不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 322,
+    "label": 1,
+    "ref": "我看看恩对的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 323,
+    "label": 2,
+    "ref": "稍等我看看啊我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 324,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 325,
+    "label": 2,
+    "ref": "稍等我看看我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 326,
+    "label": 2,
+    "ref": "我看看额不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 327,
+    "label": 2,
+    "ref": "我看看额我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 328,
+    "label": 2,
+    "ref": "不是我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 329,
+    "label": 2,
+    "ref": "额不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 330,
+    "label": 2,
+    "ref": "额不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 331,
+    "label": 1,
+    "ref": "我看看是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 332,
+    "label": 1,
+    "ref": "恩呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 333,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 334,
+    "label": 2,
+    "ref": "我看看额不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 335,
+    "label": 2,
+    "ref": "稍等我看看啊我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 336,
+    "label": 2,
+    "ref": "额不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 337,
+    "label": 2,
+    "ref": "我看看啊不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 338,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 339,
+    "label": 2,
+    "ref": "稍等我看看额我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 340,
+    "label": 2,
+    "ref": "我看看额不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 341,
+    "label": 2,
+    "ref": "我看看啊我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 342,
+    "label": 2,
+    "ref": "额不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 343,
+    "label": 2,
+    "ref": "我看看额不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 344,
+    "label": 2,
+    "ref": "稍等我看看啊不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 345,
+    "label": 2,
+    "ref": "我看看啊我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 346,
+    "label": 2,
+    "ref": "啊我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 347,
+    "label": 2,
+    "ref": "啊我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 348,
+    "label": 2,
+    "ref": "不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 349,
+    "label": 2,
+    "ref": "我看看额不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 350,
+    "label": 2,
+    "ref": "我看看啊不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 351,
+    "label": 2,
+    "ref": "我看看啊我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 352,
+    "label": 2,
+    "ref": "啊不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 353,
+    "label": 2,
+    "ref": "额我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 354,
+    "label": 2,
+    "ref": "我看看额我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 355,
+    "label": 2,
+    "ref": "我看看不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 356,
+    "label": 1,
+    "ref": "对呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 357,
+    "label": 2,
+    "ref": "稍等我看看额不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 358,
+    "label": 2,
+    "ref": "我看看不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 359,
+    "label": 2,
+    "ref": "我看看我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 360,
+    "label": 2,
+    "ref": "稍等我看看额不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 361,
+    "label": 2,
+    "ref": "我看看不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 362,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 363,
+    "label": 2,
+    "ref": "稍等我看看啊不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 364,
+    "label": 2,
+    "ref": "我看看啊不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 365,
+    "label": 2,
+    "ref": "额不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 366,
+    "label": 2,
+    "ref": "啊不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 367,
+    "label": 2,
+    "ref": "我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 368,
+    "label": 2,
+    "ref": "稍等我看看额不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 369,
+    "label": 1,
+    "ref": "我看看恩是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 370,
+    "label": 2,
+    "ref": "我看看不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 371,
+    "label": 1,
+    "ref": "稍等我看看恩对的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 372,
+    "label": 2,
+    "ref": "稍等我看看我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 373,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 374,
+    "label": 1,
+    "ref": "恩哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 375,
+    "label": 2,
+    "ref": "我看看额不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 376,
+    "label": 2,
+    "ref": "稍等我看看额不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 377,
+    "label": 2,
+    "ref": "我看看不是我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 378,
+    "label": 2,
+    "ref": "不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 379,
+    "label": 2,
+    "ref": "我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 380,
+    "label": 2,
+    "ref": "额不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 381,
+    "label": 2,
+    "ref": "我看看不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 382,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 383,
+    "label": 2,
+    "ref": "啊不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 384,
+    "label": 2,
+    "ref": "稍等我看看啊我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 385,
+    "label": 2,
+    "ref": "稍等我看看不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 386,
+    "label": 2,
+    "ref": "稍等我看看啊我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 387,
+    "label": 2,
+    "ref": "额我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 388,
+    "label": 2,
+    "ref": "不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 389,
+    "label": 2,
+    "ref": "啊不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 390,
+    "label": 2,
+    "ref": "我看看啊我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 391,
+    "label": 1,
+    "ref": "我看看恩啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 392,
+    "label": 2,
+    "ref": "我看看不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 393,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 394,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 395,
+    "label": 2,
+    "ref": "稍等我看看额不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 396,
+    "label": 2,
+    "ref": "稍等我看看不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 397,
+    "label": 2,
+    "ref": "稍等我看看额不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 398,
+    "label": 2,
+    "ref": "我看看不是的我填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 399,
+    "label": 2,
+    "ref": "我看看不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 400,
+    "label": 2,
+    "ref": "稍等我看看不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 401,
+    "label": 2,
+    "ref": "我看看我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 402,
+    "label": 2,
+    "ref": "稍等我看看不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 403,
+    "label": 2,
+    "ref": "我看看啊我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 404,
+    "label": 2,
+    "ref": "额我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 405,
+    "label": 1,
+    "ref": "恩是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 406,
+    "label": 2,
+    "ref": "额不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 407,
+    "label": 2,
+    "ref": "不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 408,
+    "label": 2,
+    "ref": "稍等我看看我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 409,
+    "label": 2,
+    "ref": "稍等我看看额不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 410,
+    "label": 2,
+    "ref": "稍等我看看啊不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 411,
+    "label": 2,
+    "ref": "稍等我看看额不是的我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 412,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 413,
+    "label": 2,
+    "ref": "我看看额不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 414,
+    "label": 2,
+    "ref": "稍等我看看额不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 415,
+    "label": 2,
+    "ref": "不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 416,
+    "label": 1,
+    "ref": "我看看是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 417,
+    "label": 2,
+    "ref": "啊不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 418,
+    "label": 2,
+    "ref": "我看看额不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 419,
+    "label": 2,
+    "ref": "我看看啊不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 420,
+    "label": 2,
+    "ref": "我看看啊我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 421,
+    "label": 2,
+    "ref": "我看看啊不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 422,
+    "label": 2,
+    "ref": "不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 423,
+    "label": 2,
+    "ref": "我看看啊不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 424,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 425,
+    "label": 2,
+    "ref": "不是我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 426,
+    "label": 2,
+    "ref": "啊不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 427,
+    "label": 2,
+    "ref": "我看看不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 428,
+    "label": 2,
+    "ref": "稍等我看看额不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 429,
+    "label": 2,
+    "ref": "稍等我看看啊我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 430,
+    "label": 2,
+    "ref": "额我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 431,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 432,
+    "label": 2,
+    "ref": "我看看啊不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 433,
+    "label": 1,
+    "ref": "恩对的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 434,
+    "label": 2,
+    "ref": "稍等我看看啊不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 435,
+    "label": 2,
+    "ref": "我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 436,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 437,
+    "label": 2,
+    "ref": "稍等我看看额我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 438,
+    "label": 2,
+    "ref": "稍等我看看额不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 439,
+    "label": 2,
+    "ref": "我看看啊我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 440,
+    "label": 2,
+    "ref": "稍等我看看啊不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 441,
+    "label": 2,
+    "ref": "我看看啊不是我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 442,
+    "label": 2,
+    "ref": "我看看额不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 443,
+    "label": 2,
+    "ref": "我看看啊我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 444,
+    "label": 1,
+    "ref": "稍等我看看恩哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 445,
+    "label": 2,
+    "ref": "我看看我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 446,
+    "label": 2,
+    "ref": "稍等我看看额我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 447,
+    "label": 2,
+    "ref": "我看看啊不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 448,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 449,
+    "label": 2,
+    "ref": "稍等我看看不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 450,
+    "label": 2,
+    "ref": "我看看额不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 451,
+    "label": 2,
+    "ref": "我看看啊不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 452,
+    "label": 2,
+    "ref": "稍等我看看额不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 453,
+    "label": 2,
+    "ref": "稍等我看看啊不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 454,
+    "label": 2,
+    "ref": "我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 455,
+    "label": 2,
+    "ref": "我看看不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 456,
+    "label": 2,
+    "ref": "我看看啊我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 457,
+    "label": 2,
+    "ref": "我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 458,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 459,
+    "label": 2,
+    "ref": "稍等我看看啊不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 460,
+    "label": 2,
+    "ref": "稍等我看看啊不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 461,
+    "label": 2,
+    "ref": "我看看额不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 462,
+    "label": 2,
+    "ref": "我看看啊不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 463,
+    "label": 2,
+    "ref": "我看看额不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 464,
+    "label": 2,
+    "ref": "额不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 465,
+    "label": 2,
+    "ref": "稍等我看看不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 466,
+    "label": 2,
+    "ref": "啊不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 467,
+    "label": 2,
+    "ref": "啊不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 468,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 469,
+    "label": 2,
+    "ref": "我看看额不是的我申请表写的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 470,
+    "label": 2,
+    "ref": "我看看不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 471,
+    "label": 2,
+    "ref": "我看看啊不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 472,
+    "label": 2,
+    "ref": "我看看不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 473,
+    "label": 2,
+    "ref": "稍等我看看额我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 474,
+    "label": 2,
+    "ref": "我看看不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 475,
+    "label": 2,
+    "ref": "不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 476,
+    "label": 2,
+    "ref": "不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 477,
+    "label": 2,
+    "ref": "稍等我看看我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 478,
+    "label": 2,
+    "ref": "我看看额我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 479,
+    "label": 2,
+    "ref": "我看看不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 480,
+    "label": 2,
+    "ref": "我看看不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 481,
+    "label": 2,
+    "ref": "我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 482,
+    "label": 2,
+    "ref": "我看看啊不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 483,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表填的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 484,
+    "label": 1,
+    "ref": "我看看是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 485,
+    "label": 2,
+    "ref": "啊我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 486,
+    "label": 2,
+    "ref": "我看看额不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 487,
+    "label": 2,
+    "ref": "我看看额不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 488,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 489,
+    "label": 2,
+    "ref": "不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 490,
+    "label": 2,
+    "ref": "我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 491,
+    "label": 2,
+    "ref": "不是我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 492,
+    "label": 2,
+    "ref": "稍等我看看啊不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 493,
+    "label": 2,
+    "ref": "额不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 494,
+    "label": 2,
+    "ref": "额不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 495,
+    "label": 1,
+    "ref": "我看看恩是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 496,
+    "label": 2,
+    "ref": "我看看不是的我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 497,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 498,
+    "label": 2,
+    "ref": "我看看啊不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 499,
+    "label": 2,
+    "ref": "我看看额不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 500,
+    "label": 2,
+    "ref": "稍等我看看额不是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 501,
+    "label": 2,
+    "ref": "额不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 502,
+    "label": 2,
+    "ref": "我看看啊不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 503,
+    "label": 2,
+    "ref": "稍等我看看啊不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 504,
+    "label": 2,
+    "ref": "我看看啊我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 505,
+    "label": 2,
+    "ref": "额不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 506,
+    "label": 2,
+    "ref": "稍等我看看不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 507,
+    "label": 1,
+    "ref": "恩对的哦"
+  },
+  {
+    "label_name": "confirm",
+    "id": 508,
+    "label": 2,
+    "ref": "啊不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 509,
+    "label": 2,
+    "ref": "我看看啊不是的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 510,
+    "label": 2,
+    "ref": "稍等我看看我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 511,
+    "label": 2,
+    "ref": "我看看不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 512,
+    "label": 2,
+    "ref": "稍等我看看额不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 513,
+    "label": 2,
+    "ref": "我看看不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 514,
+    "label": 2,
+    "ref": "我看看额不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 515,
+    "label": 2,
+    "ref": "我看看不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 516,
+    "label": 2,
+    "ref": "我看看额我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 517,
+    "label": 2,
+    "ref": "额不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 518,
+    "label": 2,
+    "ref": "我看看啊不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 519,
+    "label": 2,
+    "ref": "我看看额我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 520,
+    "label": 2,
+    "ref": "我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 521,
+    "label": 2,
+    "ref": "不是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 522,
+    "label": 2,
+    "ref": "我看看不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 523,
+    "label": 2,
+    "ref": "额我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 524,
+    "label": 2,
+    "ref": "稍等我看看额我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 525,
+    "label": 2,
+    "ref": "额我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 526,
+    "label": 2,
+    "ref": "我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 527,
+    "label": 2,
+    "ref": "我看看不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 528,
+    "label": 2,
+    "ref": "啊不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 529,
+    "label": 2,
+    "ref": "稍等我看看啊我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 530,
+    "label": 2,
+    "ref": "我看看啊我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 531,
+    "label": 2,
+    "ref": "我看看额不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 532,
+    "label": 2,
+    "ref": "稍等我看看我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 533,
+    "label": 2,
+    "ref": "额我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 534,
+    "label": 2,
+    "ref": "我看看不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 535,
+    "label": 2,
+    "ref": "稍等我看看啊不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 536,
+    "label": 2,
+    "ref": "稍等我看看不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 537,
+    "label": 2,
+    "ref": "稍等我看看额我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 538,
+    "label": 2,
+    "ref": "稍等我看看额我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 539,
+    "label": 2,
+    "ref": "啊我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 540,
+    "label": 1,
+    "ref": "我看看恩对的"
+  },
+  {
+    "label_name": "confirm",
+    "id": 541,
+    "label": 2,
+    "ref": "啊不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 542,
+    "label": 2,
+    "ref": "我看看啊不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 543,
+    "label": 2,
+    "ref": "额不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 544,
+    "label": 2,
+    "ref": "稍等我看看额不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 545,
+    "label": 2,
+    "ref": "我看看啊不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 546,
+    "label": 2,
+    "ref": "我看看额不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 547,
+    "label": 2,
+    "ref": "我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 548,
+    "label": 2,
+    "ref": "额不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 549,
+    "label": 2,
+    "ref": "不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 550,
+    "label": 2,
+    "ref": "我看看不是的我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 551,
+    "label": 2,
+    "ref": "稍等我看看啊不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 552,
+    "label": 2,
+    "ref": "啊不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 553,
+    "label": 1,
+    "ref": "我看看是"
+  },
+  {
+    "label_name": "confirm",
+    "id": 554,
+    "label": 2,
+    "ref": "我看看呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 555,
+    "label": 2,
+    "ref": "我看看啊不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 556,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 557,
+    "label": 2,
+    "ref": "啊不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 558,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 559,
+    "label": 1,
+    "ref": "稍等我看看是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 560,
+    "label": 2,
+    "ref": "稍等我看看啊我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 561,
+    "label": 2,
+    "ref": "我看看额不是我申请表写的是老家地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 562,
+    "label": 2,
+    "ref": "我看看额不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 563,
+    "label": 1,
+    "ref": "稍等我看看恩呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 564,
+    "label": 2,
+    "ref": "我看看不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 565,
+    "label": 2,
+    "ref": "稍等我看看不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 566,
+    "label": 2,
+    "ref": "我看看啊我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 567,
+    "label": 2,
+    "ref": "不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 568,
+    "label": 2,
+    "ref": "我看看不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 569,
+    "label": 2,
+    "ref": "啊不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 570,
+    "label": 2,
+    "ref": "稍等我看看我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 571,
+    "label": 2,
+    "ref": "啊我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 572,
+    "label": 2,
+    "ref": "稍等我看看啊我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 573,
+    "label": 2,
+    "ref": "额我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 574,
+    "label": 2,
+    "ref": "稍等我看看啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 575,
+    "label": 2,
+    "ref": "稍等我看看额不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 576,
+    "label": 2,
+    "ref": "我看看额不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 577,
+    "label": 2,
+    "ref": "我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 578,
+    "label": 2,
+    "ref": "我看看啊不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 579,
+    "label": 2,
+    "ref": "我看看额我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 580,
+    "label": 2,
+    "ref": "我看看额不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 581,
+    "label": 2,
+    "ref": "我看看不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 582,
+    "label": 2,
+    "ref": "稍等我看看我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 583,
+    "label": 2,
+    "ref": "啊不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 584,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 585,
+    "label": 2,
+    "ref": "稍等我看看不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 586,
+    "label": 2,
+    "ref": "我看看额不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 587,
+    "label": 2,
+    "ref": "我看看额我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 588,
+    "label": 2,
+    "ref": "稍等我看看我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 589,
+    "label": 2,
+    "ref": "稍等我看看我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 590,
+    "label": 2,
+    "ref": "我看看额不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 591,
+    "label": 2,
+    "ref": "我看看啊不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 592,
+    "label": 2,
+    "ref": "我看看啊不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 593,
+    "label": 2,
+    "ref": "啊不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 594,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 595,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 596,
+    "label": 2,
+    "ref": "额不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 597,
+    "label": 2,
+    "ref": "我看看啊我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 598,
+    "label": 2,
+    "ref": "稍等我看看啊不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 599,
+    "label": 2,
+    "ref": "稍等我看看我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 600,
+    "label": 2,
+    "ref": "我看看额我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 601,
+    "label": 2,
+    "ref": "啊不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 602,
+    "label": 2,
+    "ref": "额我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 603,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 604,
+    "label": 2,
+    "ref": "稍等我看看我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 605,
+    "label": 2,
+    "ref": "我看看啊不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 606,
+    "label": 2,
+    "ref": "我看看额不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 607,
+    "label": 2,
+    "ref": "额不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 608,
+    "label": 2,
+    "ref": "稍等我看看不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 609,
+    "label": 2,
+    "ref": "额"
+  },
+  {
+    "label_name": "confirm",
+    "id": 610,
+    "label": 2,
+    "ref": "我看看不是的我填的是户口本地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 611,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 612,
+    "label": 2,
+    "ref": "额不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 613,
+    "label": 2,
+    "ref": "额我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 614,
+    "label": 1,
+    "ref": "我看看对呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 615,
+    "label": 2,
+    "ref": "不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 616,
+    "label": 2,
+    "ref": "额不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 617,
+    "label": 2,
+    "ref": "额不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 618,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 619,
+    "label": 2,
+    "ref": "额不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 620,
+    "label": 2,
+    "ref": "不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 621,
+    "label": 2,
+    "ref": "我看看我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 622,
+    "label": 2,
+    "ref": "额不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 623,
+    "label": 2,
+    "ref": "我看看啊不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 624,
+    "label": 2,
+    "ref": "额不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 625,
+    "label": 2,
+    "ref": "稍等我看看啊我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 626,
+    "label": 2,
+    "ref": "我看看不是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 627,
+    "label": 2,
+    "ref": "稍等我看看额不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 628,
+    "label": 2,
+    "ref": "稍等我看看额不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 629,
+    "label": 2,
+    "ref": "稍等我看看额不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 630,
+    "label": 2,
+    "ref": "稍等我看看不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 631,
+    "label": 2,
+    "ref": "不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 632,
+    "label": 2,
+    "ref": "我看看啊我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 633,
+    "label": 2,
+    "ref": "我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 634,
+    "label": 2,
+    "ref": "稍等我看看额我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 635,
+    "label": 2,
+    "ref": "我看看额不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 636,
+    "label": 2,
+    "ref": "稍等我看看额我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 637,
+    "label": 2,
+    "ref": "啊不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 638,
+    "label": 2,
+    "ref": "我看看额"
+  },
+  {
+    "label_name": "confirm",
+    "id": 639,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 640,
+    "label": 2,
+    "ref": "稍等我看看我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 641,
+    "label": 2,
+    "ref": "稍等我看看额我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 642,
+    "label": 2,
+    "ref": "我看看额我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 643,
+    "label": 2,
+    "ref": "稍等我看看额我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 644,
+    "label": 2,
+    "ref": "额不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 645,
+    "label": 2,
+    "ref": "稍等我看看额不是的我填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 646,
+    "label": 2,
+    "ref": "额我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 647,
+    "label": 2,
+    "ref": "我看看不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 648,
+    "label": 2,
+    "ref": "稍等我看看啊我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 649,
+    "label": 2,
+    "ref": "稍等我看看额我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 650,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 651,
+    "label": 2,
+    "ref": "我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 652,
+    "label": 2,
+    "ref": "我看看额不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 653,
+    "label": 2,
+    "ref": "额我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 654,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 655,
+    "label": 2,
+    "ref": "我看看不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 656,
+    "label": 2,
+    "ref": "啊不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 657,
+    "label": 2,
+    "ref": "我看看额不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 658,
+    "label": 2,
+    "ref": "我看看额不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 659,
+    "label": 2,
+    "ref": "我看看啊不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 660,
+    "label": 2,
+    "ref": "我看看不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 661,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 662,
+    "label": 2,
+    "ref": "我看看啊不是我申请表写的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 663,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 664,
+    "label": 2,
+    "ref": "我看看啊不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 665,
+    "label": 2,
+    "ref": "稍等我看看我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 666,
+    "label": 2,
+    "ref": "啊不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 667,
+    "label": 2,
+    "ref": "我看看我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 668,
+    "label": 2,
+    "ref": "我看看不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 669,
+    "label": 2,
+    "ref": "额不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 670,
+    "label": 2,
+    "ref": "稍等我看看额不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 671,
+    "label": 2,
+    "ref": "我看看不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 672,
+    "label": 2,
+    "ref": "我看看不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 673,
+    "label": 2,
+    "ref": "额我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 674,
+    "label": 2,
+    "ref": "稍等我看看不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 675,
+    "label": 2,
+    "ref": "啊不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 676,
+    "label": 2,
+    "ref": "额不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 677,
+    "label": 2,
+    "ref": "额我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 678,
+    "label": 2,
+    "ref": "稍等我看看啊不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 679,
+    "label": 2,
+    "ref": "我看看啊我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 680,
+    "label": 2,
+    "ref": "我看看啊不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 681,
+    "label": 2,
+    "ref": "我看看"
+  },
+  {
+    "label_name": "confirm",
+    "id": 682,
+    "label": 2,
+    "ref": "稍等我看看啊我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 683,
+    "label": 2,
+    "ref": "稍等我看看不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 684,
+    "label": 2,
+    "ref": "我看看额不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 685,
+    "label": 2,
+    "ref": "我看看不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 686,
+    "label": 2,
+    "ref": "不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 687,
+    "label": 2,
+    "ref": "我看看额不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 688,
+    "label": 2,
+    "ref": "稍等我看看额不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 689,
+    "label": 2,
+    "ref": "我看看额不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 690,
+    "label": 2,
+    "ref": "我看看啊我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 691,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 692,
+    "label": 2,
+    "ref": "啊我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 693,
+    "label": 2,
+    "ref": "我看看额我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 694,
+    "label": 2,
+    "ref": "不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 695,
+    "label": 2,
+    "ref": "稍等我看看不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 696,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 697,
+    "label": 2,
+    "ref": "额不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 698,
+    "label": 2,
+    "ref": "稍等我看看啊我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 699,
+    "label": 2,
+    "ref": "我看看额不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 700,
+    "label": 2,
+    "ref": "我看看额我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 701,
+    "label": 2,
+    "ref": "我看看我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 702,
+    "label": 2,
+    "ref": "不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 703,
+    "label": 2,
+    "ref": "稍等我看看额我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 704,
+    "label": 2,
+    "ref": "啊不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 705,
+    "label": 2,
+    "ref": "额不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 706,
+    "label": 2,
+    "ref": "稍等我看看我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 707,
+    "label": 2,
+    "ref": "我看看我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 708,
+    "label": 2,
+    "ref": "我看看啊不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 709,
+    "label": 2,
+    "ref": "我看看额不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 710,
+    "label": 2,
+    "ref": "啊不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 711,
+    "label": 2,
+    "ref": "啊不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 712,
+    "label": 2,
+    "ref": "额不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 713,
+    "label": 2,
+    "ref": "啊不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 714,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 715,
+    "label": 2,
+    "ref": "啊不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 716,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 717,
+    "label": 2,
+    "ref": "不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 718,
+    "label": 2,
+    "ref": "稍等我看看额我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 719,
+    "label": 2,
+    "ref": "稍等我看看不是的我申请表填的是身份证地址"
+  },
+  {
+    "label_name": "confirm",
+    "id": 720,
+    "label": 2,
+    "ref": "额不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 721,
+    "label": 2,
+    "ref": "稍等我看看额不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 722,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 723,
+    "label": 2,
+    "ref": "啊不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 724,
+    "label": 2,
+    "ref": "我看看不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 725,
+    "label": 2,
+    "ref": "啊不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 726,
+    "label": 2,
+    "ref": "我看看我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 727,
+    "label": 2,
+    "ref": "我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 728,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 729,
+    "label": 2,
+    "ref": "啊不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 730,
+    "label": 2,
+    "ref": "不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 731,
+    "label": 2,
+    "ref": "稍等我看看啊不是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 732,
+    "label": 2,
+    "ref": "我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 733,
+    "label": 2,
+    "ref": "不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 734,
+    "label": 2,
+    "ref": "啊不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 735,
+    "label": 2,
+    "ref": "稍等我看看啊呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 736,
+    "label": 2,
+    "ref": "啊我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 737,
+    "label": 2,
+    "ref": "我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 738,
+    "label": 2,
+    "ref": "额不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 739,
+    "label": 2,
+    "ref": "我看看啊不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 740,
+    "label": 2,
+    "ref": "稍等我看看啊不是我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 741,
+    "label": 2,
+    "ref": "稍等我看看额我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 742,
+    "label": 2,
+    "ref": "我看看额不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 743,
+    "label": 2,
+    "ref": "我看看啊我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 744,
+    "label": 2,
+    "ref": "额不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 745,
+    "label": 2,
+    "ref": "我看看额不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 746,
+    "label": 2,
+    "ref": "不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 747,
+    "label": 2,
+    "ref": "我看看额不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 748,
+    "label": 2,
+    "ref": "我看看啊呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 749,
+    "label": 2,
+    "ref": "稍等我看看不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 750,
+    "label": 2,
+    "ref": "啊不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 751,
+    "label": 2,
+    "ref": "稍等我看看不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 752,
+    "label": 2,
+    "ref": "稍等我看看不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 753,
+    "label": 2,
+    "ref": "不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 754,
+    "label": 2,
+    "ref": "不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 755,
+    "label": 2,
+    "ref": "额不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 756,
+    "label": 2,
+    "ref": "稍等我看看啊我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 757,
+    "label": 2,
+    "ref": "额我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 758,
+    "label": 2,
+    "ref": "额不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 759,
+    "label": 2,
+    "ref": "我看看我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 760,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 761,
+    "label": 2,
+    "ref": "稍等我看看我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 762,
+    "label": 2,
+    "ref": "稍等我看看我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 763,
+    "label": 2,
+    "ref": "我看看我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 764,
+    "label": 2,
+    "ref": "不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 765,
+    "label": 2,
+    "ref": "稍等我看看不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 766,
+    "label": 2,
+    "ref": "我看看不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 767,
+    "label": 2,
+    "ref": "稍等我看看不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 768,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 769,
+    "label": 2,
+    "ref": "额我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 770,
+    "label": 2,
+    "ref": "额不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 771,
+    "label": 2,
+    "ref": "我看看我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 772,
+    "label": 2,
+    "ref": "稍等我看看啊我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 773,
+    "label": 2,
+    "ref": "我看看啊不是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 774,
+    "label": 2,
+    "ref": "我看看额不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 775,
+    "label": 2,
+    "ref": "额不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 776,
+    "label": 2,
+    "ref": "稍等我看看不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 777,
+    "label": 2,
+    "ref": "我看看不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 778,
+    "label": 2,
+    "ref": "我看看我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 779,
+    "label": 2,
+    "ref": "额不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 780,
+    "label": 2,
+    "ref": "我看看我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 781,
+    "label": 2,
+    "ref": "啊不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 782,
+    "label": 2,
+    "ref": "啊不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 783,
+    "label": 2,
+    "ref": "啊不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 784,
+    "label": 2,
+    "ref": "稍等我看看额啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 785,
+    "label": 2,
+    "ref": "稍等我看看啊不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 786,
+    "label": 2,
+    "ref": "额不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 787,
+    "label": 2,
+    "ref": "稍等我看看额不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 788,
+    "label": 2,
+    "ref": "我看看啊不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 789,
+    "label": 2,
+    "ref": "稍等我看看啊我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 790,
+    "label": 2,
+    "ref": "我看看啊不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 791,
+    "label": 2,
+    "ref": "额不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 792,
+    "label": 2,
+    "ref": "我看看额不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 793,
+    "label": 2,
+    "ref": "稍等我看看我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 794,
+    "label": 2,
+    "ref": "不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 795,
+    "label": 2,
+    "ref": "稍等我看看呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 796,
+    "label": 2,
+    "ref": "我看看啊我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 797,
+    "label": 2,
+    "ref": "稍等我看看额不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 798,
+    "label": 2,
+    "ref": "不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 799,
+    "label": 2,
+    "ref": "我看看啊我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 800,
+    "label": 2,
+    "ref": "额不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 801,
+    "label": 2,
+    "ref": "啊不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 802,
+    "label": 2,
+    "ref": "稍等我看看额我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 803,
+    "label": 2,
+    "ref": "稍等我看看啊不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 804,
+    "label": 2,
+    "ref": "我看看啊不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 805,
+    "label": 2,
+    "ref": "我看看啊不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 806,
+    "label": 2,
+    "ref": "我看看啊不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 807,
+    "label": 2,
+    "ref": "稍等我看看啊我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 808,
+    "label": 2,
+    "ref": "我看看额不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 809,
+    "label": 2,
+    "ref": "啊不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 810,
+    "label": 2,
+    "ref": "我看看额不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 811,
+    "label": 2,
+    "ref": "稍等我看看不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 812,
+    "label": 2,
+    "ref": "稍等我看看额不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 813,
+    "label": 2,
+    "ref": "我看看额不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 814,
+    "label": 2,
+    "ref": "我看看啊不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 815,
+    "label": 2,
+    "ref": "不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 816,
+    "label": 2,
+    "ref": "稍等我看看不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 817,
+    "label": 2,
+    "ref": "我看看我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 818,
+    "label": 2,
+    "ref": "我看看我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 819,
+    "label": 2,
+    "ref": "稍等我看看不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 820,
+    "label": 2,
+    "ref": "我看看啊不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 821,
+    "label": 2,
+    "ref": "稍等我看看不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 822,
+    "label": 2,
+    "ref": "我看看额不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 823,
+    "label": 2,
+    "ref": "啊啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 824,
+    "label": 2,
+    "ref": "我看看啊不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 825,
+    "label": 2,
+    "ref": "不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 826,
+    "label": 2,
+    "ref": "我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 827,
+    "label": 2,
+    "ref": "我看看额不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 828,
+    "label": 2,
+    "ref": "我看看额不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 829,
+    "label": 2,
+    "ref": "我看看额不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 830,
+    "label": 2,
+    "ref": "稍等我看看不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 831,
+    "label": 2,
+    "ref": "不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 832,
+    "label": 2,
+    "ref": "我看看啊不是我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 833,
+    "label": 2,
+    "ref": "稍等我看看啊不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 834,
+    "label": 2,
+    "ref": "稍等我看看我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 835,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 836,
+    "label": 2,
+    "ref": "稍等我看看啊我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 837,
+    "label": 2,
+    "ref": "稍等我看看啊不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 838,
+    "label": 2,
+    "ref": "我看看啊我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 839,
+    "label": 2,
+    "ref": "我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 840,
+    "label": 2,
+    "ref": "不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 841,
+    "label": 2,
+    "ref": "稍等我看看额不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 842,
+    "label": 2,
+    "ref": "我看看我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 843,
+    "label": 2,
+    "ref": "啊我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 844,
+    "label": 2,
+    "ref": "稍等我看看我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 845,
+    "label": 2,
+    "ref": "稍等我看看不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 846,
+    "label": 2,
+    "ref": "啊不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 847,
+    "label": 2,
+    "ref": "我看看额不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 848,
+    "label": 2,
+    "ref": "我看看不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 849,
+    "label": 2,
+    "ref": "我看看啊不是的我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 850,
+    "label": 2,
+    "ref": "我看看啊不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 851,
+    "label": 2,
+    "ref": "我看看啊我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 852,
+    "label": 2,
+    "ref": "稍等我看看额我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 853,
+    "label": 2,
+    "ref": "我看看额不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 854,
+    "label": 2,
+    "ref": "稍等我看看不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 855,
+    "label": 2,
+    "ref": "啊不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 856,
+    "label": 2,
+    "ref": "稍等我看看额不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 857,
+    "label": 2,
+    "ref": "额不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 858,
+    "label": 2,
+    "ref": "啊不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 859,
+    "label": 2,
+    "ref": "我看看我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 860,
+    "label": 2,
+    "ref": "我看看啊不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 861,
+    "label": 2,
+    "ref": "我看看啊不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 862,
+    "label": 2,
+    "ref": "稍等我看看我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 863,
+    "label": 2,
+    "ref": "我看看额我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 864,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 865,
+    "label": 2,
+    "ref": "我看看不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 866,
+    "label": 2,
+    "ref": "我看看啊不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 867,
+    "label": 2,
+    "ref": "不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 868,
+    "label": 2,
+    "ref": "稍等我看看啊我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 869,
+    "label": 2,
+    "ref": "稍等我看看不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 870,
+    "label": 2,
+    "ref": "稍等我看看额我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 871,
+    "label": 2,
+    "ref": "额我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 872,
+    "label": 2,
+    "ref": "稍等我看看额"
+  },
+  {
+    "label_name": "confirm",
+    "id": 873,
+    "label": 2,
+    "ref": "稍等我看看不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 874,
+    "label": 2,
+    "ref": "我看看额不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 875,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 876,
+    "label": 2,
+    "ref": "啊不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 877,
+    "label": 2,
+    "ref": "不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 878,
+    "label": 2,
+    "ref": "稍等我看看额不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 879,
+    "label": 2,
+    "ref": "不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 880,
+    "label": 2,
+    "ref": "不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 881,
+    "label": 2,
+    "ref": "不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 882,
+    "label": 2,
+    "ref": "稍等我看看我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 883,
+    "label": 2,
+    "ref": "我看看我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 884,
+    "label": 2,
+    "ref": "稍等我看看额我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 885,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 886,
+    "label": 2,
+    "ref": "稍等我看看啊我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 887,
+    "label": 2,
+    "ref": "我看看不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 888,
+    "label": 2,
+    "ref": "稍等我看看啊我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 889,
+    "label": 2,
+    "ref": "我看看啊不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 890,
+    "label": 2,
+    "ref": "我看看额我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 891,
+    "label": 2,
+    "ref": "我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 892,
+    "label": 2,
+    "ref": "我看看我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 893,
+    "label": 2,
+    "ref": "啊不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 894,
+    "label": 2,
+    "ref": "啊不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 895,
+    "label": 2,
+    "ref": "额不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 896,
+    "label": 2,
+    "ref": "啊不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 897,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 898,
+    "label": 2,
+    "ref": "我看看不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 899,
+    "label": 2,
+    "ref": "啊不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 900,
+    "label": 2,
+    "ref": "稍等我看看我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 901,
+    "label": 2,
+    "ref": "啊不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 902,
+    "label": 2,
+    "ref": "稍等我看看啊我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 903,
+    "label": 2,
+    "ref": "啊不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 904,
+    "label": 2,
+    "ref": "我看看我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 905,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 906,
+    "label": 2,
+    "ref": "我看看我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 907,
+    "label": 2,
+    "ref": "我看看额不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 908,
+    "label": 2,
+    "ref": "我看看啊不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 909,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 910,
+    "label": 2,
+    "ref": "我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 911,
+    "label": 2,
+    "ref": "啊不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 912,
+    "label": 2,
+    "ref": "稍等我看看额不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 913,
+    "label": 2,
+    "ref": "稍等我看看不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 914,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 915,
+    "label": 2,
+    "ref": "不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 916,
+    "label": 2,
+    "ref": "啊我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 917,
+    "label": 2,
+    "ref": "我看看额不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 918,
+    "label": 2,
+    "ref": "稍等我看看我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 919,
+    "label": 2,
+    "ref": "稍等我看看不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 920,
+    "label": 2,
+    "ref": "我看看我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 921,
+    "label": 2,
+    "ref": "我看看啊我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 922,
+    "label": 2,
+    "ref": "我看看不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 923,
+    "label": 2,
+    "ref": "我看看啊我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 924,
+    "label": 2,
+    "ref": "我看看额不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 925,
+    "label": 2,
+    "ref": "不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 926,
+    "label": 2,
+    "ref": "我看看啊不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 927,
+    "label": 2,
+    "ref": "额不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 928,
+    "label": 2,
+    "ref": "不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 929,
+    "label": 2,
+    "ref": "稍等我看看额我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 930,
+    "label": 2,
+    "ref": "不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 931,
+    "label": 2,
+    "ref": "不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 932,
+    "label": 2,
+    "ref": "啊我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 933,
+    "label": 2,
+    "ref": "我看看我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 934,
+    "label": 2,
+    "ref": "稍等我看看不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 935,
+    "label": 2,
+    "ref": "我看看不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 936,
+    "label": 2,
+    "ref": "稍等我看看不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 937,
+    "label": 2,
+    "ref": "啊我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 938,
+    "label": 2,
+    "ref": "我看看啊我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 939,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 940,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 941,
+    "label": 2,
+    "ref": "稍等我看看不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 942,
+    "label": 2,
+    "ref": "我看看我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 943,
+    "label": 2,
+    "ref": "额我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 944,
+    "label": 2,
+    "ref": "额我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 945,
+    "label": 2,
+    "ref": "稍等我看看额不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 946,
+    "label": 2,
+    "ref": "额不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 947,
+    "label": 2,
+    "ref": "稍等我看看额不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 948,
+    "label": 2,
+    "ref": "稍等我看看啊不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 949,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 950,
+    "label": 2,
+    "ref": "我看看不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 951,
+    "label": 2,
+    "ref": "稍等我看看额我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 952,
+    "label": 2,
+    "ref": "啊我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 953,
+    "label": 2,
+    "ref": "啊不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 954,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 955,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 956,
+    "label": 2,
+    "ref": "啊我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 957,
+    "label": 2,
+    "ref": "我看看啊我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 958,
+    "label": 2,
+    "ref": "啊不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 959,
+    "label": 2,
+    "ref": "我看看额我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 960,
+    "label": 2,
+    "ref": "不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 961,
+    "label": 2,
+    "ref": "额不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 962,
+    "label": 2,
+    "ref": "额不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 963,
+    "label": 2,
+    "ref": "稍等我看看不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 964,
+    "label": 2,
+    "ref": "稍等我看看啊我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 965,
+    "label": 2,
+    "ref": "额不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 966,
+    "label": 2,
+    "ref": "啊我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 967,
+    "label": 2,
+    "ref": "稍等我看看不是我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 968,
+    "label": 2,
+    "ref": "不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 969,
+    "label": 2,
+    "ref": "啊不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 970,
+    "label": 2,
+    "ref": "啊我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 971,
+    "label": 2,
+    "ref": "我看看额不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 972,
+    "label": 2,
+    "ref": "稍等我看看额我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 973,
+    "label": 2,
+    "ref": "额不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 974,
+    "label": 2,
+    "ref": "我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 975,
+    "label": 2,
+    "ref": "额不是的我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 976,
+    "label": 2,
+    "ref": "啊不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 977,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 978,
+    "label": 2,
+    "ref": "稍等我看看额不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 979,
+    "label": 2,
+    "ref": "我看看啊不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 980,
+    "label": 2,
+    "ref": "我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 981,
+    "label": 2,
+    "ref": "稍等我看看额我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 982,
+    "label": 2,
+    "ref": "稍等我看看不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 983,
+    "label": 2,
+    "ref": "稍等我看看额不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 984,
+    "label": 2,
+    "ref": "稍等我看看额不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 985,
+    "label": 2,
+    "ref": "我看看不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 986,
+    "label": 2,
+    "ref": "额不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 987,
+    "label": 2,
+    "ref": "稍等我看看额我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 988,
+    "label": 2,
+    "ref": "稍等我看看不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 989,
+    "label": 2,
+    "ref": "稍等我看看不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 990,
+    "label": 2,
+    "ref": "稍等我看看不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 991,
+    "label": 2,
+    "ref": "稍等我看看额不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 992,
+    "label": 2,
+    "ref": "稍等我看看不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 993,
+    "label": 2,
+    "ref": "额不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 994,
+    "label": 2,
+    "ref": "我看看额不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 995,
+    "label": 2,
+    "ref": "额不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 996,
+    "label": 2,
+    "ref": "稍等我看看不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 997,
+    "label": 2,
+    "ref": "稍等我看看额不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 998,
+    "label": 2,
+    "ref": "我看看我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 999,
+    "label": 2,
+    "ref": "额不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1000,
+    "label": 2,
+    "ref": "我看看额我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1001,
+    "label": 2,
+    "ref": "我看看额我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1002,
+    "label": 2,
+    "ref": "啊我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1003,
+    "label": 2,
+    "ref": "稍等我看看啊我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1004,
+    "label": 2,
+    "ref": "稍等我看看额不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1005,
+    "label": 2,
+    "ref": "我看看额我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1006,
+    "label": 2,
+    "ref": "稍等我看看啊不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1007,
+    "label": 2,
+    "ref": "我看看额不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1008,
+    "label": 2,
+    "ref": "稍等我看看不是我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1009,
+    "label": 2,
+    "ref": "额我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1010,
+    "label": 2,
+    "ref": "稍等我看看我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1011,
+    "label": 2,
+    "ref": "稍等我看看啊不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1012,
+    "label": 2,
+    "ref": "额不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1013,
+    "label": 2,
+    "ref": "稍等我看看我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1014,
+    "label": 2,
+    "ref": "我看看不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1015,
+    "label": 2,
+    "ref": "我看看额我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1016,
+    "label": 2,
+    "ref": "稍等我看看额不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1017,
+    "label": 2,
+    "ref": "稍等我看看我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1018,
+    "label": 2,
+    "ref": "我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1019,
+    "label": 2,
+    "ref": "稍等我看看啊不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1020,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1021,
+    "label": 2,
+    "ref": "我看看不是我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1022,
+    "label": 2,
+    "ref": "我看看啊不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1023,
+    "label": 2,
+    "ref": "额不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1024,
+    "label": 2,
+    "ref": "我看看不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1025,
+    "label": 2,
+    "ref": "我看看啊我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1026,
+    "label": 2,
+    "ref": "不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1027,
+    "label": 2,
+    "ref": "我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1028,
+    "label": 2,
+    "ref": "我看看不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1029,
+    "label": 2,
+    "ref": "我看看不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1030,
+    "label": 2,
+    "ref": "稍等我看看额我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1031,
+    "label": 2,
+    "ref": "稍等我看看额不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1032,
+    "label": 2,
+    "ref": "我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1033,
+    "label": 2,
+    "ref": "稍等我看看啊不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1034,
+    "label": 2,
+    "ref": "稍等我看看啊不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1035,
+    "label": 2,
+    "ref": "我看看我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1036,
+    "label": 2,
+    "ref": "稍等我看看啊我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1037,
+    "label": 2,
+    "ref": "我看看啊啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1038,
+    "label": 2,
+    "ref": "不是我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1039,
+    "label": 2,
+    "ref": "稍等我看看啊不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1040,
+    "label": 2,
+    "ref": "啊不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1041,
+    "label": 2,
+    "ref": "不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1042,
+    "label": 2,
+    "ref": "我看看不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1043,
+    "label": 2,
+    "ref": "稍等我看看我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1044,
+    "label": 2,
+    "ref": "稍等我看看额不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1045,
+    "label": 2,
+    "ref": "啊不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1046,
+    "label": 2,
+    "ref": "啊不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1047,
+    "label": 2,
+    "ref": "稍等我看看啊不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1048,
+    "label": 2,
+    "ref": "稍等我看看不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1049,
+    "label": 2,
+    "ref": "稍等我看看额不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1050,
+    "label": 2,
+    "ref": "我看看啊不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1051,
+    "label": 2,
+    "ref": "我看看额不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1052,
+    "label": 2,
+    "ref": "稍等我看看额不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1053,
+    "label": 2,
+    "ref": "稍等我看看啊我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1054,
+    "label": 2,
+    "ref": "我看看不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1055,
+    "label": 2,
+    "ref": "我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1056,
+    "label": 2,
+    "ref": "啊不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1057,
+    "label": 2,
+    "ref": "我看看不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1058,
+    "label": 2,
+    "ref": "不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1059,
+    "label": 2,
+    "ref": "我看看不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1060,
+    "label": 2,
+    "ref": "我看看额啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1061,
+    "label": 2,
+    "ref": "我看看不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1062,
+    "label": 2,
+    "ref": "我看看啊不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1063,
+    "label": 2,
+    "ref": "稍等我看看啊我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1064,
+    "label": 2,
+    "ref": "我看看啊我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1065,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1066,
+    "label": 2,
+    "ref": "稍等我看看不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1067,
+    "label": 2,
+    "ref": "额不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1068,
+    "label": 2,
+    "ref": "额不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1069,
+    "label": 2,
+    "ref": "我看看额我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1070,
+    "label": 2,
+    "ref": "我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1071,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1072,
+    "label": 2,
+    "ref": "我看看啊不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1073,
+    "label": 2,
+    "ref": "不是我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1074,
+    "label": 2,
+    "ref": "额不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1075,
+    "label": 2,
+    "ref": "啊我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1076,
+    "label": 2,
+    "ref": "我看看不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1077,
+    "label": 2,
+    "ref": "稍等我看看不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1078,
+    "label": 2,
+    "ref": "我看看不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1079,
+    "label": 2,
+    "ref": "稍等我看看不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1080,
+    "label": 2,
+    "ref": "额不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1081,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1082,
+    "label": 2,
+    "ref": "我看看我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1083,
+    "label": 2,
+    "ref": "我看看额我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1084,
+    "label": 2,
+    "ref": "稍等我看看不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1085,
+    "label": 2,
+    "ref": "啊不是我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1086,
+    "label": 2,
+    "ref": "我看看不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1087,
+    "label": 2,
+    "ref": "稍等我看看不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1088,
+    "label": 2,
+    "ref": "啊不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1089,
+    "label": 2,
+    "ref": "额我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1090,
+    "label": 2,
+    "ref": "稍等我看看额不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1091,
+    "label": 2,
+    "ref": "稍等我看看额不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1092,
+    "label": 2,
+    "ref": "额我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1093,
+    "label": 2,
+    "ref": "额呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1094,
+    "label": 2,
+    "ref": "我看看不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1095,
+    "label": 2,
+    "ref": "我看看额不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1096,
+    "label": 2,
+    "ref": "我看看啊我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1097,
+    "label": 2,
+    "ref": "啊不是我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1098,
+    "label": 2,
+    "ref": "啊我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1099,
+    "label": 2,
+    "ref": "我看看啊我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1100,
+    "label": 2,
+    "ref": "我看看啊不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1101,
+    "label": 2,
+    "ref": "额我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1102,
+    "label": 2,
+    "ref": "稍等我看看不是的我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1103,
+    "label": 2,
+    "ref": "稍等我看看我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1104,
+    "label": 2,
+    "ref": "稍等我看看我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1105,
+    "label": 2,
+    "ref": "稍等我看看不是的我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1106,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1107,
+    "label": 2,
+    "ref": "我看看额不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1108,
+    "label": 2,
+    "ref": "稍等我看看额不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1109,
+    "label": 2,
+    "ref": "额不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1110,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1111,
+    "label": 2,
+    "ref": "啊不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1112,
+    "label": 2,
+    "ref": "我看看啊不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1113,
+    "label": 2,
+    "ref": "我看看额不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1114,
+    "label": 2,
+    "ref": "不是的我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1115,
+    "label": 2,
+    "ref": "我看看额我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1116,
+    "label": 2,
+    "ref": "啊不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1117,
+    "label": 2,
+    "ref": "不是的我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1118,
+    "label": 2,
+    "ref": "稍等我看看额我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1119,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1120,
+    "label": 2,
+    "ref": "稍等我看看不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1121,
+    "label": 2,
+    "ref": "额不是的我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1122,
+    "label": 2,
+    "ref": "我看看不是的我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1123,
+    "label": 2,
+    "ref": "我看看啊不是的我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1124,
+    "label": 2,
+    "ref": "不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1125,
+    "label": 2,
+    "ref": "不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1126,
+    "label": 2,
+    "ref": "我看看不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1127,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1128,
+    "label": 2,
+    "ref": "我看看啊不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1129,
+    "label": 2,
+    "ref": "不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1130,
+    "label": 2,
+    "ref": "稍等我看看啊我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1131,
+    "label": 2,
+    "ref": "额不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1132,
+    "label": 2,
+    "ref": "额我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1133,
+    "label": 2,
+    "ref": "额啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1134,
+    "label": 2,
+    "ref": "稍等我看看啊我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1135,
+    "label": 2,
+    "ref": "啊我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1136,
+    "label": 2,
+    "ref": "我看看不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1137,
+    "label": 2,
+    "ref": "啊不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1138,
+    "label": 2,
+    "ref": "啊我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1139,
+    "label": 2,
+    "ref": "啊我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1140,
+    "label": 2,
+    "ref": "稍等我看看额我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1141,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1142,
+    "label": 2,
+    "ref": "我看看我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1143,
+    "label": 2,
+    "ref": "我看看不是的我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1144,
+    "label": 2,
+    "ref": "我看看不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1145,
+    "label": 2,
+    "ref": "不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1146,
+    "label": 2,
+    "ref": "我看看额不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1147,
+    "label": 2,
+    "ref": "啊不是我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1148,
+    "label": 2,
+    "ref": "稍等我看看我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1149,
+    "label": 2,
+    "ref": "不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1150,
+    "label": 2,
+    "ref": "啊不是我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1151,
+    "label": 2,
+    "ref": "我看看啊我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1152,
+    "label": 2,
+    "ref": "不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1153,
+    "label": 2,
+    "ref": "不是的我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1154,
+    "label": 2,
+    "ref": "啊不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1155,
+    "label": 2,
+    "ref": "我看看我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1156,
+    "label": 2,
+    "ref": "我看看不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1157,
+    "label": 2,
+    "ref": "额我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1158,
+    "label": 2,
+    "ref": "我看看啊不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1159,
+    "label": 2,
+    "ref": "我看看不是的我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1160,
+    "label": 2,
+    "ref": "我看看额不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1161,
+    "label": 2,
+    "ref": "额不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1162,
+    "label": 2,
+    "ref": "我看看我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1163,
+    "label": 2,
+    "ref": "不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1164,
+    "label": 2,
+    "ref": "我看看额我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1165,
+    "label": 2,
+    "ref": "啊不是啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1166,
+    "label": 2,
+    "ref": "我看看不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1167,
+    "label": 2,
+    "ref": "啊我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1168,
+    "label": 2,
+    "ref": "额不是的我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1169,
+    "label": 2,
+    "ref": "额我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1170,
+    "label": 2,
+    "ref": "我看看啊不是的我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1171,
+    "label": 2,
+    "ref": "稍等我看看额不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1172,
+    "label": 2,
+    "ref": "稍等我看看不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1173,
+    "label": 2,
+    "ref": "我看看啊不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1174,
+    "label": 2,
+    "ref": "我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1175,
+    "label": 2,
+    "ref": "稍等我看看啊我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1176,
+    "label": 2,
+    "ref": "不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1177,
+    "label": 2,
+    "ref": "稍等我看看额不是我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1178,
+    "label": 2,
+    "ref": "呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1179,
+    "label": 2,
+    "ref": "啊不是我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1180,
+    "label": 2,
+    "ref": "稍等我看看我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1181,
+    "label": 2,
+    "ref": "额不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1182,
+    "label": 2,
+    "ref": "稍等我看看额不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1183,
+    "label": 2,
+    "ref": "啊不是我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1184,
+    "label": 2,
+    "ref": "我看看啊我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1185,
+    "label": 2,
+    "ref": "额不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1186,
+    "label": 2,
+    "ref": "我看看不是我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1187,
+    "label": 2,
+    "ref": "不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1188,
+    "label": 2,
+    "ref": "我看看我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1189,
+    "label": 2,
+    "ref": "我看看额不是我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1190,
+    "label": 2,
+    "ref": "我看看不是的我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1191,
+    "label": 2,
+    "ref": "稍等我看看不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1192,
+    "label": 2,
+    "ref": "我看看额不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1193,
+    "label": 2,
+    "ref": "稍等我看看额我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1194,
+    "label": 2,
+    "ref": "我看看不是我改了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1195,
+    "label": 2,
+    "ref": "啊我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1196,
+    "label": 2,
+    "ref": "稍等我看看额我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1197,
+    "label": 2,
+    "ref": "稍等我看看额我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1198,
+    "label": 2,
+    "ref": "我看看我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1199,
+    "label": 2,
+    "ref": "稍等我看看额不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1200,
+    "label": 2,
+    "ref": "我看看啊我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1201,
+    "label": 2,
+    "ref": "额我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1202,
+    "label": 2,
+    "ref": "我看看额我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1203,
+    "label": 2,
+    "ref": "我看看不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1204,
+    "label": 2,
+    "ref": "额不是的啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1205,
+    "label": 2,
+    "ref": "稍等我看看啊不是我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1206,
+    "label": 2,
+    "ref": "稍等我看看不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1207,
+    "label": 2,
+    "ref": "稍等我看看啊我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1208,
+    "label": 2,
+    "ref": "不是的我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1209,
+    "label": 2,
+    "ref": "我看看啊不是我改了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1210,
+    "label": 2,
+    "ref": "我看看额不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1211,
+    "label": 2,
+    "ref": "稍等我看看啊不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1212,
+    "label": 2,
+    "ref": "稍等我看看额不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1213,
+    "label": 2,
+    "ref": "啊不是我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1214,
+    "label": 2,
+    "ref": "我看看额我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1215,
+    "label": 2,
+    "ref": "额我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1216,
+    "label": 2,
+    "ref": "我看看额不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1217,
+    "label": 2,
+    "ref": "额不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1218,
+    "label": 2,
+    "ref": "我看看啊不是我现在租房子住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1219,
+    "label": 2,
+    "ref": "我看看不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1220,
+    "label": 2,
+    "ref": "啊我在别的地方工作啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1221,
+    "label": 2,
+    "ref": "稍等我看看额我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1222,
+    "label": 2,
+    "ref": "我看看额不是我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1223,
+    "label": 2,
+    "ref": "不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1224,
+    "label": 2,
+    "ref": "啊我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1225,
+    "label": 2,
+    "ref": "我看看不是的我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1226,
+    "label": 2,
+    "ref": "我看看不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1227,
+    "label": 2,
+    "ref": "我看看啊不是我不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1228,
+    "label": 2,
+    "ref": "稍等我看看额不是的我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1229,
+    "label": 2,
+    "ref": "我看看啊我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1230,
+    "label": 2,
+    "ref": "我看看啊不是的呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1231,
+    "label": 2,
+    "ref": "稍等我看看不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1232,
+    "label": 2,
+    "ref": "啊我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1233,
+    "label": 2,
+    "ref": "不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1234,
+    "label": 2,
+    "ref": "我看看额不是我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1235,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1236,
+    "label": 2,
+    "ref": "稍等我看看额不是我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1237,
+    "label": 2,
+    "ref": "啊不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1238,
+    "label": 2,
+    "ref": "我看看啊我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1239,
+    "label": 2,
+    "ref": "我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1240,
+    "label": 2,
+    "ref": "我看看额我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1241,
+    "label": 2,
+    "ref": "稍等我看看不是的我大部分时间不在那里住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1242,
+    "label": 2,
+    "ref": "稍等我看看不是我现在不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1243,
+    "label": 2,
+    "ref": "稍等我看看额不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1244,
+    "label": 2,
+    "ref": "稍等我看看额不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1245,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1246,
+    "label": 2,
+    "ref": "啊不是我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1247,
+    "label": 2,
+    "ref": "我看看不是我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1248,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在没住在那里啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1249,
+    "label": 2,
+    "ref": "我看看不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1250,
+    "label": 2,
+    "ref": "啊不是的我一段时间住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1251,
+    "label": 2,
+    "ref": "啊不是的我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1252,
+    "label": 2,
+    "ref": "稍等我看看额我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1253,
+    "label": 2,
+    "ref": "稍等我看看我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1254,
+    "label": 2,
+    "ref": "我看看啊我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1255,
+    "label": 2,
+    "ref": "稍等我看看不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1256,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1257,
+    "label": 2,
+    "ref": "额我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1258,
+    "label": 2,
+    "ref": "我看看啊不是我有时候住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1259,
+    "label": 2,
+    "ref": "稍等我看看啊我现在租房子住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1260,
+    "label": 2,
+    "ref": "稍等我看看不是的我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1261,
+    "label": 2,
+    "ref": "啊我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1262,
+    "label": 2,
+    "ref": "稍等我看看啊不是我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1263,
+    "label": 2,
+    "ref": "我看看额我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1264,
+    "label": 2,
+    "ref": "我看看额我暂时不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1265,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我一段时间住那啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1266,
+    "label": 2,
+    "ref": "稍等我看看我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1267,
+    "label": 2,
+    "ref": "稍等我看看不是我马上搬家了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1268,
+    "label": 2,
+    "ref": "稍等我看看啊不是的我暂时不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1269,
+    "label": 2,
+    "ref": "我看看额呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1270,
+    "label": 2,
+    "ref": "啊不是我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1271,
+    "label": 2,
+    "ref": "不是的我现在租房子住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1272,
+    "label": 2,
+    "ref": "不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1273,
+    "label": 2,
+    "ref": "我看看额我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1274,
+    "label": 2,
+    "ref": "我看看不是我现在不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1275,
+    "label": 2,
+    "ref": "我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1276,
+    "label": 2,
+    "ref": "我看看啊我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1277,
+    "label": 2,
+    "ref": "我看看不是的我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1278,
+    "label": 2,
+    "ref": "我看看额不是的我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1279,
+    "label": 2,
+    "ref": "额我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1280,
+    "label": 2,
+    "ref": "稍等我看看额不是的我改了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1281,
+    "label": 2,
+    "ref": "稍等我看看额不是的我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1282,
+    "label": 2,
+    "ref": "稍等我看看啊不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1283,
+    "label": 2,
+    "ref": "我看看啊不是的我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1284,
+    "label": 2,
+    "ref": "啊不是的我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1285,
+    "label": 2,
+    "ref": "啊我现在在外地打工呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1286,
+    "label": 2,
+    "ref": "额我过一段时间回去住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1287,
+    "label": 2,
+    "ref": "额不是的我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1288,
+    "label": 2,
+    "ref": "啊不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1289,
+    "label": 2,
+    "ref": "稍等我看看额我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1290,
+    "label": 2,
+    "ref": "我看看额不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1291,
+    "label": 2,
+    "ref": "不是我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1292,
+    "label": 2,
+    "ref": "稍等我看看啊不是我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1293,
+    "label": 2,
+    "ref": "额不是的我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1294,
+    "label": 2,
+    "ref": "稍等我看看啊我马上搬家了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1295,
+    "label": 2,
+    "ref": "啊呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1296,
+    "label": 2,
+    "ref": "啊不是我大部分时间不在那里住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1297,
+    "label": 2,
+    "ref": "稍等我看看不是的我有时候住那呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1298,
+    "label": 2,
+    "ref": "我看看不是的我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1299,
+    "label": 2,
+    "ref": "我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1300,
+    "label": 2,
+    "ref": "稍等我看看不是我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1301,
+    "label": 2,
+    "ref": "我看看啊我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1302,
+    "label": 2,
+    "ref": "稍等我看看额我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1303,
+    "label": 2,
+    "ref": "稍等我看看不是的我现在不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1304,
+    "label": 2,
+    "ref": "我换地方了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1305,
+    "label": 2,
+    "ref": "额我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1306,
+    "label": 2,
+    "ref": "我看看额不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1307,
+    "label": 2,
+    "ref": "我看看不是我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1308,
+    "label": 2,
+    "ref": "我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1309,
+    "label": 2,
+    "ref": "我看看额我不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1310,
+    "label": 2,
+    "ref": "我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1311,
+    "label": 2,
+    "ref": "不是我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1312,
+    "label": 2,
+    "ref": "稍等我看看啊不是我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1313,
+    "label": 2,
+    "ref": "我看看额我在别的地方工作呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1314,
+    "label": 2,
+    "ref": "额不是我现在没住在那里呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1315,
+    "label": 2,
+    "ref": "稍等我看看额不是的我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1316,
+    "label": 2,
+    "ref": "稍等我看看啊我现在在外地打工"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1317,
+    "label": 2,
+    "ref": "我看看啊不是我现在在外地打工啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1318,
+    "label": 2,
+    "ref": "我看看额不是的我大部分时间不在那里住呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1319,
+    "label": 2,
+    "ref": "啊不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1320,
+    "label": 2,
+    "ref": "啊不是我有时候住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1321,
+    "label": 2,
+    "ref": "额不是我在别的地方工作"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1322,
+    "label": 2,
+    "ref": "我看看额不是的我换地方了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1323,
+    "label": 2,
+    "ref": "稍等我看看啊我马上搬家了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1324,
+    "label": 2,
+    "ref": "额不是我换工作了就不住那里了啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1325,
+    "label": 2,
+    "ref": "稍等我看看额不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1326,
+    "label": 2,
+    "ref": "我看看额不是呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1327,
+    "label": 2,
+    "ref": "我看看不是的我换工作了就不住那里了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1328,
+    "label": 2,
+    "ref": "我看看不是我过一段时间回去住啊"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1329,
+    "label": 2,
+    "ref": "我看看额我一段时间住那"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1330,
+    "label": 2,
+    "ref": "我现在没住在那里"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1331,
+    "label": 2,
+    "ref": "我看看我换工作了就不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1332,
+    "label": 2,
+    "ref": "我看看额我暂时不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1333,
+    "label": 2,
+    "ref": "我看看啊不是我过一段时间回去住"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1334,
+    "label": 2,
+    "ref": "稍等我看看啊我换地方了呀"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1335,
+    "label": 2,
+    "ref": "稍等我看看啊我不住那里了"
+  },
+  {
+    "label_name": "confirm",
+    "id": 1336,
+    "label": 2,
+    "ref": "稍等我看看啊我暂时不住那里了呀"
+  }
+]

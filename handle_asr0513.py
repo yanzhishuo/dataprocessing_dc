@@ -92,28 +92,30 @@ def full_n2c(sentence):
 
 if __name__ =='__main__':
    #看是否asr有重复
-    with open('/home/yzs/confirm_gen_0513_10000.json') as f:
+    with open('/home/yzs/gendata/kinship_gen_0516_300.json') as f:
         data = json.load(f)
     data_output = list()
 
-   #asr有没有重复
-    # for item in data:
-    #     # item.pop('asr')
-    #     item['asr'] = full_n2c(item['asr'])
-    #     if item['asr'] == '':
-    #         continue
-    #     # data_output.append(item)
-    #     data_output.append(item['asr'])
+   # #asr有没有重复
+   #  for item in data:
+   #      # item.pop('asr')
+   #      item['asr'] = full_n2c(item['asr'])
+   #      if item['asr'] == '':
+   #          continue
+   #      data_output.append(item)
+   #      # data_output.append(item['asr'])
 
-#ref有没有重复
+# #ref有没有重复
     for item in data:
         # item.pop('ref')
-        item['ref'] = full_n2c(item['ref'])
+        # item['ref'] = full_n2c(item['ref'])
+        # if item['write'] == '':
         if item['ref'] == '':
             continue
         data_output.append(item)
-    #     data_output.append(item['ref'])
-    # print(len(data_output))
+        # data_output.append(item['write'])
+        # data_output.append(item['ref'])
+    print(len(data_output))
     # data_yzs = []
     # for e in data_output:
     #     if e not in data_yzs:
@@ -121,7 +123,7 @@ if __name__ =='__main__':
     #     else:
     #         print(e)
     # print(len(data_yzs))
-    #
+#
     l4 = []
     l4.append(data_output[0])
     # print(l4)
@@ -146,15 +148,15 @@ if __name__ =='__main__':
             i = i +1
             l.append(item)
     print(len(l))
-
-   # #     # data_output.append(item)
-   #  # # print(data_output)
+#    #
+#    # # #     # data_output.append(item)
+#    # #  # # print(data_output)
     obj = json.dumps(l, ensure_ascii=False, indent=2)
-    file = open('/home/yzs/workspace/confirm_gen_0513_1337.json', 'w')
+    file = open('/home/yzs/gendata/kinship_gen_0516_79.json', 'w')
     print(type(obj))  # dumps是将dict/list转化成str格式
     file.write(obj)
     file.close()
-   #  # obj = json.dumps(data_yzs, ensure_ascii=False, indent=2)
-   #  # file = open('/home/yzs/workspace/vehicelemission2.json', 'w')
-   #  # file.write(obj)
-   #  # file.close()
+#     obj = json.dumps(data_output, ensure_ascii=False, indent=2)
+#     file = open('/home/yzs/workspace/vehicleemission_asr_0514_574.json', 'w')
+#     file.write(obj)
+#     file.close()

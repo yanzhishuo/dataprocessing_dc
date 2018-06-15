@@ -1,6 +1,6 @@
 import os
 import sqlalchemy
-import yaml
+# import yaml
 from sqlalchemy import (Column,
                         ForeignKey,
                         Integer,

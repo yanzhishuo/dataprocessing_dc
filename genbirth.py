@@ -47,8 +47,8 @@ def date_yearmd():
     month_nozero = str(int(month_raw))
     day_nozero = str(int(day_raw))
     year_use = [year_raw, year_raw[2:]]
-    month_use = [month_raw, month_nozero, '']
-    day_use = [day_raw, day_nozero, '']
+    month_use = [month_raw, month_nozero, '','','','']
+    day_use = [day_raw, day_nozero, '','','','']
     month_choice = month_use[windex([1,5,4])]
     if month_choice == '':
         gen_pattern = choice(year_use) + '年' +attribute[windex([9.9, 0.1])]
@@ -108,7 +108,7 @@ if __name__ == "__main__":
         list_dict['ref'], list_dict['write'] = gen_birth()
         list_data.append(list_dict)
     obj = json.dumps(list_data, ensure_ascii=False, indent=2)
-    file = open('/home/yzs/' + label_name + '_gen_0424_'+str(num_data)+'.json', 'w')
+    file = open('/home/yzs/' + label_name + '_gen_0613_'+str(num_data)+'.json', 'w')
     file.write(obj)
     file.close()
     end = time.clock()

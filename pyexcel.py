@@ -24,6 +24,20 @@ def readexcel(index,path):
     n_of_rows=sheet_1_by_name.nrows
     for i in range(1,n_of_rows):
         cell_A=sheet_1_by_name.row(i)[index].value
+        if cell_A:
+            excel_list.append(cell_A)
+    return excel_list
+
+def reademptyexcel(index,path):
+    excel_list = list()
+    data = xlrd.open_workbook(path)
+    sheets = data.sheets()
+    sheet_1_by_function=data.sheets()[0]
+    sheet_1_by_index=data.sheet_by_index(0)
+    sheet_1_by_name=data.sheet_by_name('Sheet1')
+    n_of_rows=sheet_1_by_name.nrows
+    for i in range(1,n_of_rows):
+        cell_A=sheet_1_by_name.row(i)[index].value
         excel_list.append(cell_A)
     return excel_list
 

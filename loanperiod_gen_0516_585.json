@@ -1,0 +1,3512 @@
+[
+  {
+    "label_name": "loanperiod",
+    "id": 0,
+    "ref": "十二个月还完",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 1,
+    "ref": "是分六个月还完",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 2,
+    "ref": "是分十二个月付清",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 3,
+    "ref": "十二个月还完的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 4,
+    "ref": "分期十二个月付清的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 5,
+    "ref": "是分十二个月还完的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 6,
+    "ref": "十二个月付清",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 7,
+    "ref": "分期十二个月还完",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 8,
+    "ref": "六个月付清",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 9,
+    "ref": "是分十二个月还完",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 10,
+    "ref": "十二个月",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 11,
+    "ref": "是分十二个月付清的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 12,
+    "ref": "是分六个月",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 13,
+    "ref": "分期十二个月付清",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 14,
+    "ref": "是分六个月付清",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 15,
+    "ref": "六个月",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 16,
+    "ref": "分期十二个月",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 17,
+    "ref": "十二个月付清的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 18,
+    "ref": "分期六个月还完",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 19,
+    "ref": "是分十二个月",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 20,
+    "ref": "六个月付清的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 21,
+    "ref": "分期六个月",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 22,
+    "ref": "分期六个月还完的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 23,
+    "ref": "是分六个月付清的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 24,
+    "ref": "分期六个月付清的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 25,
+    "ref": "六个月还完的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 26,
+    "ref": "分期六个月付清",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 27,
+    "ref": "分期十二个月还完的",
+    "write": "十二"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 28,
+    "ref": "是分六个月还完的",
+    "write": "六"
+  },
+  {
+    "label_name": "loanperiod",
+    "id": 29,
+    "ref": "六个月还完",
+    "write": "六"
+  },
+  {
+    "id": 30,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 31,
+    "label_name": "loanperiod",
+    "ref": "还款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 32,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 33,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 34,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 35,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 36,
+    "label_name": "loanperiod",
+    "ref": "借款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 37,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 38,
+    "label_name": "loanperiod",
+    "ref": "借款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 39,
+    "label_name": "loanperiod",
+    "ref": "期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 40,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 41,
+    "label_name": "loanperiod",
+    "ref": "借款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 42,
+    "label_name": "loanperiod",
+    "ref": "还款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 43,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 44,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 45,
+    "label_name": "loanperiod",
+    "ref": "我申请的是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 46,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 47,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 48,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 49,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 50,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 51,
+    "label_name": "loanperiod",
+    "ref": "借款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 52,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 53,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 54,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 55,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 56,
+    "label_name": "loanperiod",
+    "ref": "还款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 57,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 58,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 59,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 60,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 61,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 62,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 63,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 64,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 65,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 66,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 67,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 68,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 69,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 70,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 71,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 72,
+    "label_name": "loanperiod",
+    "ref": "期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 73,
+    "label_name": "loanperiod",
+    "ref": "还款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 74,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 75,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 76,
+    "label_name": "loanperiod",
+    "ref": "贷款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 77,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 78,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 79,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 80,
+    "label_name": "loanperiod",
+    "ref": "借款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 81,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 82,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 83,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 84,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 85,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 86,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 87,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 88,
+    "label_name": "loanperiod",
+    "ref": "贷款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 89,
+    "label_name": "loanperiod",
+    "ref": "贷款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 90,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 91,
+    "label_name": "loanperiod",
+    "ref": "贷款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 92,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 93,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 94,
+    "label_name": "loanperiod",
+    "ref": "借款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 95,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 96,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 97,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 98,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 99,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 100,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 101,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 102,
+    "label_name": "loanperiod",
+    "ref": "借款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 103,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 104,
+    "label_name": "loanperiod",
+    "ref": "我申请的是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 105,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 106,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 107,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 108,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 109,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 110,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 111,
+    "label_name": "loanperiod",
+    "ref": "借款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 112,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 113,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 114,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 115,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 116,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 117,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 118,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 119,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 120,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 121,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 122,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的是六个月",
+    "write": "六"
+  },
+  {
+    "id": 123,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 124,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 125,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 126,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 127,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 128,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 129,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 130,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 131,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 132,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 133,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 134,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 135,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 136,
+    "label_name": "loanperiod",
+    "ref": "贷款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 137,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 138,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 139,
+    "label_name": "loanperiod",
+    "ref": "期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 140,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 141,
+    "label_name": "loanperiod",
+    "ref": "还款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 142,
+    "label_name": "loanperiod",
+    "ref": "还款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 143,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 144,
+    "label_name": "loanperiod",
+    "ref": "十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 145,
+    "label_name": "loanperiod",
+    "ref": "我申请的十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 146,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 147,
+    "label_name": "loanperiod",
+    "ref": "我申请的为六个月",
+    "write": "六"
+  },
+  {
+    "id": 148,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 149,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 150,
+    "label_name": "loanperiod",
+    "ref": "为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 151,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 152,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 153,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 154,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 155,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 156,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 157,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 158,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 159,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 160,
+    "label_name": "loanperiod",
+    "ref": "我申请的是六个月",
+    "write": "六"
+  },
+  {
+    "id": 161,
+    "label_name": "loanperiod",
+    "ref": "贷款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 162,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 163,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 164,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 165,
+    "label_name": "loanperiod",
+    "ref": "贷款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 166,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 167,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 168,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 169,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 170,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 171,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 172,
+    "label_name": "loanperiod",
+    "ref": "借款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 173,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 174,
+    "label_name": "loanperiod",
+    "ref": "贷款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 175,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 176,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 177,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 178,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 179,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 180,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款六个月",
+    "write": "六"
+  },
+  {
+    "id": 181,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 182,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 183,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 184,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 185,
+    "label_name": "loanperiod",
+    "ref": "还款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 186,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 187,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 188,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 189,
+    "label_name": "loanperiod",
+    "ref": "期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 190,
+    "label_name": "loanperiod",
+    "ref": "是六个月",
+    "write": "六"
+  },
+  {
+    "id": 191,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 192,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 193,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 194,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 195,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 196,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 197,
+    "label_name": "loanperiod",
+    "ref": "是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 198,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 199,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 200,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 201,
+    "label_name": "loanperiod",
+    "ref": "贷款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 202,
+    "label_name": "loanperiod",
+    "ref": "我申请的六个月的",
+    "write": "六"
+  },
+  {
+    "id": 203,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 204,
+    "label_name": "loanperiod",
+    "ref": "借款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 205,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 206,
+    "label_name": "loanperiod",
+    "ref": "贷款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 207,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 208,
+    "label_name": "loanperiod",
+    "ref": "借款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 209,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 210,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 211,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 212,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 213,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 214,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 215,
+    "label_name": "loanperiod",
+    "ref": "本次申请的是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 216,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 217,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 218,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 219,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 220,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 221,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 222,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 223,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 224,
+    "label_name": "loanperiod",
+    "ref": "贷款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 225,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 226,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 227,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 228,
+    "label_name": "loanperiod",
+    "ref": "为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 229,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 230,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 231,
+    "label_name": "loanperiod",
+    "ref": "我申请的六个月",
+    "write": "六"
+  },
+  {
+    "id": 232,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 233,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 234,
+    "label_name": "loanperiod",
+    "ref": "贷款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 235,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 236,
+    "label_name": "loanperiod",
+    "ref": "期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 237,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 238,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 239,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 240,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 241,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 242,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 243,
+    "label_name": "loanperiod",
+    "ref": "期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 244,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 245,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 246,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 247,
+    "label_name": "loanperiod",
+    "ref": "本次申请的十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 248,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 249,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 250,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 251,
+    "label_name": "loanperiod",
+    "ref": "期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 252,
+    "label_name": "loanperiod",
+    "ref": "借款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 253,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 254,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 255,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 256,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 257,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款六个月",
+    "write": "六"
+  },
+  {
+    "id": 258,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 259,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 260,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 261,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 262,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 263,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 264,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 265,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 266,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款六个月",
+    "write": "六"
+  },
+  {
+    "id": 267,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 268,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 269,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 270,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 271,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 272,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 273,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 274,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 275,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 276,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 277,
+    "label_name": "loanperiod",
+    "ref": "还款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 278,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 279,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 280,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款六个月",
+    "write": "六"
+  },
+  {
+    "id": 281,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 282,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 283,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 284,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 285,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 286,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 287,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 288,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 289,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 290,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 291,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 292,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 293,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 294,
+    "label_name": "loanperiod",
+    "ref": "期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 295,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 296,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 297,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 298,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 299,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 300,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 301,
+    "label_name": "loanperiod",
+    "ref": "期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 302,
+    "label_name": "loanperiod",
+    "ref": "本次申请的是六个月",
+    "write": "六"
+  },
+  {
+    "id": 303,
+    "label_name": "loanperiod",
+    "ref": "期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 304,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 305,
+    "label_name": "loanperiod",
+    "ref": "贷款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 306,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 307,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 308,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 309,
+    "label_name": "loanperiod",
+    "ref": "借款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 310,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 311,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 312,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 313,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 314,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 315,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 316,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 317,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 318,
+    "label_name": "loanperiod",
+    "ref": "借款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 319,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 320,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 321,
+    "label_name": "loanperiod",
+    "ref": "期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 322,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 323,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 324,
+    "label_name": "loanperiod",
+    "ref": "本次申请的是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 325,
+    "label_name": "loanperiod",
+    "ref": "借款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 326,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款六个月",
+    "write": "六"
+  },
+  {
+    "id": 327,
+    "label_name": "loanperiod",
+    "ref": "期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 328,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 329,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 330,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 331,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 332,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 333,
+    "label_name": "loanperiod",
+    "ref": "还款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 334,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款六个月",
+    "write": "六"
+  },
+  {
+    "id": 335,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 336,
+    "label_name": "loanperiod",
+    "ref": "借款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 337,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 338,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 339,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 340,
+    "label_name": "loanperiod",
+    "ref": "本次申请的十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 341,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 342,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 343,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 344,
+    "label_name": "loanperiod",
+    "ref": "期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 345,
+    "label_name": "loanperiod",
+    "ref": "还款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 346,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 347,
+    "label_name": "loanperiod",
+    "ref": "我申请的为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 348,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 349,
+    "label_name": "loanperiod",
+    "ref": "贷款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 350,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 351,
+    "label_name": "loanperiod",
+    "ref": "本次申请的六个月的",
+    "write": "六"
+  },
+  {
+    "id": 352,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 353,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 354,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 355,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 356,
+    "label_name": "loanperiod",
+    "ref": "贷款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 357,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 358,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 359,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 360,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 361,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 362,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 363,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 364,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 365,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款六个月",
+    "write": "六"
+  },
+  {
+    "id": 366,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 367,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 368,
+    "label_name": "loanperiod",
+    "ref": "还款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 369,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 370,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 371,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 372,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 373,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 374,
+    "label_name": "loanperiod",
+    "ref": "还款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 375,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 376,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 377,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 378,
+    "label_name": "loanperiod",
+    "ref": "我申请的为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 379,
+    "label_name": "loanperiod",
+    "ref": "期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 380,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 381,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 382,
+    "label_name": "loanperiod",
+    "ref": "借款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 383,
+    "label_name": "loanperiod",
+    "ref": "期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 384,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 385,
+    "label_name": "loanperiod",
+    "ref": "还款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 386,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 387,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 388,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 389,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 390,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 391,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 392,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 393,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 394,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 395,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 396,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 397,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 398,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 399,
+    "label_name": "loanperiod",
+    "ref": "贷款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 400,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 401,
+    "label_name": "loanperiod",
+    "ref": "还款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 402,
+    "label_name": "loanperiod",
+    "ref": "是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 403,
+    "label_name": "loanperiod",
+    "ref": "期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 404,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 405,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 406,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 407,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 408,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 409,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 410,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 411,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 412,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 413,
+    "label_name": "loanperiod",
+    "ref": "本次申请的六个月",
+    "write": "六"
+  },
+  {
+    "id": 414,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 415,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 416,
+    "label_name": "loanperiod",
+    "ref": "还款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 417,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 418,
+    "label_name": "loanperiod",
+    "ref": "借款六个月",
+    "write": "六"
+  },
+  {
+    "id": 419,
+    "label_name": "loanperiod",
+    "ref": "贷款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 420,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 421,
+    "label_name": "loanperiod",
+    "ref": "还款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 422,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 423,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 424,
+    "label_name": "loanperiod",
+    "ref": "借款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 425,
+    "label_name": "loanperiod",
+    "ref": "借款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 426,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 427,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 428,
+    "label_name": "loanperiod",
+    "ref": "十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 429,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 430,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 431,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 432,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 433,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 434,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 435,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 436,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 437,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 438,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 439,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 440,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 441,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 442,
+    "label_name": "loanperiod",
+    "ref": "贷款六个月",
+    "write": "六"
+  },
+  {
+    "id": 443,
+    "label_name": "loanperiod",
+    "ref": "六个月",
+    "write": "六"
+  },
+  {
+    "id": 444,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 445,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 446,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 447,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 448,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 449,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 450,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 451,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 452,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 453,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 454,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 455,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 456,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 457,
+    "label_name": "loanperiod",
+    "ref": "本次申请的为六个月",
+    "write": "六"
+  },
+  {
+    "id": 458,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 459,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 460,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 461,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 462,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 463,
+    "label_name": "loanperiod",
+    "ref": "我申请的为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 464,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 465,
+    "label_name": "loanperiod",
+    "ref": "还款是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 466,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 467,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 468,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 469,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 470,
+    "label_name": "loanperiod",
+    "ref": "贷款期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 471,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 472,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 473,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 474,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 475,
+    "label_name": "loanperiod",
+    "ref": "本次申请的为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 476,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 477,
+    "label_name": "loanperiod",
+    "ref": "还款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 478,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 479,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 480,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 481,
+    "label_name": "loanperiod",
+    "ref": "还款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 482,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 483,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 484,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 485,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 486,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 487,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 488,
+    "label_name": "loanperiod",
+    "ref": "还款六个月",
+    "write": "六"
+  },
+  {
+    "id": 489,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 490,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的六个月的",
+    "write": "六"
+  },
+  {
+    "id": 491,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 492,
+    "label_name": "loanperiod",
+    "ref": "期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 493,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 494,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 495,
+    "label_name": "loanperiod",
+    "ref": "本次申请的为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 496,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 497,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 498,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 499,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 500,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 501,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 502,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 503,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 504,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 505,
+    "label_name": "loanperiod",
+    "ref": "期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 506,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 507,
+    "label_name": "loanperiod",
+    "ref": "借款是六个月",
+    "write": "六"
+  },
+  {
+    "id": 508,
+    "label_name": "loanperiod",
+    "ref": "期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 509,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 510,
+    "label_name": "loanperiod",
+    "ref": "贷款是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 511,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 512,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 513,
+    "label_name": "loanperiod",
+    "ref": "贷款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 514,
+    "label_name": "loanperiod",
+    "ref": "是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 515,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 516,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 517,
+    "label_name": "loanperiod",
+    "ref": "期限为六个月",
+    "write": "六"
+  },
+  {
+    "id": 518,
+    "label_name": "loanperiod",
+    "ref": "借款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 519,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 520,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 521,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 522,
+    "label_name": "loanperiod",
+    "ref": "我申请的十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 523,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 524,
+    "label_name": "loanperiod",
+    "ref": "借款期限是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 525,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话是六个月",
+    "write": "六"
+  },
+  {
+    "id": 526,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 527,
+    "label_name": "loanperiod",
+    "ref": "还款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 528,
+    "label_name": "loanperiod",
+    "ref": "贷款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 529,
+    "label_name": "loanperiod",
+    "ref": "期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 530,
+    "label_name": "loanperiod",
+    "ref": "本次申请的是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 531,
+    "label_name": "loanperiod",
+    "ref": "贷款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 532,
+    "label_name": "loanperiod",
+    "ref": "六个月的",
+    "write": "六"
+  },
+  {
+    "id": 533,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 534,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 535,
+    "label_name": "loanperiod",
+    "ref": "为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 536,
+    "label_name": "loanperiod",
+    "ref": "还款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 537,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限的话为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 538,
+    "label_name": "loanperiod",
+    "ref": "贷款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 539,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 540,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 541,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 542,
+    "label_name": "loanperiod",
+    "ref": "我申请的借款期限的话十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 543,
+    "label_name": "loanperiod",
+    "ref": "借款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 544,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 545,
+    "label_name": "loanperiod",
+    "ref": "我申请的是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 546,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 547,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 548,
+    "label_name": "loanperiod",
+    "ref": "还款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 549,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 550,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话是六个月的",
+    "write": "六"
+  },
+  {
+    "id": 551,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款六个月",
+    "write": "六"
+  },
+  {
+    "id": 552,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款为六个月",
+    "write": "六"
+  },
+  {
+    "id": 553,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 554,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 555,
+    "label_name": "loanperiod",
+    "ref": "还款期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 556,
+    "label_name": "loanperiod",
+    "ref": "本次申请的为六个月的",
+    "write": "六"
+  },
+  {
+    "id": 557,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话是十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 558,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 559,
+    "label_name": "loanperiod",
+    "ref": "本次申请的期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 560,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款六个月的",
+    "write": "六"
+  },
+  {
+    "id": 561,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的六个月",
+    "write": "六"
+  },
+  {
+    "id": 562,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 563,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的还款为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 564,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的贷款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 565,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 566,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 567,
+    "label_name": "loanperiod",
+    "ref": "本次申请的贷款期限的话六个月的",
+    "write": "六"
+  },
+  {
+    "id": 568,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 569,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 570,
+    "label_name": "loanperiod",
+    "ref": "还款期限的话是十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 571,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 572,
+    "label_name": "loanperiod",
+    "ref": "本次申请的还款期限的话六个月",
+    "write": "六"
+  },
+  {
+    "id": 573,
+    "label_name": "loanperiod",
+    "ref": "我申请的还款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 574,
+    "label_name": "loanperiod",
+    "ref": "期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 575,
+    "label_name": "loanperiod",
+    "ref": "期限六个月",
+    "write": "六"
+  },
+  {
+    "id": 576,
+    "label_name": "loanperiod",
+    "ref": "本次申请的借款期限六个月的",
+    "write": "六"
+  },
+  {
+    "id": 577,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的为六个月",
+    "write": "六"
+  },
+  {
+    "id": 578,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的借款期限为十二个月的",
+    "write": "十二"
+  },
+  {
+    "id": 579,
+    "label_name": "loanperiod",
+    "ref": "我这次申请的期限的话为六个月",
+    "write": "六"
+  },
+  {
+    "id": 580,
+    "label_name": "loanperiod",
+    "ref": "贷款十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 581,
+    "label_name": "loanperiod",
+    "ref": "为六个月",
+    "write": "六"
+  },
+  {
+    "id": 582,
+    "label_name": "loanperiod",
+    "ref": "借款期限是六个月",
+    "write": "六"
+  },
+  {
+    "id": 583,
+    "label_name": "loanperiod",
+    "ref": "我申请的期限为十二个月",
+    "write": "十二"
+  },
+  {
+    "id": 584,
+    "label_name": "loanperiod",
+    "ref": "我申请的贷款期限为十二个月",
+    "write": "十二"
+  }
+]

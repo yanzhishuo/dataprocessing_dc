@@ -1,24 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/gendetailaddress/genaddressindetail.py" line="87" />
+    <bookmark url="file://$PROJECT_DIR$/genidcardauth/idcardauthority.py" line="60" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="af32ec71-80b7-4bdb-8879-5df14ad36f23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carbrand.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/confirm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idcard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/occupation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parse/draw.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queryasr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singlechoose.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validperiod.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vehicleemission.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.provincecc.xlsx#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/autodataprocessing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extractasr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/provincecc.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addlabel/addconfirmlabel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addlabel/chinese2num.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addlabel/labeladd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carbrand_soft.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/census0515/city_county.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/confirm_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extractasr2anafora.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genbank/genbank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencarbrand/carbrand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencarbrand/gencarbrand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/all_no_match.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/census0530.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/county.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/municipalities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/municipalities_county.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gencensus/taiwan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendata/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendata/inherit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/detailmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/genaddressdetail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/genaddressindetail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/group_pro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/pccmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gendetailaddress/roadmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genidcardauth/idcardauthority.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genintent/consult.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genuse/gencolor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genuse/genuseyzs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genxj/xj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handlexj.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ceshi.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/combine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deleteempty.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/provincecc.xlsx" afterPath="$PROJECT_DIR$/provincecc.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all_no_match.py" afterPath="$PROJECT_DIR$/all_no_match.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carbrand.py" afterPath="$PROJECT_DIR$/carbrand.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/city.py" afterPath="$PROJECT_DIR$/city.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/city_county.py" afterPath="$PROJECT_DIR$/city_county.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/county.py" afterPath="$PROJECT_DIR$/county.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genage.py" afterPath="$PROJECT_DIR$/genage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genbirth.py" afterPath="$PROJECT_DIR$/genbirth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gencarnum.py" afterPath="$PROJECT_DIR$/gencarnum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genpassword.py" afterPath="$PROJECT_DIR$/genpassword.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/num2chinese.py" afterPath="$PROJECT_DIR$/num2chinese.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse/main.py" afterPath="$PROJECT_DIR$/parse/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handle_asr0513.py" afterPath="$PROJECT_DIR$/handle_asr0513.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models.py" afterPath="$PROJECT_DIR$/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/occupation.py" afterPath="$PROJECT_DIR$/occupation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/province.py" afterPath="$PROJECT_DIR$/province.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/province_city.py" afterPath="$PROJECT_DIR$/province_city.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/province_city_county.py" afterPath="$PROJECT_DIR$/province_city_county.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/province_county.py" afterPath="$PROJECT_DIR$/province_county.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pyexcel.py" afterPath="$PROJECT_DIR$/pyexcel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quanjiao2banjiao.py" afterPath="$PROJECT_DIR$/quanjiao2banjiao.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/singlechoose.py" afterPath="$PROJECT_DIR$/singlechoose.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validperiod.py" afterPath="$PROJECT_DIR$/validperiod.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vehicleemission.py" afterPath="$PROJECT_DIR$/vehicleemission.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weight_choice.py" afterPath="$PROJECT_DIR$/weight_choice.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,22 +73,88 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="185">
-      <file leaf-file-name="singlechoose.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/singlechoose.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="refdeduplication.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataprocessing/refdeduplication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="genage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genage.py">
+      <file leaf-file-name="vehicleemission.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleemission.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+            <state relative-caret-position="648">
+              <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="combinejsonyzs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataprocessing/combinejsonyzs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gencolor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genuse/gencolor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inherit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gendata/inherit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1548">
+              <caret line="94" column="4" lean-forward="false" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shufflejson.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataprocessing/shufflejson.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gencarbrand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gencarbrand/gencarbrand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carbrand_soft.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carbrand_soft.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,34 +163,20 @@
       <file leaf-file-name="carbrand.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carbrand.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="299">
+              <caret line="88" column="64" lean-forward="false" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carbrand.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gencarbrand/carbrand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1062">
+              <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="confirm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/confirm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="handle_asr0513.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/handle_asr0513.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="159" column="20" lean-forward="true" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,68 +195,89 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="BuildoutCfg" />
+      <filtered-out-file-type name="CommandLine" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="PUML" />
+      <filtered-out-file-type name="Python" />
+      <filtered-out-file-type name="PythonRegExp" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="ReST" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YouTrack" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/anafora/name0415/case01482/case01482.Dialog.anafora.completed.xml" />
-        <option value="$PROJECT_DIR$/anafora/name0415/case01356/case01356.Dialog.anafora.completed.xml" />
-        <option value="$PROJECT_DIR$/parse.py" />
-        <option value="$PROJECT_DIR$/combine.py" />
-        <option value="$PROJECT_DIR$/ceshi.py" />
-        <option value="$PROJECT_DIR$/autodataprocessing.py" />
-        <option value="$PROJECT_DIR$/Qtype.py" />
-        <option value="$PROJECT_DIR$/genbirth0422.py" />
-        <option value="$PROJECT_DIR$/jsonyzs.py" />
-        <option value="$PROJECT_DIR$/gencarnum.py" />
-        <option value="$PROJECT_DIR$/listtojson.py" />
-        <option value="$PROJECT_DIR$/n2c.py" />
-        <option value="$PROJECT_DIR$/genname.py" />
-        <option value="$PROJECT_DIR$/pathfile.py" />
-        <option value="$PROJECT_DIR$/cutjson0425.py" />
-        <option value="$PROJECT_DIR$/pyexcel.py" />
-        <option value="$PROJECT_DIR$/genaddress.py" />
-        <option value="$PROJECT_DIR$/gencensus0423.py" />
-        <option value="$PROJECT_DIR$/classifyaddress.py" />
-        <option value="$PROJECT_DIR$/city.py" />
-        <option value="$PROJECT_DIR$/county.py" />
+        <option value="$PROJECT_DIR$/gencarbrand/gencarbrand.py" />
+        <option value="$PROJECT_DIR$/gencensus/census0530.py" />
+        <option value="$PROJECT_DIR$/province.py" />
         <option value="$PROJECT_DIR$/province_city.py" />
-        <option value="$PROJECT_DIR$/province_county.py" />
-        <option value="$PROJECT_DIR$/city_county.py" />
         <option value="$PROJECT_DIR$/province_city_county.py" />
+        <option value="$PROJECT_DIR$/province_county.py" />
+        <option value="$PROJECT_DIR$/city.py" />
+        <option value="$PROJECT_DIR$/city_county.py" />
+        <option value="$PROJECT_DIR$/county.py" />
         <option value="$PROJECT_DIR$/all_no_match.py" />
+        <option value="$PROJECT_DIR$/quanjiao2banjiao.py" />
+        <option value="$PROJECT_DIR$/weight_choice.py" />
+        <option value="$PROJECT_DIR$/gendetailaddress/group_pro.py" />
+        <option value="$PROJECT_DIR$/gendetailaddress/detailmatch.py" />
+        <option value="$PROJECT_DIR$/gendetailaddress/roadmatch.py" />
+        <option value="$PROJECT_DIR$/XJNER.json" />
+        <option value="$PROJECT_DIR$/handlexj.py" />
+        <option value="$PROJECT_DIR$/validperiod.py" />
+        <option value="$PROJECT_DIR$/addlabel/labeladd.py" />
+        <option value="$PROJECT_DIR$/confirm_simple.py" />
+        <option value="$PROJECT_DIR$/singlechoose.py" />
+        <option value="$PROJECT_DIR$/pyexcel.py" />
+        <option value="$PROJECT_DIR$/pathreduplication.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/py2txt.py" />
+        <option value="$PROJECT_DIR$/genpassword.py" />
+        <option value="$PROJECT_DIR$/gencarnum.py" />
+        <option value="$PROJECT_DIR$/gendetailaddress/pccmatch.py" />
+        <option value="$PROJECT_DIR$/gendetailaddress/genaddressdetail.py" />
+        <option value="$PROJECT_DIR$/genidcardauth/idcardauthority.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/audiofordaqi.py" />
+        <option value="$PROJECT_DIR$/extractasr2anafora.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/cuttraincarnum.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/addgloabalid.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/waitdelete.py" />
         <option value="$PROJECT_DIR$/genbirth.py" />
         <option value="$PROJECT_DIR$/genage.py" />
-        <option value="$PROJECT_DIR$/dataprocessing.py" />
-        <option value="$PROJECT_DIR$/extractasr.py" />
-        <option value="$PROJECT_DIR$/num2chinese.py" />
-        <option value="$PROJECT_DIR$/extractasr1.py" />
-        <option value="$PROJECT_DIR$/queryasr.py" />
-        <option value="$PROJECT_DIR$/models.py" />
-        <option value="$PROJECT_DIR$/parse/main.py" />
-        <option value="$PROJECT_DIR$/../dc_recorder/src/recorder_server/autodataprocessing.py" />
-        <option value="$PROJECT_DIR$/parseannotation.py" />
-        <option value="$PROJECT_DIR$/parse0507.py" />
-        <option value="$PROJECT_DIR$/deleteempty.py" />
-        <option value="$PROJECT_DIR$/vehicleemission.py" />
-        <option value="$PROJECT_DIR$/genpassword.py" />
+        <option value="$PROJECT_DIR$/genamount/loanamount.py" />
+        <option value="$PROJECT_DIR$/genbank/genbank.py" />
+        <option value="$PROJECT_DIR$/genintent/consult.py" />
+        <option value="$PROJECT_DIR$/gendata/inherit.py" />
+        <option value="$PROJECT_DIR$/combine.py" />
         <option value="$PROJECT_DIR$/occupation.py" />
-        <option value="$PROJECT_DIR$/weight_choice.py" />
-        <option value="$PROJECT_DIR$/validperiod.py" />
-        <option value="$PROJECT_DIR$/idcard.py" />
-        <option value="$PROJECT_DIR$/singlechoose.py" />
-        <option value="$PROJECT_DIR$/province.py" />
-        <option value="$PROJECT_DIR$/carbrand.py" />
-        <option value="$PROJECT_DIR$/quanjiao2banjiao.py" />
-        <option value="$PROJECT_DIR$/confirm.py" />
-        <option value="$PROJECT_DIR$/handle_asr0513.py" />
+        <option value="$PROJECT_DIR$/vehicleemission.py" />
+        <option value="$PROJECT_DIR$/refdeduplication.py" />
+        <option value="$PROJECT_DIR$/genuse/genuseyzs.py" />
+        <option value="$PROJECT_DIR$/combinejsonyzs.py" />
+        <option value="$PROJECT_DIR$/genuse/gencolor.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/combinejsonyzs.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/refdeduplication.py" />
+        <option value="$PROJECT_DIR$/dataprocessing/shufflejson.py" />
+        <option value="$PROJECT_DIR$/gencarbrand/carbrand.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="795" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="200" />
     <option name="y" value="24" />
-    <option name="width" value="1125" />
-    <option name="height" value="1056" />
+    <option name="width" value="1144" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -187,7 +304,62 @@
             <path>
               <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="parse" type="462c0819:PsiDirectoryNode" />
+              <item name="addlabel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="census0515" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="genamount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="genbank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="gencarbrand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="gencensus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="gendata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="gendetailaddress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="genidcardauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="genintent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataprocessing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="genuse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,15 +370,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataprocessing" />
+      <recent name="$PROJECT_DIR$/gencarbrand" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/gendetailaddress" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataprocessing" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/gencensus" />
+      <recent name="$PROJECT_DIR$/gencarbrand" />
+      <recent name="$PROJECT_DIR$/gendetailaddress" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,7 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.handle_asr0513">
+  <component name="RunManager" selected="Python.shufflejson">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +491,7 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="carbrand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="combinejsonyzs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -324,46 +503,46 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carbrand.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocessing/combinejsonyzs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="confirm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gencolor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/genuse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/confirm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genuse/gencolor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="handle_asr0513" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="genuseyzs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/genuse" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle_asr0513.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genuse/genuseyzs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="idcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="refdeduplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -375,42 +554,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/idcard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocessing/refdeduplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="singlechoose" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shufflejson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataprocessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="dataprocessing" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singlechoose.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataprocessing/shufflejson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.idcard" />
-      <item index="1" class="java.lang.String" itemvalue="Python.singlechoose" />
-      <item index="2" class="java.lang.String" itemvalue="Python.carbrand" />
-      <item index="3" class="java.lang.String" itemvalue="Python.handle_asr0513" />
-      <item index="4" class="java.lang.String" itemvalue="Python.confirm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.refdeduplication" />
+      <item index="1" class="java.lang.String" itemvalue="Python.shufflejson" />
+      <item index="2" class="java.lang.String" itemvalue="Python.genuseyzs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.combinejsonyzs" />
+      <item index="4" class="java.lang.String" itemvalue="Python.gencolor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.handle_asr0513" />
-        <item index="1" class="java.lang.String" itemvalue="Python.confirm" />
-        <item index="2" class="java.lang.String" itemvalue="Python.carbrand" />
-        <item index="3" class="java.lang.String" itemvalue="Python.singlechoose" />
-        <item index="4" class="java.lang.String" itemvalue="Python.idcard" />
+        <item index="0" class="java.lang.String" itemvalue="Python.shufflejson" />
+        <item index="1" class="java.lang.String" itemvalue="Python.refdeduplication" />
+        <item index="2" class="java.lang.String" itemvalue="Python.combinejsonyzs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.gencolor" />
+        <item index="4" class="java.lang.String" itemvalue="Python.genuseyzs" />
       </list>
     </recent_temporary>
   </component>
@@ -431,20 +610,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="24" width="1125" height="1056" extended-state="4" />
+    <frame x="200" y="24" width="1144" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1923077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12576687" sideWeight="0.50997305" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18" sideWeight="0.49002695" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28056425" sideWeight="0.49002695" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21155556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3968421" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -452,27 +630,29 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33622184" sideWeight="0.5058939" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12576687" sideWeight="0.50997305" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1820041" sideWeight="0.49410608" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20421052" sideWeight="0.49002695" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12884097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15435356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3968421" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -492,326 +672,370 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/county.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/city.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="137" column="24" lean-forward="false" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/city_county.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-666">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all_no_match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="109" column="64" lean-forward="true" selection-start-line="109" selection-start-column="64" selection-end-line="109" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/num2chinese.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="92" column="34" lean-forward="false" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryasr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.sqlite">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../dc_recorder/src/recorder_server/autodataprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="70" column="35" lean-forward="false" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse/draw.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00000/case00000.Dialog.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00001/case00001.Dialog.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00002/case00002" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00001/case00001" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00000/case00000" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00002/case00002.Dialog.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00000/case00000.census.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00001/case00001.census.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00053/case00053.census.anafora.completed.xml" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00052/case00052" />
-    <entry file="file://$PROJECT_DIR$/all_no_match/case00053/case00053" />
-    <entry file="file://$PROJECT_DIR$/parseannotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse0507.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="77" column="44" lean-forward="false" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqlite2json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="98" column="23" lean-forward="false" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genbirth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/occupation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weight_choice.py">
+    <entry file="file://$PROJECT_DIR$/pathcut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/idcard.py">
+    <entry file="file://$USER_HOME$/gendata/data_all/py2txt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/province.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/province_city.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1746">
-          <caret line="103" column="6" lean-forward="false" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyexcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="234">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extractasr1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="153" column="34" lean-forward="false" selection-start-line="153" selection-start-column="34" selection-end-line="153" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quanjiao2banjiao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleemission_gen_0508_2000.json">
+    <entry file="file://$PROJECT_DIR$/census0515/city_county.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genaddress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendetailaddress/detailmatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendetailaddress/pccmatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4587">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendetailaddress/genaddressindetail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendetailaddress/group_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendetailaddress/genaddressdetail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2952">
+          <caret line="177" column="32" lean-forward="false" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genidcardauth/idcardauthority.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genpassword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="44" column="15" lean-forward="true" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="612">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gendata/py2txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validperiod_gen_0508_2000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="499" column="2" lean-forward="false" selection-start-line="499" selection-start-column="2" selection-end-line="499" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confirm_gen_0513_1337.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanjiao2banjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extractasr2anafora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/py2txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jsonyzs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/n2c.py">
+    <entry file="file://$PROJECT_DIR$/extractasr1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#1" expanded="false" />
-          </folding>
+        <state relative-caret-position="2610">
+          <caret line="160" column="40" lean-forward="false" selection-start-line="160" selection-start-column="40" selection-end-line="160" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/py3env/lib/python3.5/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="537" column="0" lean-forward="false" selection-start-line="537" selection-start-column="0" selection-end-line="537" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/carnum_asr_0530_1000_chuan.json" />
+    <entry file="file://$PROJECT_DIR$/dataprocessing/audiofordaqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/cuttraincarnum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/addgloabalid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pathfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="e#22#36#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combine.py">
+    <entry file="file://$PROJECT_DIR$/gencarnum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deleteempty.py">
+    <entry file="file://$PROJECT_DIR$/dataprocessing/chuan.json" />
+    <entry file="file://$PROJECT_DIR$/dataprocessing/waitdelete.py" />
+    <entry file="file://$PROJECT_DIR$/genbank/genbank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="1044">
+          <caret line="58" column="37" lean-forward="false" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleemission.py">
+    <entry file="file://$PROJECT_DIR$/genintent/consult.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="684">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validperiod.py">
+    <entry file="file://$PROJECT_DIR$/genamount/loanamount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/singlechoose.py">
+    <entry file="file://$PROJECT_DIR$/occupation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1008">
+          <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        <state relative-caret-position="720">
+          <caret line="54" column="36" lean-forward="false" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genbirth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addlabel/addconfirmlabel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addlabel/labeladd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addlabel/chinese2num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genuse/genuseyzs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genuse/gencolor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/combinejsonyzs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="75" column="5" lean-forward="false" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleemission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendata/inherit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="94" column="4" lean-forward="false" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/refdeduplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataprocessing/shufflejson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carbrand_soft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carbrand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="88" column="64" lean-forward="false" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gencarbrand/gencarbrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gencarbrand/carbrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handle_asr0513.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="159" column="20" lean-forward="true" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
